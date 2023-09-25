@@ -6,15 +6,15 @@ from torch.utils.data import Dataset, DataLoader
 from transformers import BertTokenizer
 from json import loads
 from torch import cuda
+import warnings
+warnings.filterwarnings('ignore')
 
 device = 'cuda' if cuda.is_available() else 'cpu'
 
-TENFOLD_NO = 0
-MAX_LEN = 200
-TAGS_SELECTED = 10
+MAX_LEN = 512
 TRAIN_BATCH_SIZE = 8
-VALID_BATCH_SIZE = 8
-EPOCHS = 1
+TEST_BATCH_SIZE = 8
+EPOCHS = 3
 LEARNING_RATE = 1e-05
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
@@ -25,7 +25,7 @@ class CustomDataset(Dataset):
         self.data = dataframe
         self.item_ids = dataframe["item_id"]
         self.text = dataframe.txt
-        self.targets = dataframe.tag_scores
+        self.targets = dataframe.tag_score
         self.max_len = max_len
 
     def __len__(self):
@@ -61,7 +61,7 @@ class BERTClass(torch.nn.Module):
         super(BERTClass, self).__init__()
         self.bert = transformers.BertModel.from_pretrained('bert-base-uncased')
         self.dropout = torch.nn.Dropout(0.3)
-        self.linear = torch.nn.Linear(768, TAGS_SELECTED)
+        self.linear = torch.nn.Linear(768, 1)
         self.sigmoid = torch.nn.Sigmoid()
     
     def forward(self, ids, mask, token_type_ids):
@@ -70,14 +70,6 @@ class BERTClass(torch.nn.Module):
         output = self.linear(output_2)
         output = self.sigmoid(output)
         return output
-
-model = BERTClass()
-model.to(device)
-
-def loss_fn(outputs, targets, weights):
-    return torch.nn.BCELoss(weight=weights)(outputs, targets)
-
-optimizer = torch.optim.AdamW(params =  model.parameters(), lr=LEARNING_RATE)
 
 def train(epoch):
     epoch_loss = 0
@@ -89,22 +81,15 @@ def train(epoch):
         targets = data['targets'].to(device, dtype = torch.float)
         outputs = model(ids, mask, token_type_ids).to(device, dtype= torch.float)
         optimizer.zero_grad() 
-        loss = loss_fn(outputs, targets, weights)
+        loss = loss_fn(outputs, targets)
         epoch_loss += loss
-        if batch%100==0:
+        if batch%50==0:
             print(f'Batch: {batch}, Loss:  {loss.item()}')
         loss.backward()
         optimizer.step()
     print(f'Epoch: {epoch}: Train loss: {epoch_loss / len(training_loader)}')
 
-data = pd.read_csv(f'sampled_reviews_with_scores_{TAGS_SELECTED}.csv')
-print(data.shape)
-
-data.tag_scores = data.tag_scores.map(loads).map(lambda r: np.array(r))
-with open(f'tenfold_ids_{TAGS_SELECTED}.json') as file:
-    item_ids = loads(file.read())
-
-def test():
+def test(tag_no, ending):
     model.eval()
     with torch.no_grad():
         output_df = pd.DataFrame(columns=['item_id', 'predictions'])
@@ -115,34 +100,46 @@ def test():
             outputs = model(ids, mask, token_type_ids).to(device, dtype = torch.float)
             batch_df = pd.DataFrame({'item_id': data['item_ids'].tolist(), 'predictions': outputs.tolist()})
             output_df = pd.concat([output_df, batch_df])
-        output_df.to_csv(f'predictions_tenfold_{TENFOLD_NO}_{TAGS_SELECTED}_tags.csv', index=False)
+        output_df.to_csv(f'predictions/predictions_tagno_{tag_no}_tagid_{ending}', index=False)
 
+with open ("review_list.txt", "r") as file:
+    review_list = file.read().split("\n")[:-1]
 
-train_dataset=data[~data["item_id"].isin(item_ids[TENFOLD_NO])]
-test_dataset=data[data["item_id"].isin(item_ids[TENFOLD_NO])]
-train_dataset = train_dataset.reset_index(drop=True)
-test_dataset = test_dataset.reset_index(drop=True)
+for i in range(len(review_list)):
+    print(i)
+    test_file = review_list[i]
+    train_file = test_file.replace("test", "train")
+    tag_no = test_file.split("_")[4]
+    ending = test_file.split("_")[6]
+    print(test_file)
 
-training_set = CustomDataset(train_dataset, tokenizer, MAX_LEN)
-testing_set = CustomDataset(test_dataset, tokenizer, MAX_LEN)
+    test_data = pd.read_csv(f"reviews/{test_file}")
+    test_data.tag_score = test_data.tag_score.map(lambda r: np.array([r]))
+    print("test shape:", test_data.shape)
+    train_data = pd.read_csv(f"reviews/{train_file}")
+    train_data.tag_score = train_data.tag_score.map(lambda r: np.array([r]))
+    print("train shape:", train_data.shape)
 
-train_params = {'batch_size': TRAIN_BATCH_SIZE,
-            'shuffle': True,
-            }
+    training_set = CustomDataset(train_data, tokenizer, MAX_LEN)
+    testing_set = CustomDataset(test_data, tokenizer, MAX_LEN)
 
-test_params = {'batch_size': VALID_BATCH_SIZE,
-            'shuffle': False,
-            }
+    train_params = {'batch_size': TRAIN_BATCH_SIZE,
+                    'shuffle': True,
+                }
 
-testing_loader = DataLoader(testing_set, **test_params)
-training_loader = DataLoader(training_set, **train_params)
+    test_params = {'batch_size': TEST_BATCH_SIZE,
+                    'shuffle': False,
+                }
 
-total_labels = np.sum(training_loader.dataset.targets, axis=0) + np.sum(testing_loader.dataset.targets, axis=0)
-weights = torch.Tensor(total_labels / np.sum(total_labels)).to(device, dtype = torch.float)
+    testing_loader = DataLoader(testing_set, **test_params)
+    training_loader = DataLoader(training_set, **train_params)
 
-print(f'Tenfold no: {TENFOLD_NO}')
-for epoch in range(EPOCHS):
-    train(epoch)
-test()  
-      
+    model = BERTClass()
+    model.to(device)
+    loss_fn = torch.nn.L1Loss()
+    optimizer = torch.optim.AdamW(params =  model.parameters(), lr=LEARNING_RATE)
+
+    for epoch in range(EPOCHS):
+        train(epoch)
+    test(tag_no, ending)
 
