@@ -26,12 +26,8 @@ def create_item_tag_scores_predictions(prediction_file, tags):
     item_ids = prediction_df['item_id'].unique().tolist()
     for item_id in item_ids:
         predictions_per_item = prediction_df[prediction_df['item_id'] == item_id].predictions
-        predictions_array = np.array(json.loads(predictions_per_item.iloc[0]))
-        for i in range(1, predictions_per_item.shape[0]):
-            predictions_array = np.vstack((predictions_array, np.array(json.loads(predictions_per_item.iloc[i]))))
-        if predictions_array.ndim == 2:
-            predictions_array = np.mean(predictions_array, axis=0)  
-        item_tag_prediction_df = item_tag_prediction_df.append({'item_id': item_id, 'tag_id': tag_id, 'tag': tag, 'predictions': predictions_array.item()}, ignore_index=True)
+        mean_prediction = np.mean(list(map(lambda x: json.loads(x)[0], predictions_per_item.to_list())))   
+        item_tag_prediction_df = item_tag_prediction_df.append({'item_id': item_id, 'tag_id': tag_id, 'tag': tag, 'predictions': mean_prediction}, ignore_index=True)
     return item_tag_prediction_df     
 
 def make_predictions_for_tenfolds(combined_prediction_df, tenfold):
@@ -58,7 +54,6 @@ def make_combined_prediction_df():
         item_tag_predictions = create_item_tag_scores_predictions(prediction_file, tags)
         combined_prediction_df = pd.concat([combined_prediction_df, item_tag_predictions], ignore_index=True)
         combined_prediction_df["item_id"].astype('Int64')
-
     combined_prediction_df.to_csv("processed_data/merged_predictions/merged_predictions.csv", index=False)
 
 if not PREDICTION_DF_EXISTS:
