@@ -1,0 +1,5117 @@
+tag,item_id,tag_id,predictions
+007,2990,93581,5.0
+007,58291,93581,1.0
+007,52885,93581,1.0
+007,6581,93581,1.21
+007,5507,93581,1.77
+007,5495,93581,1.59
+007,4234,93581,1.11
+007,2804,93581,1.0
+007,533,93581,1.01
+007 (series),2990,95822,4.58
+18th century,595,81544,4.03
+18th century,1411,81544,4.19
+1920s,7934,7568,1.05
+1920s,926,7568,1.05
+1930s,8361,72466,1.77
+1960s,34359,46682,4.8
+1960s,1247,46682,2.42
+1960s,1304,46682,1.05
+1960s,272,46682,1.03
+1960s,1,46682,1.12
+1970s,3269,58495,2.37
+1980s,55820,98702,1.01
+1980s,8591,98702,3.41
+1980s,2918,98702,2.99
+1980s,2915,98702,3.21
+1980s,2406,98702,3.94
+1980s,1297,98702,4.89
+1980s,5456,98702,1.01
+1980s,4306,98702,1.29
+19th century,3617,6846,1.26
+19th century,2539,6846,1.16
+19th century,253,6846,1.2
+3d,1,86963,3.16
+3d,1,86963,3.16
+3d,67295,86963,1.38
+3d,5378,86963,1.48
+3d,4886,86963,2.58
+3d,4344,86963,1.48
+3d,589,86963,1.95
+3d,551,86963,3.34
+3d,551,86963,3.34
+80s,30707,74255,1.02
+80s,8376,74255,1.51
+80s,2628,74255,1.02
+80s,2371,74255,4.98
+80s,2193,74255,1.02
+9/11,59018,108192,1.03
+aardman,1080,22,1.0
+aardman,296,22,1.0
+abortion,8017,93675,1.15
+abortion,3148,93675,3.31
+abortion,5818,93675,4.72
+action,67923,42940,3.7
+action,32587,42940,4.58
+action,8665,42940,5.0
+action,8644,42940,4.31
+action,8636,42940,3.92
+action,4085,42940,3.2
+action,3578,42940,4.08
+action,1722,42940,5.0
+action,1690,42940,4.99
+action,1625,42940,3.85
+action,1320,42940,4.99
+action,1197,42940,2.12
+action,1089,42940,3.74
+action,858,42940,2.57
+action,780,42940,3.53
+action,589,42940,4.94
+action,480,42940,4.17
+action,185,42940,3.22
+action,110,42940,3.76
+action,1,42940,1.8
+action,67508,42940,2.68
+action,63853,42940,2.56
+action,62439,42940,1.84
+action,44199,42940,4.02
+action,41569,42940,4.23
+action,41569,42940,4.23
+action,7841,42940,2.62
+action,7743,42940,1.16
+action,5808,42940,1.93
+action,4643,42940,3.02
+action,3985,42940,3.59
+action,2912,42940,3.68
+action,2268,42940,1.42
+action,2003,42940,3.07
+action,1556,42940,4.04
+action,1476,42940,1.01
+action,1372,42940,4.63
+action,1288,42940,1.27
+action,1243,42940,1.78
+action,1213,42940,3.02
+action,1206,42940,2.01
+action,1127,42940,2.91
+action,903,42940,1.73
+action,608,42940,2.12
+action,198,42940,3.82
+action,172,42940,2.96
+action,161,42940,4.12
+action packed,56757,36726,1.88
+action packed,49272,36726,4.86
+action packed,2167,36726,4.98
+action packed,2002,36726,4.98
+adaptation,27721,62722,2.1
+adapted from:book,45720,60807,5.0
+adapted from:book,2067,60807,5.0
+adapted from:book,7771,60807,5.0
+adapted from:book,5128,60807,5.0
+adapted from:book,1259,60807,5.0
+adapted from:book,19,60807,5.0
+adapted from:comic,36,3288,1.01
+adapted from:game,2109,13576,1.03
+addiction,60941,59359,2.5
+addiction,57669,59359,1.41
+addiction,7285,59359,3.94
+addiction,3825,59359,2.8
+adolescence,2706,43635,4.92
+adolescence,49961,43635,4.97
+adolescence,4963,43635,1.89
+adoption,2707,58219,1.54
+adoption,1682,58219,3.7
+adultery,41285,105098,3.31
+adultery,1485,105098,1.94
+adultery,1247,105098,4.08
+adultery,1247,105098,4.08
+adultery,3070,105098,1.27
+adultery,1947,105098,2.42
+adultery,494,105098,2.9
+adventure,7153,37116,4.92
+adventure,7153,37116,4.92
+adventure,5971,37116,3.92
+adventure,5952,37116,4.99
+adventure,5349,37116,4.99
+adventure,2628,37116,4.0
+adventure,1197,37116,4.7
+adventure,60948,37116,2.13
+adventure,6156,37116,4.28
+adventure,4874,37116,1.94
+adventure,4718,37116,2.28
+adventure,3168,37116,3.28
+adventure,2028,37116,2.45
+adventure,1968,37116,1.02
+adventure,1278,37116,2.32
+adventure,1245,37116,1.12
+adventure,1127,37116,2.66
+adventure,858,37116,1.53
+adventure,377,37116,3.71
+adventure,316,37116,4.99
+adventure,205,37116,1.78
+afi 100,4638,78620,1.04
+africa,49530,4039,4.31
+africa,48738,4039,4.45
+africa,48738,4039,4.45
+africa,48738,4039,4.45
+africa,2150,4039,4.31
+africa,364,4039,3.6
+africa,19,4039,2.32
+africa,26350,4039,3.08
+africa,6541,4039,1.02
+africa,6299,4039,2.0
+africa,5669,4039,1.01
+africa,4130,4039,1.01
+africa,2352,4039,1.01
+africa,590,4039,1.24
+africa,185,4039,1.01
+afterlife,53125,1739,2.88
+aids,5992,107820,4.07
+aids,508,107820,4.5
+aids,457,107820,1.1
+airplane,3478,108266,1.72
+airport,8529,68029,2.91
+alaska,5388,17605,1.01
+alaska,3629,17605,1.01
+alaska,1615,17605,1.01
+alaska,4571,17605,1.01
+alaska,1079,17605,1.01
+alaska,6,17605,1.01
+alcatraz,45499,29853,2.52
+alcatraz,8340,29853,4.68
+alcatraz,73321,29853,2.52
+alcatraz,504,29853,1.04
+alcoholism,3534,28488,2.98
+alcoholism,1051,28488,4.36
+alcoholism,290,28488,4.31
+alcoholism,5477,28488,1.97
+alcoholism,1240,28488,1.2
+alcoholism,1238,28488,1.84
+alcoholism,1020,28488,1.77
+alien,1097,52206,4.71
+alien,780,52206,4.43
+alien,49347,52206,1.51
+alien,34048,52206,4.97
+alien,3864,52206,3.78
+alien invasion,780,24897,4.07
+alien invasion,780,24897,4.07
+alien invasion,8644,24897,2.36
+alien invasion,4874,24897,3.03
+alien invasion,3699,24897,3.64
+alien invasion,2729,24897,1.01
+alien invasion,1580,24897,3.61
+alien invasion,1527,24897,2.08
+alien invasion,1527,24897,2.08
+alien invasion,1136,24897,1.01
+alien invasion,6,24897,1.01
+aliens,59615,34379,2.49
+aliens,5444,34379,2.27
+aliens,3527,34379,3.74
+aliens,2641,34379,2.49
+aliens,2628,34379,3.72
+aliens,2450,34379,4.46
+aliens,1748,34379,3.65
+aliens,1748,34379,3.65
+aliens,1676,34379,4.09
+aliens,1374,34379,3.78
+aliens,1196,34379,3.72
+aliens,1009,34379,4.03
+aliens,260,34379,3.74
+aliens,49272,34379,1.0
+aliens,48997,34379,1.4
+aliens,33649,34379,1.0
+aliens,33171,34379,4.33
+aliens,7445,34379,1.0
+aliens,6658,34379,1.0
+aliens,3994,34379,1.0
+aliens,3098,34379,1.0
+aliens,3033,34379,4.36
+aliens,2770,34379,1.0
+aliens,2080,34379,1.0
+aliens,1882,34379,2.51
+aliens,1760,34379,1.0
+aliens,1240,34379,4.35
+almodovar,26599,33012,4.98
+almodovar,8973,33012,4.98
+almodovar,5878,33012,4.32
+almodovar,47894,33012,1.02
+almodovar,3676,33012,1.59
+alone in the world,41566,30761,1.93
+alter ego,60040,41546,4.92
+alter ego,8368,41546,4.8
+alternate endings,2701,44827,1.25
+alternate history,70286,106130,2.34
+alternate history,60684,106130,3.16
+alternate history,71057,106130,1.64
+alternate history,56171,106130,2.59
+alternate history,44191,106130,3.6
+alternate history,3034,106130,1.02
+alternate history,2717,106130,2.95
+alternate history,2406,106130,2.06
+alternate history,780,106130,2.58
+alternate history,316,106130,3.85
+alternate reality,6934,27521,3.92
+alternate reality,1682,27521,2.49
+alternate reality,44191,27521,3.71
+alternate reality,8910,27521,4.29
+alternate reality,6942,27521,1.04
+alternate reality,4643,27521,4.71
+alternate reality,2987,27521,3.89
+alternate reality,1476,27521,3.12
+alternate reality,231,27521,1.04
+alternate reality,50,27521,2.36
+alternate universe,45499,50220,3.1
+amazing cinematography,8873,15418,3.97
+amazing cinematography,6807,15418,1.13
+amazing cinematography,5254,15418,2.06
+amazing cinematography,2571,15418,2.57
+amazing cinematography,34,15418,4.03
+american civil war,6665,93478,1.02
+american civil war,5956,93478,3.07
+american civil war,5956,93478,3.07
+amy smart,58490,29358,1.41
+android(s)/cyborg(s),1278,20052,1.1
+androids,1240,6289,4.83
+androids,541,6289,4.33
+androids,1301,6289,1.32
+animal movie,1009,92558,1.02
+animal movie,346,92558,1.02
+animals,1333,14267,4.0
+animals,46972,14267,4.38
+animals,44191,14267,1.03
+animals,2857,14267,1.02
+animated,5218,34442,4.36
+animated,1032,34442,4.99
+animated,51575,34442,2.29
+animated,5468,34442,1.0
+animated,4368,34442,1.98
+animated,1367,34442,1.15
+animated,1270,34442,1.01
+animation,62999,20919,5.0
+animation,61160,20919,4.95
+animation,60487,20919,5.0
+animation,55442,20919,5.0
+animation,45517,20919,4.96
+animation,31658,20919,5.0
+animation,3751,20919,3.88
+animation,3114,20919,4.33
+animation,2700,20919,3.76
+animation,2355,20919,4.35
+animation,2105,20919,3.72
+animation,2018,20919,5.0
+animation,1405,20919,4.29
+animation,1282,20919,4.36
+animation,1028,20919,3.0
+animation,53993,20919,1.03
+animation,48516,20919,1.03
+animation,37386,20919,2.3
+animation,34542,20919,1.0
+animation,7064,20919,4.87
+animation,6934,20919,1.0
+animation,6874,20919,1.0
+animation,5421,20919,1.0
+animation,4128,20919,1.53
+animation,3798,20919,1.0
+animation,3402,20919,1.01
+animation,1911,20919,1.51
+animation,1580,20919,1.07
+animation,1380,20919,1.0
+anime,31660,89954,4.66
+anime,7099,89954,4.33
+anime,7099,89954,4.33
+anime,6350,89954,4.82
+anime,5618,89954,3.34
+anime,2294,89954,2.83
+anime,2294,89954,2.83
+anime,1274,89954,4.97
+anime,68954,89954,1.33
+anime,66097,89954,1.53
+anime,8965,89954,2.22
+anime,6773,89954,2.54
+anime,6536,89954,4.33
+anime,3316,89954,1.35
+anime,2428,89954,1.01
+anime,2395,89954,1.0
+anime,1293,89954,1.0
+anime,1148,89954,2.84
+anime,1028,89954,4.31
+anime,153,89954,1.01
+antarctica,1188,71445,1.95
+anti-hero,1201,43244,1.54
+anti-hero,32587,43244,4.07
+anti-war,2890,84296,2.76
+anti-war,1089,84296,1.24
+apocalypse,8361,76323,4.83
+apocalypse,6934,76323,4.15
+apocalypse,3703,76323,4.81
+apocalypse,968,76323,4.47
+apocalypse,780,76323,4.39
+apocalypse,44191,76323,2.66
+apocalypse,4901,76323,1.02
+apocalypse,2006,76323,1.41
+apocalypse,1474,76323,1.22
+apocalypse,357,76323,1.01
+apocalypse,293,76323,1.27
+archaeology,2115,34624,1.01
+archaeology,5944,34624,1.0
+argentina,8873,12389,4.86
+argentina,3816,12389,4.92
+argentina,2745,12389,2.62
+argentina,32392,12389,1.05
+argentina,1619,12389,1.36
+arms dealer,59315,101945,3.45
+art,2686,23092,4.77
+art house,8477,57681,4.86
+artificial intelligence,2571,38317,2.86
+artificial intelligence,1240,38317,3.69
+artificial intelligence,589,38317,3.36
+artificial intelligence,67197,38317,1.52
+artificial intelligence,63859,38317,1.52
+artificial intelligence,3764,38317,1.57
+artist,537,100438,4.8
+artistic,32587,74768,3.12
+artistic,7003,74768,1.9
+artistic,1282,74768,4.19
+artistic,55232,74768,1.04
+artistic,44555,74768,2.01
+artistic,34162,74768,2.14
+artistic,8784,74768,2.82
+artistic,7256,74768,1.91
+artistic,6534,74768,1.06
+artistic,4886,74768,1.28
+artistic,4306,74768,2.02
+artistic,2912,74768,1.6
+artistic,1225,74768,4.05
+artistic,1196,74768,3.41
+assassin,57669,59877,4.74
+assassin,49272,59877,4.03
+assassin,5418,59877,4.61
+assassin,5418,59877,4.61
+assassin,3635,59877,3.16
+assassin,474,59877,4.71
+assassin,55253,59877,3.51
+assassin,4835,59877,1.03
+assassin,4816,59877,2.54
+assassin,3868,59877,1.06
+assassin,3504,59877,1.03
+assassin,1262,59877,1.5
+assassin,903,59877,1.7
+assassination,1956,27671,1.09
+assassination,1245,27671,4.97
+astronauts,8908,38822,1.31
+atheism,59126,40895,4.52
+atheism,1997,40895,3.12
+atheism,1584,40895,2.25
+atmospheric,54259,7923,4.43
+atmospheric,5952,7923,3.94
+atmospheric,3727,7923,1.16
+atmospheric,3424,7923,2.06
+atmospheric,3355,7923,3.56
+atmospheric,2959,7923,4.32
+atmospheric,1682,7923,3.53
+atmospheric,1276,7923,1.01
+atmospheric,1214,7923,2.7
+atmospheric,60684,7923,1.65
+atmospheric,51255,7923,2.03
+atmospheric,8965,7923,4.73
+atmospheric,6874,7923,1.98
+atmospheric,5459,7923,1.11
+atmospheric,4103,7923,2.91
+atmospheric,4014,7923,4.83
+atmospheric,2858,7923,2.89
+atmospheric,2797,7923,2.39
+atmospheric,1270,7923,1.26
+atmospheric,1049,7923,3.8
+atmospheric,944,7923,3.92
+atmospheric,926,7923,3.8
+atmospheric,648,7923,2.04
+australia,4225,89434,4.94
+australia,1188,89434,4.96
+australia,54259,89434,1.43
+australia,8874,89434,1.03
+australia,3740,89434,1.02
+australia,3264,89434,1.13
+australia,3246,89434,1.02
+australia,3081,89434,1.11
+australia,356,89434,1.02
+australian,4254,53329,3.8
+australian,2618,53329,2.08
+australian,2470,53329,4.99
+australian,61132,53329,1.98
+australian,8961,53329,1.01
+australian,3633,53329,1.02
+australian,2801,53329,3.7
+author:alan moore,44191,32351,1.02
+author:neil gaiman,54259,32166,1.0
+author:neil gaiman,26662,32166,1.0
+autism,1833,55412,4.15
+autism,45210,55412,1.04
+autism,5872,55412,1.02
+autism,5015,55412,1.02
+autism,5014,55412,4.03
+autism,1185,55412,1.19
+autism,1185,55412,1.19
+aviation,48516,3809,1.01
+aviation,5477,3809,1.01
+awesome,48516,59201,1.07
+awesome,367,59201,1.73
+awesome,45499,59201,1.02
+awesome,5378,59201,1.76
+awesome,1089,59201,3.83
+awesome,919,59201,1.98
+awesome,919,59201,1.98
+awesome,475,59201,1.31
+awesome soundtrack,2542,75141,3.92
+awesome soundtrack,1214,75141,2.38
+bad acting,5507,59447,1.05
+bad acting,60037,59447,3.07
+bad acting,55765,59447,1.34
+bad acting,7175,59447,4.71
+bad acting,2300,59447,2.88
+bad acting,173,59447,4.18
+bad cgi,736,109660,4.05
+bad plot,2273,52210,1.26
+bad science,480,102785,4.34
+bad science,34150,102785,3.76
+bad science,8371,102785,2.11
+bad science,3770,102785,2.57
+bad science,1391,102785,1.22
+bad science,435,102785,1.04
+bad science,316,102785,4.36
+bad script,2135,23407,1.75
+bad script,1265,23407,1.39
+bad sequel,432,86223,1.02
+ballet,3594,15686,4.52
+ballet,6333,15686,1.01
+ballet,2096,15686,1.46
+ballet,2096,15686,1.46
+bank robbery,44199,30473,4.86
+bank robbery,44199,30473,4.86
+bank robbery,44199,30473,4.86
+bank robbery,208,30473,1.03
+baseball,3255,53615,4.33
+baseball,3255,53615,4.33
+baseball,1302,53615,5.0
+baseball,354,53615,5.0
+baseball,7033,53615,1.0
+baseball,6188,53615,1.0
+baseball,3506,53615,1.8
+baseball,1104,53615,1.0
+baseball,104,53615,1.0
+based on a book,49272,21285,3.15
+based on a book,7147,21285,5.0
+based on a book,4642,21285,2.12
+based on a book,2898,21285,4.99
+based on a book,1258,21285,5.0
+based on a book,1247,21285,2.02
+based on a book,1073,21285,4.99
+based on a book,1073,21285,4.99
+based on a book,924,21285,1.81
+based on a book,919,21285,4.89
+based on a book,318,21285,4.04
+based on a book,6874,21285,1.17
+based on a book,5015,21285,5.0
+based on a book,3794,21285,1.99
+based on a book,2951,21285,1.78
+based on a book,2502,21285,1.68
+based on a book,1541,21285,2.59
+based on a book,126,21285,4.33
+based on a comic,6333,39222,4.98
+based on a comic,8636,39222,4.99
+based on a play,8970,91212,2.01
+based on a true story,48738,63379,4.14
+based on a true story,150,63379,4.52
+based on a true story,150,63379,4.52
+based on a true story,150,63379,4.52
+based on a true story,31410,63379,4.88
+based on a true story,5816,63379,1.01
+based on a true story,3430,63379,1.88
+based on a true story,2918,63379,1.01
+based on a true story,1243,63379,1.01
+based on a true story,858,63379,1.05
+based on a true story,580,63379,1.01
+based on a tv show,60126,107419,4.95
+based on a tv show,53996,107419,2.7
+based on a tv show,34405,107419,4.91
+based on a tv show,5419,107419,4.43
+based on a tv show,648,107419,1.94
+based on a tv show,435,107419,4.96
+based on a tv show,7361,107419,1.01
+based on a tv show,6954,107419,1.02
+based on a tv show,4141,107419,1.01
+based on a tv show,4006,107419,4.93
+based on a tv show,2807,107419,1.01
+based on a tv show,1682,107419,1.01
+based on a tv show,1682,107419,1.01
+based on a video game,62394,61729,4.97
+based on a video game,4369,61729,1.05
+based on a video game,2382,61729,1.04
+based on book,1242,79034,4.91
+based on book,1873,79034,4.97
+based on comic,68954,99690,1.02
+based on comic,8981,99690,1.01
+based on comic,3039,99690,1.01
+based on comic,1377,99690,4.8
+based on comic,1250,99690,1.01
+based on comic,14,99690,1.01
+based on true story,3408,49011,4.91
+based on true story,8622,49011,4.86
+basketball,5443,37579,4.71
+basketball,6537,37579,1.01
+basketball,4489,37579,1.01
+batman,58559,104313,4.33
+batman,54286,104313,1.0
+batman,8711,104313,1.0
+batman,2805,104313,1.0
+batman,2390,104313,1.0
+batman,353,104313,1.0
+beatles,54190,55868,4.99
+beatles,2857,55868,4.04
+beatles,2857,55868,4.04
+beatles,346,55868,4.97
+beatles,60760,55868,1.0
+beatles,59590,55868,2.16
+beatles,8587,55868,1.49
+beatles,6005,55868,1.0
+beatles,1931,55868,1.0
+beatles,1614,55868,1.0
+beatles,1321,55868,1.0
+beatles,899,55868,1.09
+beautiful,3996,14414,4.58
+beautiful,26614,14414,1.01
+beautiful,6789,14414,2.94
+beautiful,6213,14414,3.09
+beautiful,1296,14414,2.16
+beautiful scenery,2125,106238,2.62
+beautiful scenery,1809,106238,3.89
+beautiful scenery,11,106238,1.61
+beautifully filmed,55830,28010,2.18
+beautifully filmed,2791,28010,2.3
+beautifully filmed,1077,28010,2.43
+beauty pageant,4627,104774,1.36
+beauty pageant,6331,104774,1.92
+beauty pageant,5134,104774,1.05
+beauty pageant,1644,104774,1.71
+beauty pageant,282,104774,1.05
+berlin,8665,40988,4.12
+best war films,110,25733,4.68
+betrayal,5464,17950,4.65
+betrayal,1221,17950,4.66
+betrayal,1274,17950,4.21
+better than expected,59315,50866,4.27
+better than expected,8961,50866,4.32
+better than expected,327,50866,1.18
+big budget,8633,37183,1.76
+big budget,2949,37183,1.95
+big budget,1219,37183,1.49
+biographical,356,82383,4.24
+biographical,45106,82383,1.57
+biographical,2858,82383,2.94
+biography,47099,101162,4.72
+biography,33660,101162,1.29
+biography,110,101162,4.1
+birds,5679,81042,1.19
+birds,3396,81042,2.69
+biting,5747,28964,2.92
+biting,1136,28964,1.06
+bittersweet,7361,75548,3.3
+bittersweet,7361,75548,3.3
+bittersweet,7361,75548,3.3
+bittersweet,6796,75548,1.68
+bittersweet,4973,75548,4.77
+bittersweet,3746,75548,4.19
+bittersweet,1230,75548,4.61
+bittersweet,736,75548,1.01
+black and white,4226,34942,1.21
+black and white,1203,34942,3.77
+black and white,65465,34942,1.0
+black and white,60397,34942,1.01
+black and white,56885,34942,2.28
+black and white,6988,34942,4.95
+black and white,6874,34942,3.19
+black and white,6874,34942,3.19
+black and white,4848,34942,1.02
+black and white,2997,34942,1.29
+black and white,1232,34942,4.8
+black and white,934,34942,4.95
+black and white,930,34942,4.99
+black and white,356,34942,1.98
+black comedy,71464,78475,3.19
+black comedy,5902,78475,2.27
+black comedy,2959,78475,2.02
+black comedy,2959,78475,2.02
+black comedy,2318,78475,2.57
+black comedy,1732,78475,2.95
+black comedy,608,78475,3.41
+black comedy,410,78475,3.93
+black comedy,296,78475,3.57
+black comedy,69122,78475,1.01
+black comedy,60037,78475,1.9
+black comedy,6380,78475,3.89
+black comedy,4571,78475,1.02
+black comedy,1682,78475,1.0
+black comedy,1635,78475,1.34
+black comedy,1391,78475,2.58
+black comedy,1212,78475,1.33
+black comedy,50,78475,1.63
+bleak,3949,30859,4.79
+bleak,913,30859,3.31
+bleak,904,30859,1.36
+blindness,3252,52445,3.43
+blindness,8985,52445,2.02
+blindness,1627,52445,1.11
+blood,858,70158,4.14
+blood,296,70158,4.39
+blood,69844,70158,2.94
+blood,53519,70158,3.08
+blood,5244,70158,4.51
+blood,3198,70158,2.42
+bloody,3753,91122,4.93
+bloody,2333,91122,1.15
+boarding school,54001,5137,3.46
+boarding school,3252,5137,1.02
+boarding school,1246,5137,4.16
+boarding school,8784,5137,1.02
+boarding school,5667,5137,2.77
+boarding school,2,5137,1.02
+boat,5504,2960,1.12
+bollywood,7444,101432,2.85
+bollywood,541,101432,1.04
+bombs,8493,63880,2.8
+bombs,377,63880,4.6
+bond,49272,2023,4.99
+bond,3082,2023,4.87
+bond,41716,2023,2.44
+bond,41716,2023,2.44
+bond,7367,2023,1.02
+bond,720,2023,1.01
+bond,273,2023,2.85
+bond,145,2023,1.14
+boring,56174,58352,1.0
+boring,55269,58352,2.03
+boring,48774,58352,1.12
+boring,41566,58352,2.91
+boring,7460,58352,1.99
+boring,6365,58352,1.02
+boring,6365,58352,1.02
+boring,5378,58352,1.81
+boring,4148,58352,3.65
+boring,2959,58352,1.14
+boring,2657,58352,1.05
+boring,2571,58352,1.15
+boring,1212,58352,1.19
+boring,32,58352,1.0
+boring,64622,58352,2.04
+boring,60760,58352,1.0
+boring,4487,58352,1.9
+boring,2871,58352,1.13
+boring,1831,58352,1.19
+boring,1388,58352,2.85
+boring,1348,58352,2.09
+boring,1204,58352,3.14
+boring,588,58352,1.28
+boring,296,58352,1.42
+boring!,48780,75512,1.06
+boring!,1176,75512,1.1
+boston,1704,12780,2.81
+bowling,1732,99503,2.84
+bowling,56782,99503,1.94
+bowling,344,99503,1.18
+boxing,30707,85885,3.72
+boxing,8132,85885,2.01
+boxing,31685,85885,1.07
+boxing,25763,85885,1.03
+boxing,7210,85885,1.83
+boxing,1396,85885,1.25
+brainwashing,1267,100448,4.12
+brazil,6869,31468,4.29
+brazil,6016,31468,4.99
+brazil,32,31468,1.01
+breathtaking,4865,87409,3.17
+breathtaking,3578,87409,3.01
+breathtaking,1084,87409,3.03
+brilliant,2997,13526,2.0
+brilliant,2706,13526,1.18
+brilliant,2513,13526,1.16
+brilliant,1464,13526,1.99
+british,6942,80181,4.79
+british,2788,80181,4.64
+british,745,80181,4.37
+british,48774,80181,3.83
+british,41285,80181,2.71
+british,27478,80181,4.89
+british,8866,80181,3.81
+british,6780,80181,2.01
+british,6373,80181,1.12
+british,3035,80181,1.01
+british,2989,80181,2.5
+british,2340,80181,1.01
+british,2245,80181,1.01
+british,1288,80181,4.35
+british,595,80181,1.58
+british comedy,6650,77059,4.86
+british comedy,5377,77059,3.22
+british comedy,1136,77059,4.75
+british comedy,1080,77059,4.98
+british comedy,1080,77059,4.98
+british comedy,30707,77059,1.01
+british comedy,5508,77059,3.62
+british comedy,4878,77059,1.13
+british comedy,4246,77059,2.84
+british comedy,3812,77059,1.11
+british comedy,3052,77059,2.16
+british comedy,2139,77059,1.12
+british comedy,1374,77059,1.01
+british comedy,551,77059,4.65
+broadway,2132,40703,1.55
+brothers,915,97273,3.12
+brutal,1245,42128,4.12
+brutal,858,42128,4.34
+brutality,27727,100979,4.1
+buddy movie,69122,67843,2.39
+business,44195,59722,4.01
+business,3020,59722,3.17
+c.s. lewis,59501,26065,1.0
+c.s. lewis,46972,26065,1.0
+c.s. lewis,45183,26065,1.0
+c.s. lewis,6862,26065,1.0
+c.s. lewis,2136,26065,1.0
+california,59026,20170,3.52
+campy,59784,47240,2.02
+campy,53121,47240,2.94
+campy,2124,47240,4.64
+campy,1760,47240,4.14
+campy,1304,47240,3.36
+campy,153,47240,1.13
+canada,4448,51190,1.02
+canada,2167,51190,1.05
+cancer,539,35730,2.84
+cancer,33493,35730,1.7
+cannibalism,1175,103436,4.52
+cannibalism,593,103436,3.88
+cannibalism,2710,103436,1.92
+cannibalism,344,103436,1.03
+caper,1089,27374,4.67
+capitalism,1189,62229,1.17
+car chase,6595,12420,4.38
+carrie-anne moss,6934,73281,4.7
+carrie-anne moss,4388,73281,1.49
+cars,1380,6681,3.05
+cars,1380,6681,3.05
+cars,7482,6681,1.01
+cars,2012,6681,3.18
+cars,2012,6681,3.18
+cars,1608,6681,1.43
+cars,1198,6681,2.05
+cars,252,6681,1.01
+cartoon,6377,55743,4.99
+cartoon,59810,55743,1.02
+cartoon,49647,55743,4.74
+cartoon,48696,55743,2.04
+casino,48780,46678,1.04
+casino,2918,46678,1.04
+catholicism,7820,6664,4.13
+catholicism,2336,6664,4.17
+catholicism,49272,6664,1.7
+catholicism,30707,6664,1.55
+censorship,1748,33676,1.07
+censorship,653,33676,1.09
+cerebral,5298,5868,4.09
+cerebral,3145,5868,3.95
+cerebral,1243,5868,4.0
+cgi,2628,87523,3.93
+cgi,5010,87523,1.23
+cgi,1283,87523,1.04
+chase,4886,48749,4.08
+chase,1580,48749,3.24
+cheating,63082,12775,2.56
+cheating,8970,12775,1.14
+cheerleading,3264,39571,3.35
+cheesy,1101,68660,2.8
+chess,40815,42441,1.05
+chess,1019,42441,1.3
+chicago,2194,63203,1.01
+chicago,6377,63203,1.01
+chick flick,45668,66988,4.89
+chick flick,5349,66988,2.73
+chick flick,2671,66988,3.32
+chick flick,2100,66988,3.36
+chick flick,1380,66988,4.29
+chick flick,691,66988,3.58
+chick flick,186,66988,3.64
+chick flick,71429,66988,1.26
+chick flick,63853,66988,3.63
+chick flick,58998,66988,2.87
+chick flick,33004,66988,1.43
+chick flick,30812,66988,1.02
+chick flick,27831,66988,1.46
+chick flick,8644,66988,1.01
+chick flick,4305,66988,2.83
+chick flick,3977,66988,2.74
+chick flick,580,66988,3.32
+chick flick,185,66988,1.49
+child abuse,356,50945,1.1
+child abuse,49961,50945,3.41
+child abuse,48696,50945,2.02
+children,6016,6384,4.86
+children,4886,6384,4.98
+children,4306,6384,4.9
+children,2005,6384,4.85
+children,586,6384,4.99
+children,500,6384,4.15
+children,2,6384,4.29
+children,33138,6384,1.97
+children,6350,6384,4.98
+children,5690,6384,1.57
+children,4720,6384,3.13
+children,3991,6384,4.97
+children,2987,6384,3.31
+children,2950,6384,1.81
+children,2194,6384,1.0
+children,1967,6384,3.92
+children,1223,6384,5.0
+children,953,6384,3.7
+children,904,6384,1.51
+children,186,6384,1.65
+china,58306,60876,2.22
+china,50005,60876,4.98
+china,46322,60876,4.95
+china,54286,60876,1.01
+china,605,60876,1.01
+christian,3615,270,1.13
+christianity,47999,21872,3.47
+christianity,7013,21872,3.33
+christianity,3113,21872,2.04
+christianity,47,21872,2.79
+christmas,4896,51465,1.13
+christmas,3061,51465,4.99
+christmas,1370,51465,1.0
+christmas,586,51465,4.63
+christmas,586,51465,4.63
+christmas,586,51465,4.63
+christmas,551,51465,4.41
+christmas,551,51465,4.41
+christmas,68932,51465,1.66
+christmas,58299,51465,1.03
+christmas,40826,51465,1.94
+christmas,3082,51465,1.0
+christmas,2921,51465,1.07
+christmas,2770,51465,1.0
+christmas,2683,51465,1.0
+christmas,1193,51465,1.02
+christmas,405,51465,1.0
+christmas,231,51465,1.03
+cia,59369,75591,2.75
+cia,3948,75591,2.47
+cia,49272,75591,1.1
+cia,454,75591,2.96
+circus,1136,81861,1.97
+civil war,5971,6711,1.07
+civil war,1918,6711,1.13
+classic,37729,59650,1.64
+classic,32587,59650,2.23
+classic,7832,59650,4.93
+classic,3527,59650,4.85
+classic,3507,59650,4.82
+classic,3471,59650,3.34
+classic,2944,59650,3.67
+classic,2221,59650,3.99
+classic,1784,59650,2.74
+classic,1732,59650,2.34
+classic,1732,59650,2.34
+classic,1333,59650,4.87
+classic,1321,59650,3.26
+classic,1282,59650,1.65
+classic,1270,59650,4.03
+classic,1267,59650,4.96
+classic,1259,59650,3.95
+classic,1203,59650,4.98
+classic,1196,59650,3.61
+classic,1136,59650,3.57
+classic,1097,59650,4.62
+classic,928,59650,4.94
+classic,924,59650,4.66
+classic,913,59650,5.0
+classic,912,59650,4.44
+classic,595,59650,2.81
+classic,364,59650,4.04
+classic,364,59650,4.04
+classic,356,59650,3.64
+classic,356,59650,3.64
+classic,260,59650,3.18
+classic,50,59650,2.97
+classic,55820,59650,1.88
+classic,46723,59650,1.01
+classic,38038,59650,2.22
+classic,8529,59650,1.57
+classic,6365,59650,2.56
+classic,5782,59650,4.85
+classic,5385,59650,4.69
+classic,5266,59650,1.0
+classic,5010,59650,1.36
+classic,4878,59650,2.27
+classic,4034,59650,2.69
+classic,3746,59650,2.03
+classic,3555,59650,1.64
+classic,3263,59650,1.0
+classic,2396,59650,2.92
+classic,2087,59650,4.56
+classic,1292,59650,4.22
+classic,784,59650,2.52
+classic,780,59650,1.24
+classic,745,59650,2.18
+classic,280,59650,1.07
+classic car,2393,44193,1.19
+classical music,1357,100479,4.14
+classical music,1282,100479,4.96
+classical music,1225,100479,4.97
+classical music,34405,100479,2.11
+classical music,1244,100479,1.69
+classical music,1228,100479,1.04
+classical music,344,100479,1.02
+claustrophobic,2232,59167,3.34
+claustrophobic,1625,59167,4.01
+claymation,46948,43980,2.87
+claymation,3751,43980,3.15
+claymation,745,43980,4.77
+claymation,551,43980,2.83
+claymation,6936,43980,1.01
+claymation,6365,43980,1.0
+claymation,3813,43980,1.0
+claymation,1275,43980,1.0
+claymation,1257,43980,1.0
+claymation,1257,43980,1.0
+claymation,1069,43980,1.0
+clever,5902,77762,3.21
+clever,4963,77762,4.22
+clever,8644,77762,1.79
+clever,2949,77762,2.96
+clever,1320,77762,4.95
+clowns,1994,54797,2.14
+coen brothers,55820,37642,1.0
+coen brothers,4027,37642,1.0
+coen brothers,1732,37642,1.0
+coen brothers,471,37642,1.0
+coen brothers,44058,37642,1.0
+coen brothers,27815,37642,1.0
+coen brothers,8970,37642,1.0
+coen brothers,6957,37642,1.0
+coen brothers,6957,37642,1.0
+coen brothers,5049,37642,1.0
+coen brothers,3819,37642,1.0
+coen brothers,2329,37642,1.0
+coen brothers,2280,37642,1.0
+coen brothers,585,37642,1.0
+cold war,6979,43493,3.57
+cold war,1610,43493,4.79
+cold war,1267,43493,4.74
+cold war,161,43493,4.64
+cold war,31035,43493,2.1
+cold war,4966,43493,1.32
+cold war,4519,43493,1.03
+cold war,2320,43493,1.79
+cold war,1616,43493,3.7
+colonialism,56174,95067,1.0
+colonialism,8761,95067,1.0
+colonialism,7762,95067,1.0
+colonialism,588,95067,1.0
+colonialism,25,95067,1.0
+colourful,5952,65225,1.57
+colourful,592,65225,3.23
+comedy,56367,37108,3.2
+comedy,45722,37108,3.96
+comedy,7708,37108,4.97
+comedy,4973,37108,3.61
+comedy,4558,37108,2.85
+comedy,4306,37108,4.4
+comedy,4085,37108,4.25
+comedy,3785,37108,5.0
+comedy,3175,37108,3.9
+comedy,3175,37108,3.9
+comedy,2858,37108,2.66
+comedy,2858,37108,2.66
+comedy,2706,37108,4.01
+comedy,2174,37108,5.0
+comedy,2003,37108,2.74
+comedy,1732,37108,4.37
+comedy,1230,37108,3.1
+comedy,543,37108,5.0
+comedy,543,37108,5.0
+comedy,500,37108,4.4
+comedy,380,37108,2.8
+comedy,318,37108,1.86
+comedy,186,37108,3.9
+comedy,5,37108,4.4
+comedy,58559,37108,1.03
+comedy,50442,37108,1.66
+comedy,48043,37108,1.11
+comedy,7981,37108,1.01
+comedy,6874,37108,1.48
+comedy,5952,37108,1.26
+comedy,5060,37108,4.48
+comedy,5060,37108,4.48
+comedy,4881,37108,1.98
+comedy,4321,37108,3.38
+comedy,3996,37108,1.16
+comedy,3986,37108,1.27
+comedy,2959,37108,2.24
+comedy,2747,37108,3.35
+comedy,2694,37108,4.47
+comedy,2301,37108,4.99
+comedy,2121,37108,1.0
+comedy,2009,37108,1.0
+comedy,1374,37108,1.0
+comedy,1193,37108,3.04
+comedy,364,37108,2.75
+comedy,32,37108,1.06
+comic,1377,76402,1.21
+comic,4248,76402,2.5
+comic book,55442,52623,3.23
+comic book,8961,52623,3.18
+comic book,6333,52623,4.27
+comic book,5349,52623,4.64
+comic book,5349,52623,4.64
+comic book,4128,52623,3.18
+comic book,3793,52623,4.99
+comic book,2640,52623,4.84
+comic book,2167,52623,4.83
+comic book,1377,52623,4.97
+comic book,367,52623,2.98
+comic book,70336,52623,1.9
+comic book,67267,52623,1.95
+comic book,53322,52623,1.0
+comic book,30707,52623,1.0
+comic book,8974,52623,1.01
+comic book,6934,52623,2.84
+comic book,6889,52623,1.0
+comic book,6800,52623,1.26
+comic book,3070,52623,2.79
+comic book,2300,52623,1.0
+comic book,2010,52623,1.01
+comic book,1835,52623,1.0
+comic book,1831,52623,1.65
+comic book,1262,52623,1.0
+comic book,849,52623,2.9
+comic book,379,52623,2.3
+comic book adaption,58299,63080,1.01
+comic book adaption,33794,63080,4.99
+comic book adaption,5349,63080,4.32
+comic book adaption,2858,63080,1.01
+comics,51662,70699,1.1
+comics,5445,70699,1.42
+comics,3552,70699,1.08
+coming of age,33903,9953,2.96
+coming of age,6385,9953,2.65
+coming of age,2858,9953,3.57
+coming of age,1704,9953,4.01
+coming of age,52579,9953,1.1
+coming of age,5299,9953,2.76
+coming-of-age,3786,86267,2.24
+communism,8012,53917,1.0
+communism,196,53917,1.0
+compassionate,2291,32745,3.58
+compassionate,3681,32745,2.14
+compassionate,1252,32745,1.07
+compassionate,608,32745,2.39
+complex,8783,74606,3.82
+complex,1923,74606,2.17
+complex,1339,74606,1.22
+complex,1246,74606,3.97
+complex,1198,74606,1.86
+complex,597,74606,1.35
+complex,32,74606,3.94
+complex,32,74606,3.94
+complex characters,8337,30987,3.12
+complex characters,1250,30987,4.23
+complex characters,153,30987,3.42
+complicated,1284,61340,4.05
+complicated,32,61340,3.8
+complicated,32,61340,3.8
+complicated,53125,61340,3.09
+complicated,6530,61340,4.1
+complicated,3994,61340,3.86
+complicated,2762,61340,3.79
+complicated,1197,61340,1.57
+complicated plot,8851,61003,1.08
+complicated plot,2916,61003,3.41
+complicated plot,1064,61003,1.09
+computer animation,4306,24203,4.77
+computer animation,7451,24203,1.03
+computer animation,6874,24203,4.36
+computer animation,5349,24203,2.81
+computer animation,3751,24203,2.38
+computer animation,3702,24203,1.01
+computer animation,3004,24203,1.5
+computer animation,1982,24203,2.21
+computer animation,1210,24203,1.21
+computer animation,588,24203,4.02
+computer animation,522,24203,1.03
+computer animation,367,24203,4.94
+computer game,6979,103461,4.16
+computer game,1036,103461,1.05
+computer game,393,103461,4.61
+computers,2571,80606,3.45
+computers,2571,80606,3.45
+computers,2571,80606,3.45
+computers,185,80606,4.88
+computers,185,80606,4.88
+computers,2046,80606,3.72
+con men,44840,79650,1.68
+con men,5139,79650,1.4
+confrontational,3201,97530,1.21
+confrontational,1203,97530,3.51
+confrontational,33896,97530,2.91
+confusing,4306,21054,1.09
+confusing,2011,21054,2.89
+conspiracy,8622,84104,4.86
+conspiracy,2353,84104,4.95
+conspiracy,457,84104,3.28
+conspiracy,349,84104,3.17
+conspiracy,67193,84104,4.96
+conspiracy,58295,84104,3.83
+conspiracy,5650,84104,2.69
+conspiracy,2542,84104,3.62
+conspiracy,2528,84104,1.15
+conspiracy,1727,84104,1.13
+controversial,8622,7172,4.35
+cooking,54286,91482,1.01
+cooking,48520,91482,1.04
+cooking,1257,91482,2.88
+corporate america,2712,86885,1.98
+corporate america,2245,86885,4.63
+corruption,4262,16575,4.39
+corruption,2905,16575,4.09
+corruption,2353,16575,4.05
+corruption,1221,16575,4.43
+corruption,954,16575,3.3
+corruption,5017,16575,4.84
+costume drama,1089,3519,1.03
+courage,110,101210,4.23
+courtroom,2398,79730,2.18
+courtroom,2302,79730,4.96
+courtroom,1178,79730,2.0
+courtroom,72308,79730,1.83
+courtroom,527,79730,1.35
+courtroom drama,1645,82335,2.12
+courtroom drama,7444,82335,1.0
+courtroom drama,3875,82335,1.01
+courtroom drama,1722,82335,1.01
+courtroom drama,280,82335,4.97
+crappy sequel,5128,68467,4.63
+crappy sequel,1240,68467,1.24
+crappy sequel,165,68467,1.98
+crazy,1258,84026,1.16
+creativity,7361,90280,4.89
+creepy,5980,82408,4.99
+creepy,5679,82408,4.85
+creepy,1214,82408,4.51
+creepy,5952,82408,1.59
+creepy,3686,82408,2.48
+creepy,1732,82408,1.04
+crime,48516,65332,4.9
+crime,36529,65332,4.6
+crime,33166,65332,3.97
+crime,5445,65332,3.84
+crime,1785,65332,4.94
+crime,1221,65332,4.78
+crime,1061,65332,3.2
+crime,608,65332,4.19
+crime,592,65332,2.79
+crime,431,65332,4.2
+crime,353,65332,3.22
+crime,288,65332,2.48
+crime,65130,65332,1.34
+crime,58559,65332,3.3
+crime,31410,65332,1.31
+crime,6993,65332,1.47
+crime,6331,65332,1.01
+crime,4307,65332,2.29
+crime,3868,65332,1.8
+crime,2383,65332,1.65
+crime,2134,65332,2.19
+crime,1197,65332,1.52
+crime,1148,65332,1.24
+crime,780,65332,1.08
+crime gone awry,50601,101177,1.07
+crime gone awry,3745,101177,1.07
+crime gone awry,2318,101177,1.13
+crime gone awry,1682,101177,4.08
+crime gone awry,1466,101177,4.24
+crime gone awry,318,101177,3.26
+cross dressing,674,13594,2.54
+crude humor,6957,41782,4.26
+crude humor,68358,41782,1.27
+crude humor,66097,41782,3.19
+crude humor,2791,41782,4.03
+crude humor,2406,41782,2.14
+crude humor,1527,41782,1.48
+crude humor,386,41782,3.68
+cuba,45525,53386,4.97
+cuba,2677,53386,4.97
+cuba,858,53386,2.13
+cult,7482,81964,3.91
+cult,5015,81964,1.83
+cult,1257,81964,1.73
+cult classic,3070,33884,4.97
+cult classic,2502,33884,4.75
+cult classic,1288,33884,4.98
+cult classic,1197,33884,4.79
+cult classic,541,33884,4.57
+cult classic,4890,33884,1.06
+cult classic,3199,33884,1.05
+cult classic,2130,33884,3.19
+cult classic,1974,33884,2.65
+cult classic,1517,33884,3.46
+cult classic,1199,33884,3.97
+cult classic,1136,33884,4.82
+cult film,2804,95962,2.86
+cult film,1129,95962,2.4
+cult film,1080,95962,4.89
+cult film,674,95962,3.76
+cult film,441,95962,3.75
+cult film,111,95962,3.88
+cult film,64614,95962,1.01
+cult film,55269,95962,3.83
+cult film,48780,95962,1.89
+cult film,25788,95962,3.3
+cult film,8984,95962,2.13
+cult film,6874,95962,3.88
+cult film,6060,95962,1.11
+cult film,3948,95962,1.01
+cult film,3033,95962,4.86
+cult film,2053,95962,1.56
+cult film,1276,95962,2.71
+culture clash,63082,758,3.01
+culture clash,1204,758,4.23
+culture clash,6023,758,3.0
+culture clash,3996,758,2.61
+culture clash,3450,758,2.51
+culture clash,3114,758,2.74
+culture clash,2919,758,4.25
+culture clash,1370,758,1.48
+cute,50872,29910,4.73
+cute,3114,29910,4.06
+cute,1025,29910,1.03
+cute,8739,29910,1.03
+cute,5970,29910,3.22
+cute,2324,29910,2.16
+cute!,64575,2543,1.21
+cute!,3991,2543,2.77
+cyberpunk,2105,90705,4.07
+cyberpunk,1240,90705,3.17
+cyberpunk,541,90705,4.39
+cyberpunk,26513,90705,3.37
+cyberpunk,7934,90705,1.8
+cyberpunk,6264,90705,1.27
+cyberpunk,4025,90705,1.01
+cyberpunk,1291,90705,1.02
+cyberpunk,364,90705,1.02
+cyberpunk,32,90705,3.6
+cyberpunk,6,90705,1.03
+cynical,7256,35099,1.17
+cynical,5782,35099,3.2
+cynical,4973,35099,2.26
+cynical,2467,35099,3.18
+cynical,541,35099,2.95
+dance,49274,6788,3.31
+dance,40815,6788,2.33
+dance,3967,6788,4.45
+dance,1946,6788,2.06
+dance,7584,6788,1.07
+dance,1380,6788,4.98
+dancing,60397,20751,4.27
+dancing,6856,20751,3.99
+dancing,1210,20751,1.02
+dark,58559,43819,3.91
+dark,31952,43819,4.08
+dark,6870,43819,3.87
+dark,3535,43819,4.72
+dark,2291,43819,3.54
+dark,593,43819,3.95
+dark,230,43819,3.19
+dark,56788,43819,2.81
+dark,54001,43819,3.7
+dark,49824,43819,1.34
+dark,48082,43819,2.94
+dark,8947,43819,4.87
+dark,7438,43819,1.98
+dark,6832,43819,1.59
+dark,5991,43819,2.33
+dark,5989,43819,2.84
+dark,4901,43819,2.32
+dark,3252,43819,2.44
+dark,2167,43819,3.75
+dark comedy,57669,84683,4.37
+dark comedy,38061,84683,3.06
+dark comedy,4979,84683,2.21
+dark comedy,2997,84683,3.41
+dark comedy,2959,84683,2.55
+dark comedy,2502,84683,2.1
+dark comedy,1732,84683,3.23
+dark comedy,1682,84683,2.45
+dark comedy,1285,84683,4.02
+dark comedy,296,84683,3.64
+dark comedy,296,84683,3.64
+dark comedy,56367,84683,3.06
+dark comedy,47423,84683,1.58
+dark comedy,45499,84683,3.99
+dark comedy,37853,84683,1.02
+dark comedy,33834,84683,1.38
+dark comedy,33493,84683,1.0
+dark comedy,7147,84683,2.38
+dark comedy,5932,84683,1.01
+dark comedy,4973,84683,2.12
+dark comedy,4876,84683,2.26
+dark comedy,4226,84683,1.68
+dark comedy,1394,84683,3.39
+dark comedy,364,84683,1.0
+dark comedy,306,84683,1.94
+dark comedy,111,84683,1.86
+dark hero,42418,76861,3.04
+dark hero,2641,76861,1.9
+dark humor,1215,61999,3.66
+dark humor,51357,61999,1.18
+dark humor,32587,61999,4.6
+dark humor,1136,61999,2.33
+dark humor,521,61999,2.81
+dark humor,407,61999,2.27
+dark humor,110,61999,1.67
+dc comics,1499,9723,1.01
+deadpan,608,60673,3.66
+deadpan,48394,60673,1.12
+deadpan,5872,60673,1.01
+deadpan,1093,60673,1.01
+deadpan,597,60673,1.03
+death,5669,3175,4.96
+death,1237,3175,4.96
+death,56782,3175,3.31
+death,5989,3175,1.02
+death,3450,3175,2.29
+death,2478,3175,1.05
+death,2068,3175,4.95
+death,1327,3175,4.86
+death,1210,3175,3.26
+death,1210,3175,3.26
+death,546,3175,1.02
+death,296,3175,1.34
+death penalty,1189,24390,4.57
+death penalty,33615,24390,1.05
+death penalty,4029,24390,1.05
+death penalty,4015,24390,1.05
+death penalty,2302,24390,1.08
+death penalty,32,24390,2.92
+demons,4105,34590,4.88
+demons,55995,34590,3.27
+demons,7373,34590,4.22
+demons,1258,34590,4.43
+depp & burton,37729,74336,4.99
+depp & burton,2291,74336,3.66
+depp & burton,53004,74336,1.01
+depp & burton,34319,74336,1.0
+depressing,47099,93702,1.01
+depressing,1250,93702,2.05
+depressing,56782,93702,3.72
+depressing,8784,93702,3.56
+depressing,8784,93702,3.56
+depressing,7361,93702,2.36
+depressing,6870,93702,3.5
+depressing,4027,93702,3.36
+depressing,2858,93702,3.17
+depressing,2731,93702,4.04
+depressing,2020,93702,2.02
+depressing,1258,93702,2.14
+depressing,1233,93702,3.13
+depressing,1208,93702,4.81
+depressing,778,93702,4.55
+depressing,47,93702,2.92
+depression,2858,102837,3.52
+depression,4462,102837,2.07
+depression,1193,102837,3.1
+desert,260,29403,3.16
+desert,2987,29403,1.1
+destiny,364,49433,4.17
+detective,34437,77327,1.04
+detective,1617,77327,4.95
+detective,47,77327,4.42
+detective,6884,77327,4.94
+detective,2355,77327,1.03
+detective,527,77327,1.16
+devil,51077,68373,3.14
+devil,51077,68373,3.14
+devil,253,68373,1.56
+devil,50,68373,1.13
+dialogue,52281,3771,4.9
+dialogue,51255,3771,2.62
+dialogue,3034,3771,4.95
+dialogue driven,2657,50162,2.18
+dinosaurs,4638,35306,4.06
+dinosaurs,1544,35306,4.69
+dinosaurs,480,35306,4.32
+dinosaurs,1882,35306,4.77
+dinosaurs,10,35306,1.01
+directorial debut,4235,72270,3.35
+directorial debut,2858,72270,1.12
+directorial debut,223,72270,3.66
+directorial debut,111,72270,1.49
+directorial debut,110,72270,4.0
+disability,30707,65929,3.17
+disability,356,65929,4.51
+disability,51925,65929,1.16
+disability,1610,65929,1.07
+disappointing,58025,109147,1.3
+disappointing,3448,109147,1.01
+disappointing,2117,109147,1.85
+disappointing,1172,109147,1.01
+disaster,2791,46673,4.4
+disaster,780,46673,2.61
+disaster,150,46673,2.9
+disaster,150,46673,2.9
+disaster,4995,46673,1.09
+disaster,1210,46673,1.58
+disaster,593,46673,1.05
+disaster,125,46673,1.07
+disney,8961,43247,3.76
+disney,6377,43247,4.99
+disney,3114,43247,4.91
+disney,2498,43247,4.05
+disney,2096,43247,5.0
+disney,1032,43247,2.94
+disney,551,43247,2.91
+disney,258,43247,3.73
+disney,173,43247,1.57
+disney,26776,43247,2.38
+disney,5389,43247,4.33
+disney,4993,43247,1.01
+disney,4226,43247,1.01
+disney,2987,43247,4.73
+disney,1693,43247,1.01
+disney,1688,43247,2.36
+disney,1680,43247,1.17
+disney animated feature,8961,53486,4.86
+disney animated feature,6377,53486,4.31
+disney animated feature,8968,53486,1.01
+disney animated feature,6539,53486,1.01
+disney animated feature,552,53486,1.01
+disney animated feature,231,53486,1.01
+distopia,1653,20524,4.03
+distopia,6874,20524,4.16
+distopia,5481,20524,2.02
+disturbing,47465,34763,1.01
+disturbing,30816,34763,1.8
+disturbing,8959,34763,2.01
+disturbing,5679,34763,2.32
+disturbing,4148,34763,2.45
+disturbing,527,34763,4.47
+disturbing,41566,34763,1.07
+disturbing,40732,34763,1.98
+disturbing,30749,34763,4.14
+disturbing,7095,34763,4.33
+disturbing,5669,34763,1.16
+disturbing,5049,34763,1.76
+disturbing,3591,34763,1.01
+disturbing,2921,34763,1.79
+disturbing,2324,34763,1.53
+disturbing,2148,34763,3.59
+disturbing,1197,34763,1.09
+disturbing,1193,34763,2.51
+disturbing,750,34763,1.95
+disturbing,36,34763,1.92
+divorce,2724,48211,4.84
+divorce,1015,48211,1.13
+doctors,457,27468,4.1
+doctors,2997,27468,4.02
+documentary,65225,94577,5.0
+documentary,43708,94577,4.33
+documentary,8622,94577,5.0
+documentary,8464,94577,5.0
+documentary,8464,94577,5.0
+documentary,5669,94577,5.0
+documentary,1288,94577,2.84
+documentary,61240,94577,1.0
+documentary,39292,94577,2.53
+documentary,27721,94577,1.17
+documentary,7836,94577,4.99
+documentary,6953,94577,2.33
+documentary,6296,94577,3.53
+documentary,3142,94577,5.0
+documentary,2710,94577,2.12
+documentary,2677,94577,4.98
+documentary,2006,94577,1.0
+documentary,1610,94577,1.08
+documentary,1449,94577,3.0
+documentary,1449,94577,3.0
+documentary,1222,94577,3.07
+documentary,1101,94577,2.06
+documentary,904,94577,1.2
+documentary,745,94577,1.0
+dogs,56174,30063,2.39
+dogs,5445,30063,1.1
+dogs,3671,30063,1.09
+dogs,2728,30063,1.07
+dogs,1923,30063,1.85
+dolphins,33004,42194,1.02
+dolphins,2950,42194,1.02
+downbeat,2959,69736,2.98
+dr. seuss,34520,88692,1.01
+dr. seuss,6485,88692,1.01
+drama,64575,86247,4.13
+drama,7361,86247,3.79
+drama,7323,86247,4.57
+drama,6016,86247,4.2
+drama,4995,86247,4.0
+drama,3307,86247,4.99
+drama,2858,86247,4.94
+drama,2028,86247,3.68
+drama,1617,86247,2.12
+drama,1041,86247,4.86
+drama,500,86247,4.61
+drama,230,86247,4.86
+drama,110,86247,4.02
+drama,3793,86247,1.01
+drama,2883,86247,2.39
+drama,2701,86247,1.24
+drama,2467,86247,4.21
+drama,1204,86247,2.26
+drama,1101,86247,2.71
+drama,50,86247,3.9
+dreamlike,2291,48722,4.73
+dreamlike,2076,48722,2.8
+dreamlike,1298,48722,3.21
+dreamlike,919,48722,3.52
+dreamlike,592,48722,2.94
+dreamlike,8533,48722,3.42
+dreamlike,6773,48722,4.11
+dreamlike,5881,48722,4.13
+dreamlike,4902,48722,3.9
+dreamlike,858,48722,1.04
+dreamlike,252,48722,1.64
+dreams,68954,31115,3.81
+dreams,43396,31115,4.21
+dreams,1199,31115,3.31
+dreams,59784,31115,2.46
+dreams,1208,31115,3.27
+dreamworks,2355,96878,1.01
+drinking,3317,25775,4.17
+drinking,1732,25775,4.29
+drug abuse,778,96517,4.57
+drugs,57669,55188,2.57
+drugs,56805,55188,3.76
+drugs,5903,55188,2.14
+drugs,4873,55188,3.87
+drugs,2858,55188,3.04
+drugs,2858,55188,3.04
+drugs,1673,55188,3.46
+drugs,1673,55188,3.46
+drugs,1298,55188,4.69
+drugs,778,55188,4.54
+drugs,296,55188,3.86
+drugs,21,55188,2.03
+drugs,69640,55188,2.64
+drugs,54190,55188,1.51
+drugs,50068,55188,1.01
+drugs,49824,55188,3.2
+drugs,48744,55188,2.84
+drugs,45499,55188,2.92
+drugs,45062,55188,1.03
+drugs,6378,55188,1.21
+drugs,4466,55188,1.01
+drugs,3701,55188,2.81
+drugs,3697,55188,1.0
+drugs,3524,55188,3.24
+drugs,1916,55188,3.58
+drugs,1097,55188,1.37
+drugs,1095,55188,2.26
+drugs,32,55188,3.13
+dumb,61024,9050,4.91
+dumb,5952,9050,3.11
+dynamic cgi action,6378,93339,3.74
+dynamic cgi action,1220,93339,1.08
+dysfunctional family,4979,60797,4.46
+dysfunctional family,608,60797,1.83
+dysfunctional family,337,60797,4.71
+dysfunctional family,55118,60797,3.32
+dysfunctional family,2941,60797,1.55
+dystopia,60684,35374,3.85
+dystopia,60069,35374,4.38
+dystopia,56174,35374,4.59
+dystopia,48774,35374,4.51
+dystopia,44191,35374,2.96
+dystopia,6365,35374,4.79
+dystopia,2529,35374,4.75
+dystopia,2009,35374,4.48
+dystopia,1527,35374,2.76
+dystopia,589,35374,3.72
+dystopia,541,35374,3.71
+dystopia,173,35374,3.55
+dystopia,32,35374,4.64
+dystopia,44665,35374,4.8
+dystopia,33794,35374,4.42
+dystopia,8360,35374,2.34
+dystopia,7419,35374,1.14
+dystopia,5418,35374,1.82
+dystopia,4878,35374,1.6
+dystopia,3751,35374,1.11
+dystopia,2987,35374,2.04
+dystopia,2664,35374,3.06
+dystopia,2160,35374,1.02
+dystopia,1625,35374,3.19
+dystopia,736,35374,1.02
+dystopia,480,35374,1.71
+dystopia,2,35374,1.68
+dystopic future,1952,19902,1.02
+dystopic future,1214,19902,4.68
+dystopic future,1148,19902,1.02
+earnest,49530,34294,3.13
+earnest,7153,34294,3.88
+easily confused with other movie(s) (title),5418,30958,2.44
+easily confused with other movie(s) (title),2421,30958,1.02
+easily confused with other movie(s) (title),588,30958,1.02
+easily confused with other movie(s) (title),480,30958,1.02
+east germany,7384,15906,1.02
+east germany,5013,15906,1.01
+east germany,3753,15906,1.02
+east germany,1917,15906,1.02
+eccentricity,30793,61982,4.7
+eccentricity,8920,61982,1.28
+eccentricity,2762,61982,2.49
+ecology,32,104971,2.69
+ecology,11,104971,1.87
+educational,2541,98134,1.45
+effects,27618,44202,2.19
+effects,3176,44202,1.87
+effects,2011,44202,2.63
+egypt,60937,48741,3.58
+egypt,2617,48741,3.75
+egypt,4534,48741,1.18
+egypt,2405,48741,3.84
+emma watson,5816,85271,4.95
+emotional,7361,7892,3.28
+emotional,919,7892,3.08
+end of the world,589,104594,4.06
+end of the world,31952,104594,1.08
+end of the world,4886,104594,1.02
+end of the world,3032,104594,4.19
+end of the world,2571,104594,4.3
+end of the world,1729,104594,1.06
+end of the world,1580,104594,4.06
+england,37731,43724,3.24
+england,4246,43724,4.97
+england,2863,43724,4.98
+england,1339,43724,2.88
+england,1296,43724,3.89
+england,50160,43724,4.98
+england,48780,43724,2.74
+england,30825,43724,1.03
+england,3147,43724,1.35
+england,1957,43724,4.24
+england,1262,43724,4.59
+england,1222,43724,1.19
+enigmatic,56782,28024,4.39
+enigmatic,45720,28024,1.87
+enigmatic,1222,28024,4.62
+enigmatic,135,28024,1.89
+ennio morricone,382,41968,1.02
+enormously long battle scene,4979,65274,1.54
+ensemble cast,33166,93944,3.82
+ensemble cast,786,93944,3.2
+entertaining,296,74665,4.08
+entertaining,1784,74665,3.03
+entertaining,1221,74665,3.03
+entirely dialogue,6934,13254,1.48
+entirely dialogue,1186,13254,4.01
+entirely dialogue,539,13254,2.67
+environment,71057,32192,3.78
+environment,4886,32192,1.05
+environmental,5971,27713,2.63
+environmental,2145,27713,1.03
+epic,61240,54322,1.31
+epic,38304,54322,1.06
+epic,25769,54322,1.03
+epic,5881,54322,2.27
+epic,1293,54322,2.1
+erotic,4848,102094,4.09
+erotic,2712,102094,3.2
+erotic,54272,102094,1.53
+erotic,49272,102094,2.84
+erotic,1186,102094,3.07
+erotic,253,102094,4.01
+erotic,154,102094,3.04
+espionage,63113,103285,4.71
+espionage,54286,103285,4.13
+espionage,49272,103285,4.74
+espionage,2947,103285,4.96
+espionage,2353,103285,4.68
+espionage,1610,103285,3.5
+espionage,1610,103285,3.5
+espionage,380,103285,4.88
+espionage,5445,103285,2.88
+espionage,4734,103285,1.02
+espionage,4333,103285,1.01
+espionage,4205,103285,1.01
+espionage,1978,103285,1.1
+espionage,1527,103285,1.99
+ethnic conflict,30749,69540,4.58
+ethnic conflict,2312,69540,1.07
+ethnic conflict,714,69540,1.54
+evolution,924,68599,2.15
+evolution,5171,68599,2.85
+excellent,34150,29341,1.47
+excellent,7320,29341,4.93
+excellent,3114,29341,3.56
+excellent,1206,29341,2.92
+excellent script,318,53759,4.89
+exceptional acting,8368,86410,2.32
+exceptional acting,4034,86410,2.77
+exceptional acting,1206,86410,1.53
+exciting,8865,66708,2.79
+exciting,4344,66708,2.29
+exciting,150,66708,3.3
+existentialism,4873,46367,4.17
+existentialism,2692,46367,4.39
+existentialism,1921,46367,4.08
+existentialism,541,46367,3.26
+existentialism,27773,46367,3.74
+existentialism,4626,46367,3.1
+explosions,61024,86190,1.94
+factual,110,37084,3.68
+factual,45950,37084,4.15
+factual,8866,37084,4.64
+fairy tale,48394,21848,4.35
+fairy tale,31658,21848,3.7
+fairy tale,7147,21848,3.97
+fairy tale,5618,21848,4.72
+fairy tale,4306,21848,4.4
+fairy tale,2291,21848,4.45
+fairy tale,2161,21848,4.53
+fairy tale,59387,21848,4.18
+fairy tale,55999,21848,3.45
+fairy tale,7020,21848,1.02
+fairy tale,2087,21848,4.47
+fairy tale,1962,21848,1.69
+fairy tale,457,21848,2.02
+fairy tale,364,21848,4.16
+fairy tales,8360,14427,4.54
+family,4979,90720,1.34
+family,2797,90720,3.84
+family,5264,90720,4.18
+family,2025,90720,1.02
+family drama,1270,17324,4.63
+fantasy,69844,89360,4.29
+fantasy,55995,89360,4.89
+fantasy,45722,89360,2.28
+fantasy,33493,89360,4.28
+fantasy,27706,89360,4.92
+fantasy,7153,89360,4.99
+fantasy,7147,89360,4.47
+fantasy,7099,89360,4.13
+fantasy,5952,89360,4.64
+fantasy,5618,89360,4.7
+fantasy,4993,89360,4.85
+fantasy,2797,89360,2.74
+fantasy,2571,89360,3.91
+fantasy,2140,89360,4.9
+fantasy,1270,89360,3.43
+fantasy,1196,89360,3.6
+fantasy,1196,89360,3.6
+fantasy,919,89360,3.24
+fantasy,541,89360,3.36
+fantasy,1,89360,3.44
+fantasy,68954,89360,4.63
+fantasy,64957,89360,3.89
+fantasy,58103,89360,1.39
+fantasy,52722,89360,1.51
+fantasy,46530,89360,4.96
+fantasy,41997,89360,1.41
+fantasy,5349,89360,3.5
+fantasy,5349,89360,3.5
+fantasy,5218,89360,2.45
+fantasy,4235,89360,1.01
+fantasy,2916,89360,3.49
+fantasy,2890,89360,1.03
+fantasy,2398,89360,3.81
+fantasy,2369,89360,1.0
+fantasy,1573,89360,1.0
+fantasy,1527,89360,2.63
+fantasy,289,89360,1.16
+fantasy world,48394,78097,4.92
+fantasy world,7153,78097,4.73
+fantasy world,60487,78097,2.28
+fantasy world,4878,78097,4.74
+fantasy world,2918,78097,1.96
+fantasy world,247,78097,2.09
+fantasy world,34,78097,4.58
+farce,750,57164,1.83
+farce,27878,57164,1.15
+farce,3786,57164,4.14
+farce,50,57164,1.25
+fascism,48394,49415,2.5
+fascism,43376,49415,4.96
+fascism,2628,49415,1.22
+fashion,7444,38937,3.03
+fashion,62293,38937,3.66
+fashion,56949,38937,4.58
+fashion,6702,38937,1.01
+fashion,1544,38937,1.01
+fashion,224,38937,3.52
+fast paced,5418,55204,4.54
+fast paced,3527,55204,4.11
+fast paced,3355,55204,1.72
+fast paced,2542,55204,3.98
+fast paced,1218,55204,3.19
+father daughter relationship,1393,11539,1.23
+father son relationship,3948,71283,2.17
+father son relationship,1860,71283,4.26
+father-son relationship,40339,16784,1.01
+father-son relationship,1196,16784,2.38
+father-son relationship,58154,16784,2.41
+father-son relationship,8798,16784,1.01
+father-son relationship,7293,16784,1.13
+fbi,5630,100740,1.27
+fbi,4210,100740,1.77
+fbi,590,100740,1.16
+feel good movie,4963,55795,2.71
+feel good movie,8958,55795,1.34
+feel good movie,6565,55795,1.55
+feel good movie,3462,55795,1.93
+feel good movie,2918,55795,4.67
+feel good movie,2746,55795,1.03
+feel good movie,2395,55795,3.5
+feel good movie,1704,55795,3.41
+feel good movie,1302,55795,3.77
+feel good movie,1246,55795,3.22
+feel-good,4973,57156,4.24
+feel-good,60766,57156,3.88
+feel-good,40414,57156,4.44
+feel-good,3683,57156,1.39
+fight scenes,112,82943,4.83
+fight scenes,51091,82943,3.91
+fight scenes,6416,82943,1.92
+fight scenes,173,82943,4.92
+fighting,8132,93615,4.89
+fighting,2959,93615,3.59
+fighting,589,93615,4.21
+fighting,8983,93615,4.57
+fighting,6934,93615,3.97
+fighting,6793,93615,1.99
+fighting,3984,93615,4.95
+fighting,3981,93615,2.9
+fighting,2713,93615,1.11
+fighting,1080,93615,1.91
+fighting,901,93615,1.04
+figure skating,52245,31603,1.39
+figure skating,52245,31603,1.39
+figure skating,52245,31603,1.39
+figure skating,54256,31603,1.05
+film noir,8228,19406,2.95
+film noir,1252,19406,4.27
+film noir,1245,19406,2.82
+film noir,30749,19406,1.16
+film noir,27773,19406,2.48
+film noir,4235,19406,2.67
+film noir,3730,19406,3.54
+film noir,3683,19406,3.89
+film noir,1784,19406,1.87
+film noir,858,19406,1.93
+film noir,608,19406,3.96
+finnish,44555,96572,1.01
+finnish,4056,96572,1.01
+finnish,555,96572,1.01
+firefly,34405,16992,1.0
+firefly,34405,16992,1.0
+firefly,66934,16992,1.0
+firefly,66934,16992,1.0
+firefly,66934,16992,1.0
+firefly,61323,16992,1.0
+firefly,5971,16992,1.0
+firefly,5657,16992,1.0
+firefly,1214,16992,1.0
+first contact,1704,69649,1.55
+first contact,541,69649,4.2
+first contact,329,69649,2.18
+fish,2100,79544,3.51
+fish,4011,79544,1.84
+flashbacks,296,93417,2.96
+flashbacks,4848,93417,3.66
+flashbacks,1225,93417,3.18
+food,8464,10055,4.98
+food,5446,10055,1.01
+food,2080,10055,3.08
+football,1393,8196,2.72
+football,356,8196,2.12
+football,356,8196,2.12
+football,4975,8196,1.41
+football,2692,8196,1.01
+football,1592,8196,4.77
+forceful,3328,66581,3.28
+foul language,48516,44714,2.7
+foul language,7438,44714,4.35
+foul language,6874,44714,4.08
+fountain of youth,5400,42638,1.5
+france,55052,108946,3.85
+france,50872,108946,2.26
+france,4973,108946,4.34
+france,6502,108946,1.36
+franchise,1198,5077,4.84
+franchise,34405,5077,2.11
+franchise,7845,5077,4.08
+francis ford copolla,858,1485,4.71
+free speech,1120,104838,4.8
+french,6985,8695,3.9
+french,6773,8695,3.0
+french,5628,8695,1.24
+french,55805,8695,1.01
+french,33675,8695,4.98
+french,2278,8695,3.79
+friendship,68954,10736,4.64
+friendship,68954,10736,4.64
+friendship,57669,10736,2.79
+friendship,54503,10736,4.62
+friendship,8949,10736,4.68
+friendship,1307,10736,3.96
+friendship,1259,10736,4.91
+friendship,1246,10736,3.81
+friendship,40414,10736,2.31
+friendship,3903,10736,1.05
+friendship,3088,10736,4.92
+friendship,2414,10736,3.87
+friendship,1466,10736,1.97
+friendship,904,10736,3.23
+friendship,497,10736,2.02
+friendship,459,10736,1.44
+friendship,171,10736,3.74
+frightening,2132,107721,2.2
+fun,6537,78638,1.05
+fun,4886,78638,4.97
+fun,2355,78638,4.33
+fun,1270,78638,3.73
+fun,1198,78638,3.28
+fun,745,78638,4.7
+fun,56788,78638,1.19
+fun,53322,78638,4.96
+fun,4438,78638,1.62
+fun,4030,78638,2.02
+fun,3265,78638,3.38
+fun,2700,78638,2.99
+fun,593,78638,1.32
+fun movie,2443,62768,2.45
+funniest movies,1431,103499,3.37
+funny,47997,60591,2.27
+funny,7325,60591,4.93
+funny,6874,60591,2.56
+funny,6539,60591,3.62
+funny,6333,60591,2.05
+funny,5377,60591,3.26
+funny,5218,60591,4.45
+funny,4027,60591,4.67
+funny,3396,60591,1.99
+funny,2273,60591,4.74
+funny,1079,60591,4.4
+funny,1028,60591,4.01
+funny,356,60591,2.43
+funny,104,60591,2.29
+funny,47999,60591,3.23
+funny,5159,60591,1.63
+funny,4734,60591,4.98
+funny,3798,60591,1.54
+funny,3174,60591,4.05
+funny,2997,60591,3.57
+funny,2167,60591,1.32
+funny as hell,4029,68183,1.93
+funny as hell,3275,68183,2.19
+funny as hell,2109,68183,4.21
+funny as hell,1127,68183,1.05
+funny as hell,111,68183,1.1
+future,8644,6270,4.82
+future,6645,6270,4.69
+future,2011,6270,4.91
+future,1077,6270,4.97
+future,31694,6270,1.03
+future,7163,6270,4.35
+future,4643,6270,4.93
+future,2918,6270,2.45
+future,1408,6270,1.23
+futuristic,2571,101412,4.1
+futuristic,2528,101412,4.99
+futuristic,1580,101412,4.88
+futuristic,1240,101412,4.57
+futuristic,780,101412,4.22
+futuristic,541,101412,4.92
+futuristic,62376,101412,3.61
+futuristic,49347,101412,1.67
+futuristic,6235,101412,1.01
+futuristic,4321,101412,1.01
+futuristic,3471,101412,3.39
+futuristic,2622,101412,1.13
+futuristic,1721,101412,1.01
+futuristic,1584,101412,2.1
+futuristic,364,101412,1.01
+futuristic,327,101412,4.75
+gambling,858,10306,2.25
+gangs,6796,28058,4.77
+gangs,2951,28058,3.01
+gangs,356,28058,1.88
+gangster,55765,90140,4.9
+gangster,1213,90140,4.98
+gangster,1089,90140,4.4
+gangster,56782,90140,2.81
+gangster,7323,90140,1.28
+gangster,1234,90140,3.94
+gangsters,1089,36644,4.98
+gangsters,2130,36644,1.16
+gay,63876,102081,4.87
+gay,46578,102081,2.84
+gay,44191,102081,1.61
+gay,39183,102081,4.97
+gay,27391,102081,4.74
+gay,7034,102081,4.19
+gay,1729,102081,2.32
+gay,1092,102081,2.26
+gay,8977,102081,2.78
+gay,8623,102081,1.21
+gay,6870,102081,3.14
+gay,6705,102081,4.57
+gay,3435,102081,1.3
+geeks,39715,87509,4.2
+geeks,780,87509,1.8
+genetics,586,92037,1.04
+genius,1921,48306,4.48
+genius,1610,48306,1.06
+genius,1196,48306,1.85
+genocide,48738,17550,4.03
+genocide,30749,17550,4.93
+genocide,4958,17550,3.27
+genocide,30825,17550,1.04
+genocide,4701,17550,1.42
+genocide,3198,17550,2.3
+george orwell,1199,43798,2.86
+german,2692,69694,4.25
+germany,31410,30357,4.96
+germany,5608,30357,4.24
+germany,2028,30357,3.66
+germany,1281,30357,3.21
+germany,527,30357,4.96
+germany,7153,30357,1.29
+germany,4890,30357,1.01
+germany,3793,30357,1.01
+germany,1380,30357,1.01
+ghosts,6539,22103,3.49
+ghosts,2762,22103,4.98
+ghosts,1302,22103,2.64
+ghosts,6058,22103,3.42
+ghosts,4041,22103,1.02
+ghosts,3498,22103,1.15
+ghosts,1801,22103,1.02
+ghosts,1475,22103,2.94
+ghosts,1321,22103,3.53
+ghosts/afterlife,50794,41838,1.04
+ghosts/afterlife,7361,41838,1.6
+giant robots,69526,78030,4.55
+giant robots,53996,78030,3.7
+giant robots,70286,78030,1.09
+giant robots,6934,78030,3.8
+giant robots,2411,78030,1.03
+gilliam,1080,48894,4.81
+gilliam,8957,48894,1.04
+gilliam,3671,48894,1.39
+gilliam,1396,48894,1.28
+gilliam,1208,48894,1.06
+gilliam,1079,48894,3.1
+gilliam,849,48894,1.03
+gilliam,29,48894,3.0
+girlie movie,4025,4182,4.47
+girlie movie,5943,4182,4.51
+girlie movie,3307,4182,2.93
+girlie movie,3248,4182,4.12
+girlie movie,1272,4182,1.09
+girlie movie,1136,4182,1.24
+girlie movie,586,4182,4.1
+glbt,38061,107650,2.84
+glbt,37741,107650,3.35
+global warming,45950,46844,4.36
+global warming,8361,46844,3.86
+god,1237,71084,4.1
+god,33493,71084,1.14
+god,2710,71084,2.15
+god,1517,71084,1.22
+god,1366,71084,3.84
+golden palm,1089,70640,4.87
+golf,104,12231,4.0
+good,8961,11377,1.41
+good,52694,11377,1.02
+good,5254,11377,1.02
+good acting,6609,83767,2.17
+good acting,2959,83767,4.1
+good acting,2871,83767,4.6
+good acting,2470,83767,1.26
+good acting,2082,83767,1.4
+good acting,1280,83767,3.0
+good action,64614,6145,4.96
+good action,59369,6145,4.95
+good action,45499,6145,3.54
+good action,6288,6145,1.31
+good dialogue,296,28376,4.18
+good dialogue,5577,28376,2.69
+good dialogue,4874,28376,3.55
+good dialogue,3852,28376,4.01
+good music,4993,87755,3.08
+good music,2083,87755,4.06
+good music,527,87755,4.41
+good music,153,87755,1.1
+good sequel,30707,13309,1.01
+good sequel,2072,13309,1.02
+good sequel,5,13309,3.98
+good soundtrack,1213,28911,4.91
+good versus evil,5816,90023,4.52
+good versus evil,3702,90023,1.86
+good versus evil,1527,90023,4.01
+good versus evil,1256,90023,2.96
+goofy,2791,66744,3.83
+goofy,344,66744,4.85
+goofy,46578,66744,2.27
+goofy,7438,66744,3.59
+goofy,3591,66744,3.43
+goofy,3408,66744,1.03
+gore,70286,104844,1.21
+gore,48780,104844,1.09
+goretastic,56174,44496,1.0
+goretastic,48394,44496,1.0
+goretastic,1974,44496,1.0
+gory,2455,16473,1.88
+gory,608,16473,3.95
+goth,3578,31061,1.21
+goth,3052,31061,2.22
+goth,1285,31061,3.89
+goth,951,31061,1.2
+gothic,2291,18598,3.9
+gothic,1278,18598,2.21
+gothic,49284,18598,1.01
+gothic,30816,18598,2.11
+gothic,30793,18598,3.92
+gothic,8533,18598,1.04
+gothic,994,18598,1.09
+gothic,592,18598,4.1
+gothic,541,18598,3.75
+graphic design,34072,106510,1.27
+graphic design,2571,106510,2.46
+graphic novel,51662,98045,4.35
+graphic novel,32587,98045,4.22
+graphic novel,59315,98045,4.68
+graphic novel,56003,98045,1.91
+gratuitous violence,296,68199,4.46
+gratuitous violence,293,68199,4.22
+great,50,18475,4.41
+great acting,4014,11892,1.89
+great acting,1961,11892,4.99
+great acting,47,11892,4.32
+great acting,53972,11892,2.92
+great acting,53125,11892,3.6
+great acting,40819,11892,4.95
+great acting,39183,11892,3.96
+great acting,2706,11892,3.8
+great acting,2470,11892,1.2
+great acting,2000,11892,3.74
+great acting,1265,11892,1.73
+great acting,778,11892,2.81
+great acting,180,11892,3.37
+great cinematography,34405,79487,3.92
+great cinematography,3996,79487,3.92
+great cinematography,1293,79487,4.32
+great cinematography,1183,79487,4.41
+great cinematography,497,79487,1.69
+great dialogue,2542,32296,3.82
+great dialogue,1284,32296,4.73
+great dialogue,778,32296,4.29
+great ending,2762,104145,4.71
+great ending,47,104145,4.68
+great ending,165,104145,4.72
+great movie,4270,92401,1.63
+great movie,50,92401,4.97
+great music,1206,53666,3.77
+great soundtrack,53519,59530,4.43
+great soundtrack,6350,59530,4.7
+great soundtrack,1240,59530,2.22
+great soundtrack,1213,59530,2.75
+great soundtrack,1198,59530,3.44
+great soundtrack,1198,59530,3.44
+great soundtrack,1089,59530,4.33
+great soundtrack,260,59530,4.36
+great soundtrack,3421,59530,3.41
+great soundtrack,1035,59530,4.75
+great soundtrack,535,59530,4.37
+grim,2959,84402,3.87
+grim,46976,84402,1.08
+grim,36529,84402,2.81
+grindhouse,8636,96226,1.08
+grindhouse,2338,96226,1.17
+grindhouse,70,96226,4.32
+gritty,6982,37251,1.35
+gritty,592,37251,2.03
+guilt,8958,74866,1.15
+guilty pleasure,4149,27691,1.01
+guilty pleasure,1372,27691,1.01
+guilty pleasure,1101,27691,1.01
+guilty pleasure,1089,27691,1.01
+guilty pleasure,736,27691,1.01
+guilty pleasure,165,27691,1.01
+gulf war,5010,108057,3.4
+gulf war,2450,108057,1.15
+gunfight,71460,86143,4.83
+guns,46578,82082,1.37
+guns,7143,82082,1.02
+guns,6016,82082,4.59
+guns,4025,82082,2.01
+hackers,4344,27220,2.64
+hackers,8873,27220,1.02
+hackers,1682,27220,1.01
+hackers,519,27220,1.01
+hacking,2571,36570,3.91
+halloween,353,29794,3.23
+hallucinatory,2076,103089,4.04
+hallucinatory,4467,103089,3.29
+hallucinatory,3602,103089,1.08
+hallucinatory,2712,103089,3.13
+hallucinatory,356,103089,2.1
+handycam,2710,34532,3.67
+handycam,377,34532,1.11
+hannibal lecter,4148,29017,1.0
+hannibal lecter,4148,29017,1.0
+hannibal lecter,593,29017,1.0
+hannibal lecter,8957,29017,1.0
+hannibal lecter,8142,29017,1.0
+hannibal lecter,7371,29017,1.0
+hannibal lecter,2005,29017,1.0
+hannibal lecter,22,29017,1.0
+harry potter,5816,101958,1.01
+harry potter,4896,101958,1.01
+harsh,58559,91611,4.0
+harsh,2687,91611,1.05
+harsh,2076,91611,4.8
+harsh,913,91611,1.06
+haunted house,1214,41414,2.15
+haunted house,59784,41414,1.05
+haunted house,27660,41414,3.09
+haunted house,6996,41414,1.05
+haunted house,2291,41414,2.24
+haunted house,1997,41414,3.81
+haunted house,552,41414,1.06
+hawaii,7293,8527,3.65
+hawaii,45208,8527,1.07
+heartbreaking,69757,107922,4.33
+heartbreaking,55820,107922,1.16
+heartbreaking,48394,107922,1.98
+heartbreaking,36276,107922,2.41
+heartbreaking,33794,107922,1.11
+heartbreaking,5446,107922,3.76
+heartbreaking,4239,107922,1.25
+heartbreaking,3271,107922,4.66
+heartbreaking,802,107922,1.22
+heartbreaking,318,107922,2.14
+heartwarming,7147,62067,4.1
+heartwarming,5971,62067,4.68
+heartwarming,3147,62067,3.23
+heartwarming,953,62067,3.94
+heartwarming,55820,62067,1.52
+heartwarming,2953,62067,2.43
+heartwarming,586,62067,2.41
+heist,6893,34966,4.79
+heist,4963,34966,4.45
+heist,4011,34966,3.86
+heist,1304,34966,4.83
+heist,50,34966,4.4
+heist,44665,34966,2.81
+heist,2278,34966,4.08
+heist,1193,34966,1.27
+heist,32,34966,2.14
+heroine,4978,55266,1.71
+heroine in tight suit,7104,81788,1.03
+high fantasy,54259,102488,4.9
+high fantasy,26776,102488,3.4
+high fantasy,7438,102488,2.41
+high fantasy,3996,102488,3.49
+high fantasy,1240,102488,4.02
+high school,56367,38001,3.01
+high school,56367,38001,3.01
+high school,54503,38001,3.89
+high school,6218,38001,2.99
+high school,2144,38001,4.92
+high school,1270,38001,3.44
+high school,1270,38001,3.44
+high school,1246,38001,4.61
+high school,3409,38001,2.65
+high school,3359,38001,1.66
+high school,2613,38001,4.18
+high school,2420,38001,1.93
+high school,2355,38001,1.26
+high school,1805,38001,2.8
+high school,524,38001,3.96
+highly quotable,260,51152,4.41
+highly quotable,60074,51152,1.77
+highly quotable,25773,51152,4.77
+highly quotable,3365,51152,4.05
+hilarious,51255,7613,3.46
+hilarious,1136,7613,4.53
+hilarious,1101,7613,1.46
+hilarious,344,7613,4.2
+hilarious,61024,7613,4.69
+hilarious,55820,7613,2.58
+hilarious,54796,7613,2.19
+hilarious,44694,7613,1.02
+hilarious,38159,7613,1.01
+hilarious,6662,7613,4.99
+hilarious,5296,7613,1.49
+hilarious,4911,7613,3.66
+hilarious,4084,7613,3.98
+hilarious,2985,7613,1.87
+hilarious,1211,7613,1.04
+hilarious,736,7613,2.3
+hilarious,368,7613,4.02
+hillarious,52281,167,2.91
+hillarious,3671,167,3.35
+hip hop,6948,64599,4.82
+historical,39292,1732,4.92
+historical,7379,1732,4.87
+historical,3578,1732,4.55
+historical,1225,1732,4.99
+historical,58306,1732,2.97
+historical,5299,1732,1.66
+historical,4995,1732,3.54
+historical,1093,1732,2.85
+historical,1090,1732,4.66
+history,4571,16802,2.59
+history,4310,16802,3.87
+history,1204,16802,4.31
+history,527,16802,4.58
+history,40819,16802,2.13
+history,37729,16802,1.01
+history,8807,16802,1.02
+history,7767,16802,4.35
+history,7484,16802,4.86
+history,6954,16802,1.79
+history,6332,16802,1.44
+history,3146,16802,1.01
+history,3095,16802,3.01
+history,2253,16802,2.56
+history,1968,16802,1.71
+history,1409,16802,1.11
+history,1270,16802,1.31
+history,858,16802,2.24
+hit men,57669,9063,2.93
+hit men,57669,9063,2.93
+hit men,44665,9063,3.65
+hit men,1213,9063,3.95
+hitchcock,1086,53250,4.99
+hitchcock,904,53250,4.98
+hitchcock,903,53250,4.98
+hitchcock,6639,53250,4.14
+holiday,1223,45359,4.57
+holiday,586,45359,4.65
+holiday,4002,45359,3.39
+holiday,2794,45359,1.74
+holiday,2683,45359,1.05
+holiday,2208,45359,3.0
+holiday,1272,45359,1.03
+holiday,1036,45359,1.51
+hollywood,5902,60851,3.42
+hollywood,899,60851,3.87
+hollywood,581,60851,4.17
+hollywood,2762,60851,3.04
+hollywood,1972,60851,2.92
+holocaust,68157,62377,3.28
+holocaust,64622,62377,4.59
+holocaust,64622,62377,4.59
+holocaust,30749,62377,4.11
+holocaust,5995,62377,4.75
+holocaust,5995,62377,4.75
+holocaust,2329,62377,2.87
+holocaust,2324,62377,4.57
+holocaust,1096,62377,3.25
+holocaust,527,62377,4.14
+holocaust,48032,62377,1.02
+holocaust,33679,62377,1.02
+holocaust,7396,62377,1.01
+holocaust,4370,62377,1.25
+holocaust,1281,62377,3.01
+homeless,5548,88474,4.73
+homeless,947,88474,4.83
+homeless,501,88474,4.07
+homeless,2694,88474,4.07
+homophobia,63131,62797,1.05
+homosexuality,37741,21471,1.98
+homosexuality,1081,21471,3.81
+homosexuality,3841,21471,1.02
+homosexuality,2791,21471,1.73
+homosexuality,908,21471,1.02
+honest,60069,56975,2.89
+horrible,59615,33344,2.01
+horrible,48394,33344,1.69
+horrible,6503,33344,4.93
+horrible,1544,33344,3.84
+horror,61240,13978,4.67
+horror,59727,13978,4.37
+horror,2617,13978,4.14
+horror,593,13978,3.67
+horror,480,13978,2.35
+horror,260,13978,1.58
+horror,8783,13978,2.24
+horror,6539,13978,1.01
+horror,4349,13978,2.16
+horror,3622,13978,1.01
+horror,1396,13978,1.11
+horror,1393,13978,1.0
+horror,1208,13978,2.68
+horses,6541,7903,1.07
+horses,5747,7903,4.95
+horses,1028,7903,1.63
+hospital,6502,99360,2.61
+hotel,30749,87004,3.56
+humanity,4855,43121,1.77
+humanity,4370,43121,3.62
+humanity,3677,43121,4.4
+humanity,1552,43121,1.93
+humanity,1097,43121,2.84
+humanity,173,43121,1.33
+humor,6538,74592,1.88
+humor,3257,74592,2.18
+humorous,54272,99747,3.83
+humorous,32587,99747,2.36
+humorous,32587,99747,2.36
+humorous,1,99747,3.94
+humorous,68945,99747,1.29
+humorous,48738,99747,2.05
+humorous,26555,99747,4.93
+humorous,8973,99747,3.29
+humorous,6807,99747,4.89
+humorous,6218,99747,2.18
+humorous,4692,99747,2.93
+humorous,4239,99747,1.08
+humorous,3450,99747,4.08
+humorous,3253,99747,4.8
+humorous,2571,99747,1.17
+humorous,1961,99747,2.91
+humorous,1077,99747,3.26
+humorous,1077,99747,3.26
+humorous,527,99747,1.03
+humorous,344,99747,4.9
+idealism,5878,92902,2.3
+idealism,1900,92902,4.42
+identity,1193,86893,2.99
+identity,47,86893,3.0
+imaginary friend,4226,91229,1.17
+imagination,2968,50413,4.25
+imagination,5952,50413,4.74
+imagination,5445,50413,4.75
+imagination,2105,50413,1.67
+imdb top 250,30749,63677,3.11
+imdb top 250,2324,63677,4.92
+imdb top 250,1240,63677,4.99
+imdb top 250,41566,63677,3.69
+imdb top 250,34048,63677,2.79
+imdb top 250,3544,63677,2.3
+imdb top 250,3175,63677,3.59
+imdb top 250,3152,63677,3.59
+immigrants,6238,75393,4.33
+immigrants,8807,75393,2.23
+immortality,48043,60924,4.18
+immortality,1275,60924,4.76
+immortality,4011,60924,1.05
+immortality,2144,60924,1.03
+immortality,1835,60924,4.44
+incest,2872,104207,1.03
+incest,1641,104207,1.28
+incest,6,104207,1.03
+independent film,4878,11329,4.02
+india,63082,30996,4.32
+india,63082,30996,4.32
+india,55269,30996,3.11
+india,6060,30996,2.3
+india,5135,30996,3.83
+india,2115,30996,2.17
+india,2115,30996,2.17
+india,1291,30996,1.01
+india,53125,30996,1.01
+india,8665,30996,1.31
+india,6539,30996,1.01
+india,4014,30996,1.12
+india,2028,30996,1.01
+india,908,30996,1.01
+indiana jones,2115,105147,4.44
+indiana jones,1291,105147,4.94
+indiana jones,3785,105147,1.08
+indiana jones,380,105147,1.29
+indie,56367,102362,4.26
+indie,61240,102362,3.97
+indie,4878,102362,1.37
+indie,356,102362,1.55
+innocence lost,5952,86833,1.66
+insanity,2959,98490,3.89
+insanity,25947,98490,1.85
+insanity,5902,98490,3.76
+inspirational,47099,10265,4.47
+inspirational,44191,10265,3.89
+inspirational,34153,10265,2.94
+inspirational,33660,10265,3.92
+inspirational,62,10265,4.07
+inspirational,6887,10265,2.91
+inspirational,6874,10265,2.4
+inspirational,2959,10265,1.29
+inspirational,2761,10265,3.97
+inspirational,2096,10265,1.17
+inspirational,260,10265,1.9
+inspirational,239,10265,4.0
+inspiring,1393,104231,3.58
+inspiring,356,104231,4.11
+inspiring,63082,104231,2.84
+inspiring,3255,104231,2.23
+inspiring,1641,104231,1.52
+inspiring,785,104231,2.74
+intellectual,5992,28496,3.24
+intellectual,8154,28496,2.9
+intellectual,7265,28496,1.5
+intellectual,6323,28496,4.08
+intelligent,4226,67183,4.12
+intelligent,1584,67183,2.23
+intelligent,1584,67183,2.23
+intelligent sci-fi,6713,17704,2.79
+intelligent sci-fi,3510,17704,3.47
+intelligent sci-fi,2571,17704,3.42
+intelligent sci-fi,1748,17704,4.36
+intelligent sci-fi,1408,17704,1.26
+intelligent sci-fi,780,17704,2.2
+intelligent sci-fi,497,17704,1.18
+intense,2959,57613,3.14
+intense,593,57613,4.6
+intense,356,57613,2.21
+intense,66371,57613,4.96
+intense,54001,57613,1.04
+intense,4878,57613,3.85
+intense,3347,57613,1.55
+intense,2109,57613,1.52
+intense,2083,57613,1.02
+interesting,2762,3668,3.76
+interesting,32,3668,4.73
+interesting,48774,3668,3.84
+interesting,3994,3668,3.38
+interesting,2617,3668,1.59
+interesting,1921,3668,3.0
+interesting,1921,3668,3.0
+interesting,1206,3668,3.97
+interesting,733,3668,2.23
+intimate,4428,70629,4.51
+intimate,6662,70629,3.26
+intimate,4848,70629,1.18
+intimate,4235,70629,2.8
+intimate,1876,70629,3.14
+investigation,2064,105099,4.32
+iran,37240,26778,1.01
+iran,26713,26778,1.01
+iran,356,26778,1.01
+iraq,7156,80127,3.49
+iraq,7156,80127,3.49
+iraq,1997,80127,1.01
+iraq,1120,80127,1.55
+iraq war,8622,65395,3.18
+iraq war,68159,65395,1.37
+iraq war,5669,65395,1.07
+iraq war,2890,65395,3.67
+ireland,53123,53455,3.98
+ireland,53123,53455,3.98
+ireland,314,53455,4.53
+ireland,54513,53455,1.03
+ireland,3256,53455,4.06
+ireland,3208,53455,1.14
+ireland,628,53455,1.04
+irish,5464,53576,3.23
+irish,4011,53576,3.76
+irish,4865,53576,1.02
+irish accent,41285,60280,3.78
+irreverent,8641,39276,4.62
+irreverent,2858,39276,1.48
+irreverent,54272,39276,3.87
+irreverent,48774,39276,1.07
+irreverent,2628,39276,1.72
+irreverent,1271,39276,1.1
+israel,40583,78804,3.97
+israel,53921,78804,3.92
+israel,7789,78804,4.1
+italian,2409,103949,1.81
+italian,1220,103949,1.13
+italy,26094,75015,4.78
+italy,2145,75015,1.29
+james bond,3984,32617,4.41
+james bond,3639,32617,5.0
+james bond,2989,32617,5.0
+james bond,2683,32617,1.0
+james bond,2683,32617,1.0
+james bond,10,32617,4.33
+james bond,33036,32617,1.0
+james bond,8622,32617,1.0
+james bond,6541,32617,1.0
+james bond,3623,32617,1.0
+james bond,2959,32617,1.0
+james bond,1608,32617,1.0
+james bond,1569,32617,1.0
+james bond,1291,32617,1.0
+jane austen,45668,33210,1.18
+jane austen,838,33210,4.84
+jane austen,8969,33210,2.96
+jane austen,4474,33210,1.05
+jane austen,3873,33210,1.01
+jane austen,3397,33210,1.01
+japan,48783,22177,3.03
+japan,31658,22177,4.96
+japan,26903,22177,5.0
+japan,26903,22177,5.0
+japan,7143,22177,4.95
+japan,6874,22177,3.49
+japan,6711,22177,3.24
+japan,5971,22177,4.33
+japan,3996,22177,2.2
+japan,3066,22177,4.99
+japan,31785,22177,1.36
+japan,7361,22177,1.01
+japan,2355,22177,1.81
+japan,610,22177,1.59
+japan,296,22177,1.0
+japanese,5618,88637,4.96
+japanese,2427,88637,3.91
+japanese,7569,88637,1.82
+japanese,32,88637,1.04
+jay and silent bob,223,81806,1.07
+jay and silent bob,4718,81806,1.07
+jazz,4963,71495,1.36
+jewish,4806,51676,4.18
+jewish,2324,51676,4.69
+jews,5995,46718,4.82
+jews,527,46718,4.11
+jews,4878,46718,1.81
+journalism,37741,10613,3.58
+journalism,1222,10613,2.69
+journalism,7376,10613,2.01
+journalism,7156,10613,2.34
+journalism,1900,10613,1.14
+journalism,948,10613,1.29
+jungle,3527,43498,4.78
+justice,44191,13700,4.05
+justice,6664,13700,4.27
+justice,1259,13700,1.92
+kick-butt women,6365,48914,3.01
+kidnapping,832,86857,4.98
+kidnapping,26939,86857,1.16
+kidnapping,7205,86857,4.16
+kidnapping,5013,86857,2.59
+kidnapping,1079,86857,2.78
+kids,3526,67609,4.32
+kids,3638,67609,1.1
+kids,586,67609,4.55
+kids,531,67609,3.84
+kids and family,33004,40744,2.85
+kids and family,6377,40744,4.92
+king arthur,6365,75523,1.03
+king arthur,2352,75523,1.04
+king arthur,1080,75523,1.51
+king arthur,371,75523,1.03
+kung fu,7438,41380,4.63
+kung fu,7438,41380,4.63
+kung fu,6365,41380,3.79
+kung fu,6365,41380,3.79
+kung fu,3996,41380,3.66
+kung fu,4387,41380,4.88
+kung fu,3438,41380,3.62
+kung fu,2420,41380,4.1
+kung fu,468,41380,1.01
+kurosawa,5291,11701,4.41
+kurosawa,3681,11701,2.47
+kurosawa,3681,11701,2.47
+kurosawa,2109,11701,1.01
+lame,57532,54576,3.67
+lame,12,54576,2.62
+las vegas,1961,23337,4.35
+las vegas,1961,23337,4.35
+las vegas,1060,23337,1.75
+las vegas,8984,23337,3.61
+las vegas,8984,23337,3.61
+las vegas,7706,23337,1.02
+las vegas,7317,23337,1.02
+las vegas,2843,23337,1.01
+latin america,6016,46087,4.88
+latin america,5902,46087,3.62
+lawyer,7018,76572,4.64
+lawyer,2302,76572,4.7
+lawyer,2616,76572,1.52
+lawyers,1343,29035,4.91
+lawyers,3408,29035,4.35
+lawyers,2151,29035,1.95
+lawyers,1193,29035,2.46
+lawyers,180,29035,1.11
+lesbian,61361,109249,1.69
+lesbian,6370,109249,1.08
+lesbian,6218,109249,2.11
+lesbian,1271,109249,3.34
+lesbian,1271,109249,3.34
+lesbian,928,109249,3.72
+lesbian,2364,109249,1.02
+lesbian,1090,109249,1.03
+lesbian,988,109249,1.23
+lesbian,908,109249,1.01
+life philosophy,342,60362,3.79
+lions,364,54402,4.27
+literature,41566,63311,3.59
+literature,30825,63311,1.82
+literature,4973,63311,1.94
+literature,2467,63311,4.77
+literature,1197,63311,2.41
+literature,527,63311,3.9
+liv tyler,5952,76373,4.96
+liv tyler,3976,76373,1.02
+liv tyler,2023,76373,1.01
+liv tyler,1627,76373,1.02
+liv tyler,1627,76373,1.02
+london,49530,47810,1.06
+london,61352,47810,2.12
+london,1267,47810,1.41
+london,914,47810,4.42
+lone hero,3697,80271,4.96
+lone hero,3408,80271,4.95
+lone hero,1320,80271,4.95
+loneliness,68954,48292,3.61
+long,4993,21397,4.06
+long,2019,21397,3.18
+long,1201,21397,4.95
+long,590,21397,4.89
+long,318,21397,3.11
+long,48774,21397,3.31
+long,45720,21397,3.18
+los angeles,1240,24678,4.81
+los angeles,1036,24678,3.93
+los angeles,56152,24678,3.91
+love,39183,58846,4.81
+love,7361,58846,4.96
+love,30816,58846,4.94
+love,4102,58846,3.39
+love,2054,58846,1.06
+love story,4246,54534,4.98
+love story,2312,54534,4.26
+love story,1721,54534,4.91
+love story,802,54534,4.98
+love story,597,54534,4.48
+love story,597,54534,4.48
+love story,8197,54534,3.65
+love story,6104,54534,1.11
+love story,5903,54534,3.26
+love story,1035,54534,4.96
+low budget,57274,74824,4.47
+low budget,34405,74824,1.5
+low budget,2710,74824,4.3
+low budget,223,74824,4.86
+low budget,1261,74824,4.47
+low budget,1215,74824,4.22
+low budget,1215,74824,4.22
+low budget,356,74824,1.33
+lyrical,56757,90417,3.31
+lyrical,4011,90417,1.97
+macabre,42632,40263,1.14
+macabre,6169,40263,1.34
+macabre,457,40263,4.31
+mad scientist,6534,59835,3.2
+mad scientist,2701,59835,3.97
+mad scientist,150,59835,1.44
+mad scientist,29,59835,3.73
+made for tv,8492,74355,1.01
+made for tv,58,74355,1.01
+mafia,55118,3738,4.98
+mafia,55118,3738,4.98
+mafia,48516,3738,4.55
+mafia,4262,3738,4.6
+mafia,3685,3738,3.49
+mafia,2539,3738,4.7
+mafia,1245,3738,3.66
+mafia,1213,3738,4.99
+mafia,1213,3738,4.99
+mafia,1213,3738,4.99
+mafia,910,3738,2.72
+mafia,454,3738,3.3
+mafia,296,3738,2.77
+mafia,296,3738,2.77
+mafia,296,3738,2.77
+mafia,21,3738,3.69
+mafia,44191,3738,1.01
+mafia,8596,3738,2.13
+mafia,8368,3738,1.16
+mafia,8361,3738,1.01
+mafia,7349,3738,1.01
+mafia,4776,3738,3.26
+mafia,2791,3738,1.36
+mafia,2490,3738,3.02
+mafia,1193,3738,1.02
+mafia,231,3738,1.28
+mafia,6,3738,3.05
+magic,54001,43394,4.94
+magic,41566,43394,4.42
+magic,6539,43394,3.71
+magic,4993,43394,3.76
+magic,4993,43394,3.76
+magic,4973,43394,3.23
+magic,4306,43394,3.86
+magic,2115,43394,1.9
+magic,1198,43394,1.82
+magic,588,43394,4.9
+magic,588,43394,4.9
+magic,53125,43394,3.94
+magic,5787,43394,1.47
+magic,3210,43394,1.16
+magic,1841,43394,1.84
+magic,1213,43394,1.05
+magic,1035,43394,1.24
+magic,1021,43394,2.94
+magic,899,43394,1.66
+magic,377,43394,1.07
+magic,185,43394,2.01
+male nudity,52042,76150,4.65
+male nudity,3147,76150,2.13
+male nudity,8961,76150,1.48
+man versus machine,3156,97751,2.35
+man versus machine,2716,97751,1.01
+man versus machine,954,97751,1.01
+manipulation,2617,13435,2.35
+marijuana,59022,76195,4.21
+marijuana,2542,76195,3.89
+marijuana,54503,76195,3.34
+marriage,308,7603,4.48
+marriage,7153,7603,3.06
+marriage,6765,7603,3.79
+marriage,1682,7603,1.72
+marriage,1279,7603,2.79
+mars,2916,36301,4.8
+mars,6,36301,1.25
+martial arts,42718,83106,4.71
+martial arts,6365,83106,3.78
+martial arts,5903,83106,3.46
+martial arts,2571,83106,3.93
+martial arts,2571,83106,3.93
+martial arts,2420,83106,4.99
+martial arts,2273,83106,3.93
+martial arts,1918,83106,1.97
+martial arts,64030,83106,4.76
+martial arts,50445,83106,2.1
+martial arts,6294,83106,3.94
+martial arts,5418,83106,3.03
+martial arts,5418,83106,3.03
+martial arts,5254,83106,2.79
+martial arts,3623,83106,2.73
+martial arts,2000,83106,2.13
+martial arts,1641,83106,1.0
+martial arts,539,83106,1.0
+martial arts,441,83106,1.0
+martial arts,19,83106,1.0
+marvel,8636,9530,4.33
+marvel,3793,9530,3.67
+marvel,60074,9530,2.34
+marvel,593,9530,1.0
+marx brothers,7121,93463,1.01
+masterpiece,2712,42812,4.0
+masterpiece,55820,42812,4.3
+masterpiece,6953,42812,3.36
+math,2803,71998,1.74
+mathematics,1704,101966,3.38
+mathematics,6953,101966,1.15
+mathematics,1961,101966,3.54
+medieval,4299,100090,4.0
+medieval,1136,100090,4.64
+medieval,1027,100090,4.27
+medieval,168,100090,4.61
+medieval,2826,100090,4.2
+meditative,34150,24993,1.11
+meditative,8785,24993,4.38
+melancholic,33679,95258,1.5
+melancholy,2313,41510,4.48
+melancholy,53894,41510,2.1
+melancholy,6016,41510,3.94
+melancholy,2858,41510,2.83
+melancholy,1291,41510,1.08
+memory,7361,51703,4.61
+memory,5418,51703,4.39
+memory,4226,51703,4.15
+memory,58162,51703,1.9
+memory,3681,51703,1.07
+memory,1270,51703,2.27
+memory,1240,51703,2.33
+mental hospital,4226,67851,2.1
+mental illness,1407,68350,4.78
+mental illness,62437,68350,2.85
+mental illness,6953,68350,1.27
+mental illness,4380,68350,3.72
+mentor,33794,83014,4.55
+metaphysics,3355,54490,1.56
+metaphysics,2028,54490,1.27
+mexico,163,65654,4.37
+mexico,2772,65654,1.02
+middle east,30749,8741,3.01
+middle east,5669,8741,2.15
+middle east,3996,8741,1.1
+middle east,908,8741,1.64
+midlife crisis,3317,72859,4.55
+military,5747,82547,4.99
+military,7458,82547,2.91
+military,7254,82547,1.12
+military,3699,82547,1.93
+military,1250,82547,4.81
+mindfuck,48877,21777,2.66
+mindfuck,4878,21777,3.31
+mindfuck,4226,21777,3.43
+mindfuck,4226,21777,3.43
+mindfuck,2959,21777,2.94
+mindfuck,1206,21777,2.96
+mindfuck,52715,21777,1.01
+mindfuck,30707,21777,1.01
+mindfuck,7153,21777,1.66
+mindfuck,3809,21777,1.01
+mindfuck,1704,21777,1.61
+mindfuck,1252,21777,2.37
+mindfuck,1234,21777,1.01
+mining,39234,58336,3.83
+mining,42002,58336,1.04
+minnesota,2718,38720,3.5
+minnesota,608,38720,3.83
+minnesota,6533,38720,1.48
+minnesota,1688,38720,1.14
+mission from god,1136,50126,3.07
+mistaken identity,908,2145,3.34
+miyazaki,7099,74203,3.65
+miyazaki,5690,74203,2.29
+miyazaki,55232,74203,1.0
+miyazaki,6773,74203,1.01
+miyazaki,741,74203,1.01
+miyazaki,480,74203,1.0
+mob,5053,32268,2.78
+mockumentary,48385,99913,3.22
+mockumentary,4350,99913,4.42
+mockumentary,4350,99913,4.42
+mockumentary,3911,99913,4.02
+mockumentary,3911,99913,4.02
+mockumentary,2710,99913,1.55
+mockumentary,1288,99913,4.22
+mockumentary,1288,99913,4.22
+mockumentary,1080,99913,2.72
+mockumentary,1080,99913,2.72
+mockumentary,45,99913,1.0
+mockumentary,55820,99913,1.0
+mockumentary,8528,99913,1.2
+mockumentary,3916,99913,1.03
+mockumentary,3098,99913,1.0
+mockumentary,2240,99913,1.08
+mockumentary,1997,99913,1.04
+modern fantasy,2571,53633,1.98
+modern fantasy,1129,53633,1.75
+monkey,36401,55209,1.05
+monkey,27839,55209,1.03
+monkey,4366,55209,1.46
+monster,2003,99159,4.22
+monster,1215,99159,3.43
+monster,6502,99159,4.56
+monster,3168,99159,1.23
+monty python,6807,51285,4.03
+monty python,1136,51285,3.66
+monty python,1136,51285,3.66
+monty python,33004,51285,1.27
+monty python,30793,51285,2.36
+monty python,6584,51285,2.54
+monty python,5989,51285,1.71
+monty python,1965,51285,1.21
+monty python,1249,51285,1.03
+monty python,1199,51285,2.64
+monty python,592,51285,4.2
+moon,41285,39803,1.03
+moon,1148,39803,1.04
+moon,1148,39803,1.04
+moral ambiguity,5418,3495,2.14
+mother-son relationship,60950,21489,1.1
+mother-son relationship,4722,21489,1.17
+mountain climbing,3999,71625,2.98
+mountain climbing,2788,71625,1.41
+movie business,5673,74488,1.0
+movie business,3070,74488,1.01
+movielens top pick,750,50800,4.13
+moving,1225,96678,1.99
+mtv,1405,663,1.02
+mtv,56171,663,1.01
+multiple storylines,46723,92930,1.08
+multiple storylines,6942,92930,4.96
+multiple storylines,5952,92930,3.63
+multiple storylines,2318,92930,4.19
+multiple storylines,1089,92930,2.5
+multiple storylines,296,92930,4.02
+multiple storylines,43376,92930,3.02
+multiple storylines,7040,92930,2.8
+multiple storylines,3521,92930,4.87
+multiple storylines,1277,92930,2.49
+multiple storylines,1198,92930,1.03
+multiple storylines,910,92930,4.61
+mummy,4270,362,3.45
+mummy,2617,362,3.5
+muppets,3396,32860,4.81
+muppets,2161,32860,2.47
+muppets,2161,32860,2.47
+muppets,2140,32860,3.75
+muppets,2140,32860,3.75
+muppets,1967,32860,3.5
+muppets,2746,32860,1.48
+muppets,2724,32860,1.01
+muppets,2716,32860,1.71
+muppets,2144,32860,1.01
+murder,8874,66794,1.01
+murder,1267,66794,1.66
+murder,457,66794,4.96
+murder,60161,66794,1.78
+murder,5222,66794,1.05
+murder,1094,66794,4.82
+murder mystery,908,71511,3.68
+music,34271,6528,5.0
+music,5995,6528,2.94
+music,3481,6528,4.99
+music,3168,6528,2.7
+music,2946,6528,4.99
+music,2394,6528,3.52
+music,1220,6528,4.99
+music,1212,6528,3.87
+music,551,6528,3.36
+music,62,6528,4.92
+music,38038,6528,1.0
+music,31437,6528,1.26
+music,3112,6528,1.01
+music,3022,6528,1.0
+music,3022,6528,1.0
+music,2692,6528,3.1
+music,457,6528,1.01
+music,306,6528,1.03
+music,249,6528,4.99
+musical,68073,100373,2.98
+musical,56757,100373,4.96
+musical,40826,100373,4.66
+musical,27815,100373,4.32
+musical,3910,100373,3.19
+musical,2700,100373,3.32
+musical,2081,100373,4.4
+musical,2081,100373,4.4
+musical,1688,100373,4.24
+musical,1449,100373,3.11
+musical,899,100373,4.99
+musical,594,100373,3.06
+musical,364,100373,3.98
+musical,52950,100373,1.03
+musical,48061,100373,2.82
+musical,45880,100373,3.03
+musical,27873,100373,1.94
+musical,7045,100373,1.86
+musical,6889,100373,1.36
+musical,6617,100373,1.01
+musical,6375,100373,2.56
+musical,6371,100373,1.03
+musical,5679,100373,1.16
+musical,3484,100373,1.07
+musical,3481,100373,2.65
+musical,3253,100373,1.53
+musical,3253,100373,1.53
+musical,2762,100373,1.1
+musical,2167,100373,1.13
+musical,838,100373,2.73
+musicians,40819,41522,4.92
+musicians,3070,41522,1.19
+musicians,1273,41522,1.05
+mystery,5679,70943,1.23
+mystery,4848,70943,4.46
+mystery,4848,70943,4.46
+mystery,4226,70943,4.39
+mystery,6787,70943,3.24
+mystery,2985,70943,1.05
+mystery,2947,70943,2.13
+mystery,2770,70943,2.87
+mystery,2571,70943,1.71
+mystery,316,70943,2.56
+mythology,316,25968,3.87
+mythology,316,25968,3.87
+mythology,2429,25968,1.43
+narrated,6934,80090,1.22
+narrated,6874,80090,4.87
+nasa,1097,32700,2.1
+nasa,4306,32700,1.53
+nasa,329,32700,1.6
+native americans,590,37474,4.7
+native americans,6169,37474,1.04
+native americans,4701,37474,1.37
+native americans,1408,37474,4.22
+native americans,1408,37474,4.22
+natural disaster,1333,94096,3.99
+nazi,58303,36965,4.12
+nazi,8128,36965,3.99
+nazi,357,36965,2.01
+nazis,68157,43609,4.38
+nazis,4278,43609,4.99
+nazis,1291,43609,2.4
+nazis,27846,43609,1.55
+nazis,6459,43609,4.99
+nazis,2359,43609,1.04
+neil gaiman,66097,30385,1.02
+neil gaiman,54259,30385,1.02
+neil gaiman,3000,30385,1.02
+neil gaiman,54995,30385,1.02
+neo-nazis,1220,53095,1.04
+neo-nazis,3421,53095,1.02
+nerds,2890,72438,2.04
+nerds,904,72438,1.03
+new jersey,994,6965,4.58
+new jersey,2124,6965,1.68
+new jersey,1252,6965,1.12
+new jersey,1210,6965,1.08
+new orleans,4086,109336,4.12
+new orleans,4086,109336,4.12
+new orleans,3799,109336,1.02
+new york,8636,52350,2.84
+new york,8636,52350,2.84
+new york,3528,52350,4.32
+new york,2953,52350,4.09
+new york,1307,52350,4.4
+new york,39183,52350,1.02
+new york,2109,52350,1.02
+new york,1012,52350,1.57
+new york city,5349,51350,3.21
+new york city,3039,51350,3.46
+new york city,2716,51350,3.46
+new york city,348,51350,4.3
+new york city,52952,51350,1.48
+new york city,48982,51350,3.29
+new york city,6989,51350,1.28
+new york city,1573,51350,1.31
+new york city,1378,51350,1.18
+new zealand,5952,6302,2.92
+new zealand,41566,6302,1.49
+no plot,6528,15086,1.06
+no plot,5074,15086,1.59
+nonlinear,7361,5748,4.5
+nonlinear,5291,5748,4.56
+nonlinear,4848,5748,4.73
+nonlinear,58103,5748,3.95
+nonlinear,51255,5748,2.96
+nonlinear,48516,5748,1.76
+nonlinear,8528,5748,1.01
+nonlinear,5456,5748,1.53
+nonlinear,5449,5748,1.5
+nonlinear,4246,5748,1.41
+nonlinear,4034,5748,2.58
+nonlinear,2706,5748,1.29
+nonlinear,2571,5748,1.91
+nonlinear,923,5748,4.66
+nonlinear,778,5748,4.21
+nonlinear,778,5748,4.21
+nonlinear,356,5748,3.54
+nostalgia,7058,74073,1.08
+nostalgia,899,74073,1.08
+nostalgia,588,74073,1.08
+nostalgic,1270,2688,3.69
+nostalgic,356,2688,2.44
+nostalgic,6863,2688,2.76
+nostalgic,2959,2688,1.08
+nostalgic,590,2688,2.07
+nostalgic,413,2688,1.7
+not as good as the first,6874,49235,1.23
+not funny,3948,81754,1.05
+not funny,1923,81754,1.05
+not funny,6365,81754,4.84
+not funny,5444,81754,2.82
+notable nudity,6591,47652,2.91
+notable nudity,4718,47652,4.01
+notable nudity,1616,47652,1.12
+notable nudity,1518,47652,1.07
+notable nudity,1307,47652,1.19
+notable nudity,302,47652,3.44
+notable soundtrack,4973,29152,1.01
+nuclear,2116,79006,1.04
+nuclear,1136,79006,1.04
+nuclear war,589,87923,4.31
+nuclear war,589,87923,4.31
+nuclear war,6218,87923,1.43
+nuclear war,2402,87923,3.27
+nudity,48385,45227,4.01
+nudity,7149,45227,1.05
+nudity,3897,45227,1.61
+nudity,3063,45227,4.28
+nudity,158,45227,1.14
+nudity (full frontal - brief),6870,101580,1.45
+nudity (full frontal - notable),5225,88537,4.42
+nudity (full frontal - notable),4848,88537,4.29
+nudity (full frontal - notable),3949,88537,2.17
+nudity (full frontal - notable),48774,88537,4.05
+nudity (full frontal - notable),1079,88537,2.69
+nudity (full frontal),2712,86492,4.5
+nudity (full frontal),1206,86492,4.71
+nudity (full frontal),57910,86492,2.12
+nudity (full frontal),27803,86492,1.01
+nudity (full frontal),4988,86492,1.0
+nudity (full frontal),3967,86492,1.08
+nudity (full frontal),2502,86492,1.15
+nudity (full frontal),1100,86492,1.79
+nudity (full frontal),555,86492,1.0
+nudity (rear),2469,2428,1.06
+nudity (rear),673,2428,1.05
+nudity (topless - brief),5669,10567,1.01
+nudity (topless - notable),35836,94177,4.33
+nudity (topless - notable),4974,94177,3.06
+nudity (topless - notable),4020,94177,3.79
+nudity (topless - notable),1805,94177,4.36
+nudity (topless - notable),57223,94177,1.04
+nudity (topless - notable),2950,94177,3.59
+nudity (topless - notable),2862,94177,4.87
+nudity (topless - notable),1485,94177,1.01
+nudity (topless - notable),367,94177,1.28
+nudity (topless),48738,25514,4.99
+nudity (topless),33166,25514,1.27
+nudity (topless),7346,25514,4.75
+nudity (topless),5878,25514,4.43
+nudity (topless),55765,25514,3.34
+nudity (topless),53121,25514,1.0
+nudity (topless),49274,25514,1.0
+nudity (topless),30749,25514,1.01
+nudity (topless),3252,25514,2.56
+nudity (topless),2699,25514,1.0
+nudity (topless),1527,25514,1.04
+nudity (topless),783,25514,1.0
+nudity (topless),208,25514,1.0
+obsession,7063,75536,4.57
+obsession,6837,75536,1.05
+obsession,1208,75536,4.79
+obsession,908,75536,4.08
+obsession,288,75536,4.81
+ocean,1721,38941,2.79
+ocean,1387,38941,1.05
+ocean,661,38941,2.39
+off-beat comedy,2502,76241,3.8
+off-beat comedy,27608,76241,1.15
+off-beat comedy,3799,76241,2.4
+off-beat comedy,2688,76241,1.04
+off-beat comedy,2174,76241,3.2
+off-beat comedy,1834,76241,1.59
+office,62437,25001,1.59
+office,5642,25001,1.03
+office,5516,25001,2.04
+office,3272,25001,1.02
+office,1875,25001,4.91
+oil,56782,30728,4.32
+oil,40583,30728,4.07
+oil,8622,30728,4.46
+oil,1204,30728,1.19
+olympics,59731,17352,3.57
+olympics,7782,17352,1.01
+olympics,6565,17352,2.03
+olympics,4623,17352,1.89
+olympics,441,17352,1.02
+olympics,339,17352,1.01
+ominous,6711,27634,2.42
+ominous,4546,27634,2.49
+opera,1256,103094,1.01
+organized crime,48516,37068,4.55
+organized crime,5464,37068,4.12
+organized crime,4011,37068,4.36
+organized crime,296,37068,4.22
+organized crime,296,37068,4.22
+organized crime,49961,37068,1.07
+organized crime,33794,37068,3.33
+organized crime,33603,37068,1.05
+organized crime,32031,37068,1.01
+organized crime,5995,37068,1.1
+organized crime,5636,37068,1.78
+organized crime,4233,37068,1.44
+organized crime,3996,37068,1.02
+organized crime,2329,37068,4.47
+organized crime,1247,37068,1.6
+organized crime,1206,37068,3.78
+organized crime,780,37068,1.02
+organized crime,348,37068,4.25
+original,2959,70479,2.96
+original,8371,70479,3.88
+original,2010,70479,4.96
+original,1374,70479,2.35
+original,455,70479,4.81
+original plot,7153,37859,3.76
+original plot,44974,37859,4.28
+original plot,2617,37859,1.99
+original plot,1243,37859,3.71
+orphans,3148,93183,1.2
+orphans,50798,93183,2.53
+oscar (best actor),1293,106267,4.95
+oscar (best actor),54796,106267,1.56
+oscar (best actor),3174,106267,1.01
+oscar (best actor),1291,106267,2.63
+oscar (best actor),1221,106267,4.96
+oscar (best actress),39234,48566,3.91
+oscar (best cinematography),1228,107305,4.48
+oscar (best cinematography),5528,107305,1.24
+oscar (best cinematography),2427,107305,4.41
+oscar (best directing),2291,19475,4.99
+oscar (best directing),1127,19475,4.99
+oscar (best effects - visual effects),4993,14076,4.85
+oscar (best effects - visual effects),47937,14076,1.2
+oscar (best effects - visual effects),6377,14076,1.03
+oscar (best effects - visual effects),2594,14076,1.05
+oscar (best effects - visual effects),357,14076,1.01
+oscar (best foreign language film),3996,47975,4.22
+oscar (best music - original song),46850,12453,1.31
+oscar (best music - original song),2997,12453,1.45
+oscar (best music - original song),1594,12453,1.17
+oscar (best music - original song),1126,12453,1.22
+oscar (best picture),33166,55404,4.01
+oscar (best picture),858,55404,4.74
+oscar (best picture),64614,55404,1.01
+oscar (best picture),63876,55404,1.53
+oscar (best picture),5952,55404,4.55
+oscar (best picture),4700,55404,1.04
+oscar (best picture),2067,55404,4.99
+oscar (best picture),208,55404,1.03
+oscar (best picture),153,55404,1.01
+oscar (best supporting actor),1086,46914,1.84
+oscar (best supporting actor),858,46914,4.46
+oscar winner,6493,46721,1.35
+oscar winner,3753,46721,1.53
+over the top,4084,70043,1.91
+overrated,48774,18699,2.09
+overrated,2571,18699,2.16
+overrated,2396,18699,2.25
+overrated,1197,18699,1.16
+overrated,910,18699,1.02
+overrated,508,18699,1.13
+overrated,50068,18699,1.99
+overrated,7254,18699,1.0
+overrated,6122,18699,2.2
+overrated,2108,18699,1.87
+overrated,1387,18699,1.11
+overrated,1257,18699,1.07
+overrated,1214,18699,1.0
+overrated,1171,18699,1.11
+overrated,1120,18699,1.62
+palestine,59018,27589,1.06
+parallel universe,4993,31270,4.93
+parallel universe,2959,31270,2.91
+parallel universe,355,31270,1.18
+paranoia,7701,24675,1.58
+paranoia,1653,24675,3.84
+paranoia,924,24675,1.89
+parenthood,2355,20629,1.96
+parenthood,2303,20629,1.98
+parenthood,1958,20629,2.86
+parenthood,500,20629,4.36
+paris,59369,3185,4.3
+paris,45447,3185,3.29
+paris,45447,3185,3.29
+paris,4973,3185,4.75
+paris,2793,3185,4.97
+paris,1801,3185,3.61
+paris,27837,3185,1.12
+paris,3005,3185,1.31
+paris,2021,3185,1.1
+paris,1078,3185,1.01
+paris,608,3185,1.01
+parody,56152,94930,2.94
+parody,51255,94930,4.65
+parody,4306,94930,2.38
+parody,1580,94930,3.86
+parody,1278,94930,4.96
+parody,1080,94930,4.84
+parody,520,94930,4.72
+parody,296,94930,1.7
+parody,50872,94930,1.21
+parody,8917,94930,4.26
+parody,8796,94930,1.24
+parody,4886,94930,3.01
+parody,2722,94930,1.13
+parody,2394,94930,1.08
+parody,1356,94930,1.01
+parody,303,94930,2.51
+penguins,1148,72109,2.19
+penguins,56367,72109,1.14
+penguins,38038,72109,2.35
+penguins,5952,72109,1.04
+perfect,6708,51934,2.28
+perfect,3751,51934,2.31
+period piece,1296,91905,4.98
+period piece,838,91905,4.88
+peter pan,3489,20248,1.01
+peter pan,3672,20248,1.01
+pg-13,54272,63071,4.96
+pg-13,45499,63071,2.63
+philip k. dick,27904,32652,4.36
+philip k. dick,2571,32652,3.23
+philip k. dick,1748,32652,2.91
+philip k. dick,1200,32652,3.93
+philip k. dick,172,32652,3.5
+philosophical,4370,82280,2.54
+philosophical,924,82280,3.11
+philosophical,61024,82280,1.89
+philosophical,6817,82280,2.94
+philosophical,3986,82280,1.24
+philosophy,6365,84393,3.85
+philosophy,2959,84393,3.57
+philosophy,1246,84393,2.98
+philosophy,55732,84393,3.07
+philosophy,26492,84393,1.87
+philosophy,1020,84393,2.11
+philosophy,541,84393,4.33
+philosophy,356,84393,3.97
+philosophy,216,84393,1.01
+photographer,6711,82958,1.16
+photographer,6016,82958,1.09
+pigs,34,29245,4.97
+pigs,48877,29245,1.01
+pigs,6297,29245,2.18
+pigs,1784,29245,1.26
+pirates,58559,12183,1.0
+pirates,49272,12183,1.01
+pirates,7347,12183,1.02
+pirates,5377,12183,1.3
+pirates,4816,12183,1.01
+pirates,3783,12183,1.01
+pirates,3717,12183,1.0
+pirates,2791,12183,1.2
+pirates,2405,12183,1.05
+pirates,1302,12183,1.65
+pirates,552,12183,2.58
+pirates,420,12183,1.01
+pixar,50872,14696,1.0
+pixar,8360,14696,1.0
+pixar,5218,14696,1.0
+pixar,5218,14696,1.0
+pixar,4886,14696,1.0
+pixar,3114,14696,1.0
+pixar,55995,14696,1.0
+pixar,51662,14696,1.0
+pixar,49274,14696,1.0
+pixar,8641,14696,1.0
+pixar,3988,14696,1.0
+pixar,3751,14696,1.0
+pixar,3751,14696,1.0
+pixar,592,14696,1.0
+pixar animation,1,30970,4.99
+pixar animation,45499,30970,1.06
+plot,7361,103753,3.43
+plot,4531,103753,4.07
+plot,1620,103753,3.25
+plot,1148,103753,1.96
+plot,1086,103753,3.38
+plot twist,1805,24018,4.54
+plot twist,46347,24018,1.23
+plot twist,37729,24018,2.24
+plot twist,8368,24018,4.64
+plot twist,4011,24018,4.75
+plot twist,2542,24018,4.65
+poetry,5890,47380,2.97
+poetry,58,47380,3.85
+poetry,3039,47380,1.14
+poetry,1092,47380,2.73
+poetry,1059,47380,3.11
+poignant,7360,76660,3.14
+poignant,2858,76660,3.27
+poignant,1196,76660,1.03
+pointless,6333,53569,4.72
+pointless,1981,53569,4.58
+pointless,737,53569,1.42
+poker,1234,91340,4.6
+poker,3783,91340,4.76
+poker,2762,91340,1.59
+police,69122,59938,1.02
+police,39446,59938,1.1
+police,6595,59938,4.85
+police,5445,59938,2.82
+police,1260,59938,3.18
+police,1089,59938,1.18
+police,38294,59938,1.01
+police,4993,59938,1.12
+police,1,59938,1.04
+police corruption,2002,71640,4.85
+police investigation,608,47735,4.07
+political,8622,20373,4.95
+political,6377,20373,1.06
+political,912,20373,3.07
+politics,44191,86819,4.0
+politics,8622,86819,4.69
+politics,8582,86819,4.93
+politics,750,86819,4.05
+politics,48774,86819,3.08
+politics,48385,86819,3.09
+politics,44555,86819,4.19
+politics,27397,86819,1.83
+politics,8966,86819,4.98
+politics,2371,86819,2.68
+politics,2005,86819,1.33
+politics,349,86819,2.65
+post apocalyptic,60069,21710,2.64
+post apocalyptic,33834,21710,4.97
+post apocalyptic,6934,21710,4.4
+post apocalyptic,6502,21710,4.98
+post apocalyptic,6365,21710,4.35
+post apocalyptic,3702,21710,4.98
+post apocalyptic,3702,21710,4.98
+post apocalyptic,208,21710,2.14
+post apocalyptic,24,21710,2.12
+post apocalyptic,8874,21710,4.2
+post apocalyptic,6541,21710,3.06
+post apocalyptic,2797,21710,1.06
+post apocalyptic,541,21710,4.97
+post-apocalyptic,60069,52718,4.12
+post-apocalyptic,7360,52718,4.73
+post-apocalyptic,6934,52718,3.21
+post-apocalyptic,6502,52718,4.9
+post-apocalyptic,6365,52718,3.59
+post-apocalyptic,6365,52718,3.59
+post-apocalyptic,6365,52718,3.59
+post-apocalyptic,3702,52718,3.02
+post-apocalyptic,2571,52718,3.17
+post-apocalyptic,2571,52718,3.17
+post-apocalyptic,2529,52718,3.35
+post-apocalyptic,208,52718,4.46
+post-apocalyptic,32,52718,4.8
+post-apocalyptic,44191,52718,2.72
+post-apocalyptic,34271,52718,1.0
+post-apocalyptic,8644,52718,3.5
+post-apocalyptic,6808,52718,1.0
+post-apocalyptic,2382,52718,1.0
+post-apocalyptic,2366,52718,2.05
+post-apocalyptic,1625,52718,1.05
+post-apocalyptic,1527,52718,1.87
+post-apocalyptic,1485,52718,1.0
+post-apocalyptic,1240,52718,4.62
+post-apocalyptic,953,52718,1.0
+post-apocalyptic,587,52718,2.56
+post-apocalyptic,541,52718,3.67
+post-apocalyptic,224,52718,1.0
+post-apocalyptic,29,52718,1.02
+poverty,6016,24582,3.86
+poverty,7371,24582,1.82
+powerful ending,4105,76462,2.9
+powerful ending,50,76462,4.12
+predictable,4069,4557,4.29
+predictable,1625,4557,1.54
+predictable,48774,4557,2.57
+predictable,3394,4557,4.04
+predictable,2985,4557,4.58
+predictable,2470,4557,2.02
+predictable,1894,4557,2.83
+pregnancy,48774,39030,4.25
+pregnancy,48774,39030,4.25
+pregnancy,8366,39030,4.62
+pregnancy,256,39030,1.93
+pregnancy,49524,39030,4.01
+pregnancy,6539,39030,1.03
+prejudice,3147,50637,3.91
+prequel,55118,48581,1.01
+prequel,1690,48581,1.01
+president,3386,49085,4.86
+president,440,49085,4.55
+president,1082,49085,4.56
+president,349,49085,2.42
+pretentious,5772,562,3.04
+pretentious,50,562,1.23
+prison,40819,15332,3.72
+prison,8371,15332,2.6
+prison,5064,15332,4.04
+prison,4220,15332,4.82
+prison,3196,15332,4.99
+prison,3147,15332,4.88
+prison,3147,15332,4.88
+prison,2329,15332,3.5
+prison,1320,15332,2.8
+prison,1262,15332,4.95
+prison,1220,15332,3.31
+prison,1206,15332,2.7
+prison,733,15332,3.96
+prison,733,15332,3.96
+prison,318,15332,4.55
+prison,318,15332,4.55
+prison,318,15332,4.55
+prison,53550,15332,4.96
+prison,5349,15332,3.15
+prison,3262,15332,1.01
+prison,1450,15332,3.99
+prison,1193,15332,2.71
+prison,223,15332,1.01
+prison escape,1262,49765,4.94
+prison escape,318,49765,4.78
+prison escape,4681,49765,2.0
+private detective,1923,1696,2.1
+private detective,1200,1696,1.05
+private detective,904,1696,2.28
+propaganda,8622,7368,3.95
+propaganda,33794,7368,1.05
+propaganda,3989,7368,4.06
+propaganda,2402,7368,1.03
+propaganda,919,7368,1.12
+prostitution,55118,104475,1.74
+prostitution,7160,104475,4.64
+prostitution,3039,104475,1.44
+prostitution,597,104475,4.52
+prostitution,111,104475,3.49
+prostitution,44555,104475,1.7
+prostitution,32587,104475,3.91
+prostitution,2918,104475,1.17
+prostitution,2882,104475,1.11
+prostitution,2563,104475,4.25
+psychedelic,48043,19303,3.9
+psychedelic,32587,19303,2.66
+psychedelic,4878,19303,2.31
+psychiatrist,2539,75771,4.0
+psychiatrist,1704,75771,2.63
+psychiatrist,372,75771,3.05
+psychological,2959,104622,4.11
+psychological,2959,104622,4.11
+psychological,1258,104622,4.32
+psychological,4148,104622,4.72
+psychological,3801,104622,1.95
+psychological,2628,104622,1.06
+psychological,1556,104622,1.45
+psychological,586,104622,1.77
+psychological,50,104622,3.75
+psychology,6301,29402,2.9
+psychology,4226,29402,3.79
+psychology,4226,29402,3.79
+psychology,2997,29402,4.03
+psychology,2959,29402,4.25
+psychology,1784,29402,3.09
+psychology,1704,29402,3.03
+psychology,593,29402,4.84
+psychology,111,29402,2.97
+psychology,22,29402,3.12
+psychology,52241,29402,2.67
+psychology,48780,29402,4.12
+psychology,42004,29402,1.01
+psychology,27873,29402,1.0
+psychology,3994,29402,3.11
+psychology,2841,29402,2.14
+psychology,1934,29402,2.23
+psychology,1214,29402,2.91
+psychology,1214,29402,2.91
+psychology,1085,29402,4.99
+psychology,745,29402,1.01
+psychology,475,29402,2.11
+pulp,27674,64193,2.35
+pulp,5226,64193,1.64
+pulp,2918,64193,2.09
+pulp,784,64193,4.9
+punk,1965,53720,3.78
+puppets,2355,38113,1.51
+puppets,551,38113,4.09
+queer,69784,109037,2.95
+queer,42004,109037,1.68
+quirky,8784,52344,2.0
+quirky,8376,52344,3.33
+quirky,4306,52344,1.95
+quirky,3911,52344,4.83
+quirky,2959,52344,3.4
+quirky,2959,52344,3.4
+quirky,2700,52344,3.51
+quirky,441,52344,2.7
+quirky,57669,52344,4.69
+quirky,38600,52344,1.0
+quirky,6104,52344,3.41
+quirky,3424,52344,3.89
+quirky,3268,52344,3.88
+quirky,1835,52344,1.82
+quirky,1721,52344,1.42
+quirky,1249,52344,1.0
+quotable,4878,5979,1.65
+quotable,1285,5979,4.08
+quotable,1214,5979,1.88
+quotable,1210,5979,1.91
+quotable,562,5979,4.19
+race,1957,15742,4.67
+race issues,1198,48621,2.38
+race issues,1041,48621,4.14
+racing,46970,26646,4.81
+racing,4369,26646,4.89
+racing,3717,26646,4.19
+racing,39307,26646,4.94
+racing,2011,26646,1.06
+racism,64614,8820,3.46
+racism,1271,8820,2.37
+racism,2894,8820,1.04
+racism,1201,8820,1.74
+racism,318,8820,1.51
+racism,50,8820,1.48
+rape,2739,29380,2.84
+rape,296,29380,4.03
+rape,296,29380,4.03
+rape,7438,29380,2.26
+rape,4128,29380,1.87
+rape,3702,29380,1.04
+rape,50,29380,1.12
+rats,50872,106765,2.77
+rats,50872,106765,2.77
+rats,50872,106765,2.77
+rats,410,106765,4.05
+realistic,5010,19538,4.0
+realistic,57640,19538,1.18
+realistic,54286,19538,2.83
+realistic,2395,19538,2.67
+realistic,1663,19538,2.07
+realistic,778,19538,3.93
+realistic,47,19538,2.78
+rebellion,6879,14536,1.4
+redemption,5464,76395,3.93
+redemption,5349,76395,2.99
+redemption,2717,76395,1.43
+redemption,65,76395,2.98
+reflective,5995,73993,3.79
+reflective,6870,73993,3.9
+reflective,3996,73993,2.97
+relationships,6711,2176,4.73
+relationships,4246,2176,3.85
+relationships,39414,2176,4.17
+relationships,5225,2176,4.69
+relationships,3897,2176,2.77
+relationships,708,2176,4.97
+religion,59126,52817,4.34
+religion,56174,52817,1.09
+religion,51471,52817,3.5
+religion,6807,52817,2.87
+religion,1136,52817,3.51
+religion,1080,52817,3.55
+religion,51540,52817,1.52
+religion,35836,52817,2.0
+religion,8665,52817,1.07
+religion,7438,52817,1.01
+religion,6954,52817,3.26
+religion,6898,52817,1.11
+religion,6873,52817,1.03
+religion,4886,52817,1.0
+religion,4816,52817,1.78
+religion,3201,52817,1.08
+religion,1801,52817,2.88
+religion,110,52817,1.37
+remade,8228,42322,1.4
+remade,8633,42322,1.01
+remade,3702,42322,1.01
+remake,30793,11463,3.95
+remake,6909,11463,4.39
+remake,5489,11463,1.0
+remake,4963,11463,4.97
+remake,4963,11463,4.97
+remake,4262,11463,4.92
+remake,332,11463,4.12
+remake,32587,11463,1.34
+remake,8874,11463,1.02
+remake,1073,11463,2.31
+remake,849,11463,1.01
+remake,356,11463,1.01
+revenge,59369,57872,4.62
+revenge,7438,57872,4.67
+revenge,6874,57872,3.86
+revenge,3265,57872,3.81
+revenge,1221,57872,4.98
+revenge,805,57872,4.67
+revenge,593,57872,1.03
+revenge,592,57872,3.34
+revenge,110,57872,4.39
+revenge,5621,57872,4.15
+revenge,5418,57872,4.13
+revenge,4587,57872,1.36
+revenge,3101,57872,4.87
+revenge,2087,57872,1.03
+revenge,1240,57872,4.3
+revenge,1209,57872,4.94
+revenge,1189,57872,3.23
+revenge,1103,57872,3.08
+revolution,4270,18901,1.58
+ridiculous,51080,19275,1.43
+ridiculous,49272,19275,3.11
+ridiculous,37729,19275,1.04
+ridiculous,3129,19275,1.07
+ridiculous,1089,19275,2.98
+ridiculous,337,19275,1.28
+rio de janeiro,7088,58847,3.69
+rio de janeiro,65567,58847,1.04
+rio de janeiro,33171,58847,1.44
+rio de janeiro,235,58847,1.02
+road movie,3104,11299,4.65
+road movie,2707,11299,1.23
+road movie,1589,11299,1.03
+road trip,71535,53830,3.89
+road trip,1961,53830,3.44
+road trip,1220,53830,4.95
+road trip,51088,53830,1.44
+road trip,50442,53830,1.24
+road trip,45928,53830,1.8
+road trip,7325,53830,1.01
+road trip,1676,53830,1.05
+road trip,1230,53830,1.32
+road trip,223,53830,1.64
+roald dahl,7569,101979,1.01
+roald dahl,1073,101979,1.01
+roald dahl,58559,101979,1.01
+roald dahl,4896,101979,1.01
+robbery,4963,68886,4.29
+robbery,2542,68886,2.87
+robert downey jr,38061,52996,3.23
+robert downey jr,3466,52996,2.78
+robert downey jr,56339,52996,1.01
+robert downey jr,5857,52996,1.09
+robert downey jr,5331,52996,1.0
+robert downey jr,4220,52996,1.01
+robert downey jr,1841,52996,2.02
+robert downey jr,1277,52996,1.01
+robert downey jr,1005,52996,1.01
+robert ludlum,63113,86168,1.65
+robert ludlum,49272,86168,1.01
+robots,33493,48262,3.54
+robots,1240,48262,4.2
+robots,589,48262,5.0
+robots,64969,48262,1.0
+robots,8961,48262,3.0
+robots,6365,48262,3.53
+robots,2712,48262,1.01
+robots,2571,48262,3.37
+robots,2528,48262,1.45
+robots,2010,48262,2.45
+robots,1769,48262,1.02
+rock and roll,54190,59256,4.98
+rock and roll,5820,59256,3.8
+rock and roll,3363,59256,3.49
+rock and roll,2657,59256,4.93
+rock and roll,1288,59256,4.77
+rock and roll,1270,59256,3.09
+rock and roll,5618,59256,1.01
+rock and roll,3996,59256,1.08
+rock and roll,3507,59256,1.01
+rock and roll,2916,59256,1.01
+rock and roll,2746,59256,2.32
+rock and roll,1220,59256,4.0
+rock and roll,180,59256,2.76
+romance,69844,35012,2.53
+romance,64957,35012,3.89
+romance,50792,35012,2.95
+romance,48043,35012,2.17
+romance,39183,35012,3.08
+romance,8533,35012,4.82
+romance,7149,35012,4.0
+romance,4848,35012,3.94
+romance,4306,35012,2.77
+romance,4018,35012,3.54
+romance,3257,35012,3.93
+romance,2671,35012,4.99
+romance,2572,35012,4.1
+romance,2571,35012,2.34
+romance,2470,35012,1.87
+romance,2248,35012,3.92
+romance,2100,35012,4.0
+romance,1888,35012,4.18
+romance,1721,35012,4.88
+romance,1674,35012,4.21
+romance,1307,35012,4.77
+romance,1265,35012,2.85
+romance,1265,35012,2.85
+romance,1198,35012,2.0
+romance,1197,35012,3.85
+romance,1101,35012,2.47
+romance,912,35012,4.2
+romance,912,35012,4.2
+romance,555,35012,3.92
+romance,357,35012,4.84
+romance,356,35012,3.57
+romance,33615,35012,2.12
+romance,6516,35012,5.0
+romance,6155,35012,4.2
+romance,5279,35012,4.96
+romance,4025,35012,4.36
+romance,3743,35012,4.15
+romance,3144,35012,4.78
+romance,2779,35012,4.73
+romance,2324,35012,5.0
+romance,1729,35012,3.63
+romance,1644,35012,1.11
+romance,1262,35012,1.01
+romance,1235,35012,3.78
+romance,1196,35012,2.45
+romance,144,35012,3.46
+romance,3,35012,2.95
+romantic,8638,39325,4.48
+romantic comedy,51094,21361,4.9
+romantic comedy,45501,21361,4.11
+romantic comedy,8670,21361,1.01
+romantic comedy,6180,21361,1.78
+romantic comedy,3481,21361,3.28
+rome,3578,1429,4.81
+runaway,2186,105753,4.29
+russia,6792,26296,3.74
+russia,3742,26296,3.92
+russia,2632,26296,1.35
+sad,48394,107327,3.32
+sad,47999,107327,2.82
+sad,30707,107327,3.45
+sad,527,107327,4.03
+sad,59018,107327,4.41
+sad,58303,107327,3.64
+sad,7160,107327,4.95
+sad,5607,107327,2.96
+sad,4345,107327,3.2
+sad,3174,107327,1.04
+sad,2858,107327,2.76
+sad,2762,107327,1.27
+sad,2175,107327,1.69
+sad,1541,107327,2.89
+sad,1240,107327,2.56
+sad,34,107327,1.24
+sad but good,594,43864,2.31
+samurai,7143,17280,4.18
+samurai,2905,17280,4.93
+sarcasm,2723,100485,4.22
+satire,61132,29527,4.33
+satire,54272,29527,3.08
+satire,48385,29527,3.44
+satire,38061,29527,2.38
+satire,5669,29527,3.6
+satire,3911,29527,4.33
+satire,2959,29527,2.63
+satire,2858,29527,3.33
+satire,1747,29527,4.52
+satire,1199,29527,4.31
+satire,1136,29527,4.66
+satire,21,29527,2.87
+satire,71535,29527,4.73
+satire,49272,29527,2.11
+satire,48520,29527,3.12
+satire,34048,29527,1.32
+satire,26487,29527,1.01
+satire,8977,29527,1.01
+satire,5528,29527,1.02
+satire,4079,29527,3.16
+satire,3534,29527,1.01
+satire,3398,29527,1.01
+satire,3160,29527,2.6
+satire,2894,29527,1.07
+satire,2683,29527,2.9
+satire,1148,29527,2.66
+satirical,1201,94700,1.96
+satirical,63113,94700,1.01
+satirical,61132,94700,3.54
+satirical,49530,94700,4.55
+satirical,40819,94700,1.04
+satirical,33679,94700,1.32
+satirical,32587,94700,1.01
+satirical,8376,94700,3.2
+satirical,2791,94700,3.31
+satirical,1676,94700,2.63
+satirical,1196,94700,1.01
+satirical,62,94700,1.28
+scary,4993,60953,2.46
+scary,1200,60953,4.31
+scary,47,60953,3.01
+scary,8874,60953,2.38
+scary,4378,60953,2.04
+scenic,7256,40088,3.61
+scenic,5764,40088,1.23
+scenic,1201,40088,3.26
+scenic,1131,40088,3.05
+scenic,592,40088,2.83
+schizophrenia,356,100629,1.06
+school,7154,72026,4.54
+school,4616,72026,1.03
+school,4019,72026,4.98
+school,2401,72026,1.06
+school,589,72026,1.02
+sci fi,2916,40185,4.84
+sci fi,32,40185,4.04
+sci fi,50872,40185,1.01
+sci fi,4975,40185,2.42
+sci fi,2628,40185,4.99
+sci fi,2368,40185,4.98
+sci fi,1682,40185,1.54
+sci fi,1653,40185,4.55
+sci fi,1097,40185,4.98
+sci fi,1077,40185,4.99
+sci-fi,72998,16788,4.54
+sci-fi,60684,16788,3.65
+sci-fi,60069,16788,4.39
+sci-fi,59315,16788,3.63
+sci-fi,52328,16788,4.43
+sci-fi,33493,16788,4.76
+sci-fi,7361,16788,2.22
+sci-fi,5378,16788,4.74
+sci-fi,2997,16788,2.42
+sci-fi,2997,16788,2.42
+sci-fi,2407,16788,3.78
+sci-fi,2012,16788,3.88
+sci-fi,2010,16788,4.06
+sci-fi,1779,16788,4.52
+sci-fi,1676,16788,4.48
+sci-fi,1653,16788,4.93
+sci-fi,1240,16788,4.64
+sci-fi,1199,16788,3.24
+sci-fi,1196,16788,3.49
+sci-fi,1127,16788,4.32
+sci-fi,1097,16788,3.55
+sci-fi,1097,16788,3.55
+sci-fi,480,16788,3.3
+sci-fi,480,16788,3.3
+sci-fi,60760,16788,4.47
+sci-fi,59615,16788,1.81
+sci-fi,53125,16788,1.25
+sci-fi,51662,16788,2.87
+sci-fi,49530,16788,1.0
+sci-fi,48696,16788,3.72
+sci-fi,45722,16788,1.09
+sci-fi,41285,16788,1.79
+sci-fi,36401,16788,3.37
+sci-fi,7318,16788,1.05
+sci-fi,7123,16788,1.13
+sci-fi,7022,16788,3.32
+sci-fi,6539,16788,1.0
+sci-fi,5989,16788,1.0
+sci-fi,5618,16788,2.61
+sci-fi,5152,16788,1.73
+sci-fi,3996,16788,2.37
+sci-fi,3930,16788,4.92
+sci-fi,3730,16788,1.46
+sci-fi,2959,16788,1.77
+sci-fi,2146,16788,1.45
+sci-fi,2019,16788,1.5
+sci-fi,1921,16788,2.59
+sci-fi,1556,16788,1.09
+sci-fi,1291,16788,1.01
+sci-fi,1094,16788,1.33
+sci-fi,1077,16788,3.37
+sci-fi,1029,16788,1.01
+sci-fi,903,16788,1.0
+sci-fi,593,16788,1.58
+sci-fi,435,16788,3.97
+sci-fi,5,16788,1.31
+science,8914,37735,3.36
+science,1876,37735,3.99
+science,30820,37735,1.09
+science fiction,589,16213,4.95
+science fiction,5502,16213,4.3
+science fiction,3686,16213,4.44
+science fiction,546,16213,3.14
+scifi,60069,39942,4.48
+scifi,2428,39942,3.52
+scifi,2425,39942,1.04
+scifi,1961,39942,1.04
+scifi,1270,39942,3.89
+scifi,1030,39942,2.43
+scifi,1011,39942,1.03
+scifi,541,39942,4.87
+scifi,250,39942,1.69
+scifi cult,44191,14120,4.25
+scotland,778,75517,4.97
+scotland,778,75517,4.97
+screwball,41285,74636,1.03
+screwball,4147,74636,1.02
+screwball,3965,74636,1.06
+screwball,2791,74636,4.85
+screwball,858,74636,1.03
+screwball comedy,955,58240,4.92
+screwball comedy,950,58240,4.44
+screwball comedy,898,58240,4.93
+screwball comedy,3341,58240,4.8
+screwball comedy,924,58240,1.09
+secrets,933,7448,4.95
+segregation,70286,23271,4.77
+segregation,6378,23271,1.43
+segregation,3424,23271,4.95
+segregation,2321,23271,4.9
+segregation,1380,23271,3.36
+self discovery,6711,18594,1.38
+self discovery,594,18594,1.45
+self discovery,552,18594,3.21
+sentimental,59333,42124,3.44
+sentimental,1193,42124,3.47
+sequel,58559,26615,3.05
+sequel,3623,26615,4.44
+sequel,1580,26615,1.67
+sequel,1320,26615,5.0
+sequel,849,26615,3.67
+sequel,165,26615,5.0
+sequel,55442,26615,1.0
+sequel,40278,26615,1.67
+sequel,2916,26615,1.67
+sequel,2571,26615,1.0
+sequel,2321,26615,1.67
+sequel,1275,26615,2.11
+sequel,1129,26615,1.0
+sequel,1095,26615,1.0
+sequel,743,26615,2.33
+sequel,595,26615,1.0
+sequel,47,26615,1.0
+serial killer,61240,30479,2.66
+serial killer,52458,30479,4.75
+serial killer,51540,30479,4.17
+serial killer,5105,30479,3.05
+serial killer,4865,30479,4.69
+serial killer,4855,30479,4.6
+serial killer,4210,30479,4.14
+serial killer,3741,30479,5.0
+serial killer,3445,30479,4.64
+serial killer,3275,30479,1.79
+serial killer,1974,30479,4.45
+serial killer,799,30479,3.56
+serial killer,593,30479,4.36
+serial killer,22,30479,4.99
+serial killer,6333,30479,1.0
+serial killer,5556,30479,4.32
+serial killer,3324,30479,2.0
+serial killer,2967,30479,4.99
+serial killer,2902,30479,4.99
+serial killer,2791,30479,1.09
+serial killer,2470,30479,1.0
+series,33493,92635,4.84
+sex,64622,66348,4.04
+sex,35836,66348,4.79
+sex,2797,66348,1.02
+sex,30825,66348,1.28
+sex,2894,66348,3.39
+sex,2706,66348,4.48
+sexual,8928,64694,1.94
+sexual,8332,64694,1.73
+sexual,7260,64694,2.93
+sexual,2706,64694,3.73
+sexual,1206,64694,3.01
+sexual,1120,64694,4.3
+sexuality,5617,42380,4.95
+sexualized violence,296,56661,4.85
+sexualized violence,48082,56661,2.08
+sexy,910,70492,4.52
+sexy,25940,70492,3.65
+sexy,3801,70492,1.67
+sexy,1962,70492,1.31
+sexy,1625,70492,1.33
+sexy,537,70492,4.39
+shakespeare,1224,92869,4.8
+shakespeare,26,92869,4.99
+shakespeare,17,92869,1.6
+shakespeare,7941,92869,3.8
+shakespeare,5650,92869,1.65
+shakespeare,3549,92869,1.01
+shakespeare,3091,92869,1.83
+shakespeare,802,92869,1.0
+shallow,2396,29209,2.04
+shark,6377,48774,4.43
+shark,6377,48774,4.43
+shark,6564,48774,1.58
+shopping,59725,13110,3.81
+shopping,5505,13110,4.5
+short-term memory loss,66665,42140,2.61
+short-term memory loss,57274,42140,1.69
+silly,2491,53766,3.0
+silly,48304,53766,1.09
+silly,33166,53766,1.17
+silly,6618,53766,3.97
+silly,2723,53766,3.21
+silly,1923,53766,3.24
+silly,1233,53766,1.16
+silly,733,53766,3.83
+silly fun,586,11685,4.36
+single father,1,62534,1.16
+sisters,6218,91238,1.18
+skinhead,52281,95393,1.02
+slackers,3210,96729,2.52
+slapstick,53956,86454,1.9
+slapstick,6593,86454,4.23
+slapstick,2843,86454,1.85
+slapstick,1183,86454,1.17
+slapstick,910,86454,1.99
+slasher,3826,75421,2.63
+slavery,3578,87237,3.74
+slow,66097,87183,1.54
+slow,41285,87183,1.87
+slow,37741,87183,1.01
+slow,3176,87183,1.28
+slow,1196,87183,1.99
+slow,541,87183,1.83
+slow,42009,87183,1.16
+slow,8949,87183,2.12
+slow,6993,87183,4.65
+slow,3386,87183,3.01
+slow,1882,87183,1.83
+slow paced,42094,101071,4.38
+slow paced,1347,101071,1.1
+small town,8783,32129,4.38
+small town,6867,32129,4.33
+small town,1259,32129,2.8
+small town,49793,32129,2.38
+small town,25971,32129,4.01
+small town,8331,32129,4.28
+small town,3408,32129,4.15
+small town,370,32129,3.05
+small town,47,32129,4.05
+so bad it's funny,6238,14131,2.66
+so bad it's funny,2709,14131,1.09
+so bad it's funny,2471,14131,4.38
+so bad it's good,4369,88759,1.0
+so bad it's good,969,88759,1.0
+so bad it's good,181,88759,1.0
+soccer,8665,68211,1.01
+soccer,2355,68211,1.01
+soccer,1036,68211,1.01
+social commentary,60069,78672,4.46
+social commentary,6796,78672,4.89
+social commentary,4878,78672,1.72
+social commentary,3949,78672,4.62
+social commentary,2959,78672,4.16
+social commentary,2858,78672,3.95
+social commentary,2502,78672,3.72
+social commentary,48516,78672,3.08
+social commentary,8874,78672,1.17
+social commentary,7153,78672,1.83
+social commentary,2700,78672,3.64
+social commentary,2539,78672,3.4
+social commentary,551,78672,2.18
+social commentary,306,78672,3.68
+solitude,2731,41498,4.37
+sophia coppola,6711,84462,1.02
+sophia coppola,3556,84462,1.02
+sophia coppola,3556,84462,1.02
+sophia coppola,34437,84462,1.02
+south africa,49530,10004,4.34
+south africa,5459,10004,2.54
+south africa,3984,10004,1.26
+south africa,1258,10004,1.03
+south america,64957,22385,1.08
+south america,63113,22385,1.96
+south america,1197,22385,1.04
+space,60069,2117,3.77
+space,5882,2117,4.31
+space,3638,2117,3.13
+space,2628,2117,4.99
+space,1917,2117,3.81
+space,1584,2117,3.88
+space,1320,2117,4.21
+space,56801,2117,3.87
+space,51255,2117,1.0
+space,48774,2117,1.0
+space,42011,2117,1.0
+space,8973,2117,1.0
+space,8961,2117,2.65
+space,8879,2117,1.0
+space,7300,2117,1.0
+space,6645,2117,3.85
+space,6536,2117,1.01
+space,6303,2117,2.99
+space,5400,2117,1.09
+space,4587,2117,2.19
+space,4370,2117,2.63
+space,3037,2117,1.0
+space,2995,2117,1.01
+space,2770,2117,1.0
+space,2407,2117,3.28
+space,2021,2117,4.2
+space,1580,2117,2.98
+space,541,2117,2.99
+space,1,2117,1.51
+space,1,2117,1.51
+space opera,1376,98207,4.85
+space program,150,61224,3.27
+space travel,2571,39212,3.43
+space travel,2137,39212,1.02
+space travel,1580,39212,1.03
+space travel,1097,39212,4.93
+spaghetti western,7438,90228,1.87
+spaghetti western,33036,90228,1.01
+spaghetti western,7980,90228,1.01
+spaghetti western,6874,90228,1.89
+spaghetti western,3769,90228,1.92
+spaghetti western,2054,90228,1.01
+spain,44694,10298,4.98
+spain,7820,10298,1.17
+spanish,733,15517,1.06
+spanish civil war,8754,86766,2.13
+spanish civil war,46723,86766,4.2
+spanish civil war,7238,86766,3.48
+spanish civil war,6296,86766,1.01
+spanish civil war,6296,86766,1.01
+spanish civil war,3654,86766,1.01
+special,5952,98149,1.94
+special effects,2762,14251,1.34
+special effects,2355,14251,2.56
+special effects,337,14251,1.22
+spelling bee,34153,40106,1.01
+spelling bee,1214,40106,1.01
+spielberg,527,19715,3.24
+spielberg,5146,19715,1.11
+spies,41566,87433,1.06
+spies,3984,87433,4.98
+spies,2951,87433,1.03
+spies,1262,87433,1.71
+splatter,56801,53441,4.31
+splatter,3081,53441,4.03
+splatter,2094,53441,2.15
+spock,589,56861,1.04
+spoof,8874,45327,4.93
+spoof,1717,45327,2.55
+spoof,3153,45327,1.01
+sports,3916,102445,4.94
+sports,3178,102445,2.3
+sports,2474,102445,3.49
+sports,2411,102445,4.07
+sports,1393,102445,4.45
+sports,7099,102445,1.01
+sports,6157,102445,1.08
+sports,3468,102445,3.73
+sports,111,102445,1.44
+spy,8665,7580,4.81
+spy,5782,7580,1.3
+spy,48385,7580,1.63
+spy,44555,7580,4.82
+spy,6566,7580,2.76
+spy,4232,7580,3.37
+spy,2946,7580,1.01
+spy,2011,7580,2.65
+spying,61323,44770,3.94
+spying,52241,44770,1.87
+spying,5481,44770,4.1
+spying,3578,44770,1.36
+spying,2683,44770,3.85
+stage magic,2,49622,1.63
+stand-up comedy,5049,28414,1.17
+star trek,1374,38283,4.98
+star trek,1371,38283,4.98
+star trek,1371,38283,4.98
+star trek,59392,38283,1.36
+star trek,54771,38283,1.0
+star trek,7132,38283,1.0
+star trek,6678,38283,1.0
+star trek,4489,38283,1.0
+star trek,3994,38283,1.0
+star trek,3841,38283,1.0
+star trek,3033,38283,1.07
+star trek,1909,38283,1.06
+star trek,1831,38283,1.17
+star trek,1079,38283,1.0
+star wars,33493,80366,4.98
+star wars,5378,80366,4.99
+star wars,260,80366,4.33
+star wars,3471,80366,1.07
+steampunk,6541,5415,1.8
+steampunk,2701,5415,2.63
+steampunk,71379,5415,1.03
+steampunk,45431,5415,1.01
+steampunk,26776,5415,3.27
+steampunk,4995,5415,3.22
+steampunk,2700,5415,1.02
+stop motion,1148,65905,4.95
+stop motion,1,65905,1.56
+stop-motion,58559,23610,1.02
+storytelling,7438,62526,3.88
+storytelling,7147,62526,4.94
+stranded,5830,66035,4.39
+stranded,70286,66035,2.02
+strange,30810,68306,1.37
+strippers,64839,27141,3.54
+strippers,32587,27141,1.99
+strippers,70,27141,2.38
+strippers,780,27141,1.02
+studio ghibli,31658,91655,4.89
+studio ghibli,7099,91655,3.92
+studio ghibli,5618,91655,2.91
+studio ghibli,3000,91655,4.32
+studio ghibli,4280,91655,1.0
+studio ghibli,1274,91655,2.33
+studio ghibli,741,91655,1.0
+studio ghibli,741,91655,1.0
+studio ghibli,741,91655,1.0
+studio ghibli,356,91655,1.0
+stunning,6299,83365,4.77
+stunning,1293,83365,3.25
+stupid,5669,69370,1.01
+stupid,1274,69370,1.01
+stupid,208,69370,1.64
+stupid,4526,69370,2.46
+stupid,3261,69370,2.12
+stupid,2858,69370,1.02
+stupid,2763,69370,1.13
+stupid,2628,69370,1.77
+stupid,1562,69370,1.0
+stupid,1288,69370,3.03
+stupid,491,69370,1.27
+stylish,296,74061,4.62
+stylized,7153,61398,3.78
+stylized,4979,61398,3.2
+stylized,4979,61398,3.2
+stylized,4848,61398,2.78
+stylized,3578,61398,3.06
+stylized,1682,61398,3.67
+stylized,1089,61398,4.2
+stylized,53125,61398,3.85
+stylized,30712,61398,4.77
+stylized,8970,61398,2.89
+stylized,3421,61398,1.13
+stylized,2080,61398,4.08
+stylized,1333,61398,2.07
+stylized,943,61398,3.01
+stylized,780,61398,1.56
+stylized,593,61398,2.39
+stylized,475,61398,3.09
+stylized,125,61398,2.57
+stylized,47,61398,4.29
+submarine,2989,33102,2.77
+submarine,1779,33102,3.99
+submarine,1610,33102,4.24
+submarine,6385,33102,1.27
+suburbia,2858,36102,4.56
+suburbia,4873,36102,4.78
+suicide,46578,52458,2.72
+suicide,8014,52458,2.33
+suicide,5060,52458,3.49
+suicide,2297,52458,3.72
+suicide,2297,52458,3.72
+suicide,1235,52458,2.93
+suicide,59333,52458,1.52
+suicide,7361,52458,1.02
+suicide,5690,52458,2.65
+super hero,58559,63947,4.83
+super hero,6333,63947,4.05
+super hero,1923,63947,1.05
+super hero,1136,63947,1.05
+super-hero,33794,48267,4.99
+super-hero,8636,48267,4.99
+super-hero,6934,48267,3.94
+super-hero,6934,48267,3.94
+super-hero,3994,48267,4.59
+super-hero,2985,48267,3.7
+super-hero,2571,48267,3.55
+super-hero,58839,48267,1.01
+super-hero,58559,48267,4.99
+super-hero,58559,48267,4.99
+super-hero,4011,48267,1.01
+super-hero,508,48267,1.28
+superhero,60684,104610,4.18
+superhero,58559,104610,4.62
+superhero,44191,104610,3.29
+superhero,33794,104610,4.68
+superhero,32587,104610,3.03
+superhero,31696,104610,2.84
+superhero,8961,104610,3.45
+superhero,6541,104610,3.43
+superhero,3793,104610,4.79
+superhero,3793,104610,4.79
+superhero,2641,104610,4.4
+superhero,153,104610,4.59
+superhero,153,104610,4.59
+superhero,59900,104610,4.97
+superhero,59022,104610,1.01
+superhero,47997,104610,1.53
+superhero,45447,104610,1.54
+superhero,8784,104610,1.02
+superhero,5313,104610,1.55
+superhero,5313,104610,1.55
+superhero,5299,104610,1.02
+superhero,4121,104610,1.38
+superhero,3539,104610,1.01
+superhero,2405,104610,1.26
+superhero,1735,104610,2.91
+superhero,32,104610,1.01
+superheroes,33794,36828,4.01
+superheroes,367,36828,3.44
+superheroes,353,36828,3.04
+supernatural,2329,26941,1.64
+suprisingly clever,2819,69459,4.66
+surfing,58998,58498,1.83
+surfing,53460,58498,4.41
+surfing,4351,58498,4.81
+surfing,4140,58498,4.98
+surfing,3653,58498,4.99
+surfing,71264,58498,2.77
+surfing,5025,58498,2.83
+surfing,1193,58498,1.01
+surprise ending,1234,44944,4.01
+surprise ending,50,44944,4.17
+surprise ending,70286,44944,2.87
+surreal,48082,80402,4.99
+surreal,4973,80402,3.5
+surreal,4878,80402,4.05
+surreal,4226,80402,3.09
+surreal,2594,80402,4.53
+surreal,2232,80402,3.51
+surreal,2076,80402,3.7
+surreal,1732,80402,3.41
+surreal,1206,80402,4.58
+surreal,1073,80402,3.68
+surreal,55276,80402,4.97
+surreal,30810,80402,2.84
+surreal,8981,80402,1.42
+surreal,7706,80402,3.34
+surreal,6377,80402,1.23
+surreal,6102,80402,1.02
+surreal,5971,80402,3.07
+surreal,4713,80402,4.77
+surreal,4308,80402,4.7
+surreal,4235,80402,2.16
+surreal,3527,80402,1.99
+surreal,3168,80402,1.0
+surreal,1580,80402,2.73
+surreal,1304,80402,3.06
+surreal,1080,80402,3.21
+surreal,379,80402,1.02
+surreal,344,80402,1.47
+surrealism,6807,54190,4.02
+surrealism,2858,54190,2.44
+surrealism,2858,54190,2.44
+surrealism,47610,54190,1.08
+surrealism,46976,54190,4.11
+surrealism,3160,54190,2.78
+surrealism,2162,54190,2.25
+surveillance,2353,26054,4.35
+surveillance,2117,26054,4.88
+surveillance,54286,26054,4.4
+surveillance,1240,26054,2.04
+surveillance,377,26054,2.44
+survival,5995,100429,3.9
+survival,318,100429,2.76
+survival,40414,100429,2.97
+survival,2529,100429,4.6
+survival,2412,100429,1.02
+survival,17,100429,1.11
+suspense,2208,20910,4.41
+suspense,1610,20910,4.09
+suspense,457,20910,3.87
+suspense,67087,20910,1.13
+suspense,60037,20910,4.13
+suspense,58559,20910,4.04
+suspense,55276,20910,1.04
+suspense,8369,20910,1.87
+suspense,6773,20910,2.92
+suspense,2571,20910,4.47
+suspense,1345,20910,4.96
+suspense,745,20910,1.29
+suspense,434,20910,3.25
+suspense,17,20910,1.41
+suspenseful,904,73592,3.26
+suspenseful,2580,73592,3.35
+suspenseful,377,73592,4.34
+swashbuckler,53125,106969,4.41
+swedish,61240,46182,1.01
+swedish,1300,46182,1.01
+swedish,1237,46182,1.01
+swedish,6300,46182,1.01
+switching places,54272,77313,1.22
+switching places,7153,77313,2.97
+switching places,858,77313,2.05
+sword fight,6936,38923,1.07
+sword fighting,1587,100321,4.29
+sword fighting,110,100321,1.39
+talking animals,1911,96819,4.93
+talking animals,5690,96819,1.68
+talking animals,2987,96819,4.0
+talky,6539,25087,2.85
+tarantino,1729,107811,3.66
+tarantino,296,107811,4.23
+tarantino,26172,107811,1.01
+tarantino,288,107811,2.33
+teacher,3071,104039,4.46
+teacher,7154,104039,4.03
+tear jerker,356,3052,3.09
+technology,59315,91165,4.05
+teen,3825,6354,3.86
+teen,3253,6354,3.93
+teen,55276,6354,2.49
+teen,7444,6354,4.76
+teen,6188,6354,4.63
+teen movie,4700,35105,3.18
+teenager,45880,108793,1.95
+teenager,3363,108793,3.91
+teenager,1127,108793,1.13
+teenager,924,108793,1.11
+teenager,474,108793,1.04
+teenagers,2580,13703,2.63
+teenagers,3363,13703,3.94
+teens,2918,45745,4.11
+teens,53894,45745,2.77
+teens,4718,45745,4.57
+teens,1197,45745,3.01
+teleportation,48780,11179,3.77
+teleportation,1732,11179,1.11
+tense,593,17194,4.46
+tense,6242,17194,4.53
+tense,3578,17194,3.19
+tense,2706,17194,1.16
+terminal illness,5954,33663,1.36
+terminal illness,3703,33663,1.31
+terrorism,5468,79343,1.0
+terrorism,2262,79343,1.0
+terrorism,1982,79343,1.0
+terrorism,1518,79343,4.23
+terrorism,1343,79343,3.31
+terrorism,1198,79343,1.0
+terrorism,918,79343,1.0
+thought-provoking,48043,107643,3.66
+thought-provoking,7361,107643,3.6
+thought-provoking,3949,107643,4.03
+thought-provoking,2959,107643,4.21
+thought-provoking,2692,107643,4.06
+thought-provoking,2571,107643,2.57
+thought-provoking,1199,107643,3.0
+thought-provoking,57669,107643,1.03
+thought-provoking,54780,107643,4.94
+thought-provoking,48780,107643,3.51
+thought-provoking,6870,107643,4.13
+thought-provoking,3686,107643,3.25
+thought-provoking,2987,107643,1.5
+thought-provoking,2918,107643,1.02
+thought-provoking,2064,107643,3.88
+thought-provoking,1921,107643,4.72
+thought-provoking,1595,107643,1.02
+thought-provoking,1593,107643,4.08
+thought-provoking,1580,107643,2.68
+thought-provoking,1225,107643,4.12
+thought-provoking,1222,107643,3.67
+thought-provoking,417,107643,1.89
+thought-provoking,216,107643,1.97
+thought-provoking,70,107643,2.08
+thriller,8957,28134,2.23
+thriller,8957,28134,2.23
+thriller,1089,28134,4.75
+thriller,733,28134,3.75
+thriller,593,28134,4.14
+thriller,480,28134,4.01
+thriller,293,28134,4.05
+thriller,47,28134,4.62
+thriller,69306,28134,2.57
+thriller,60293,28134,1.06
+thriller,57669,28134,4.51
+thriller,48394,28134,3.79
+thriller,45186,28134,3.39
+thriller,40583,28134,3.81
+thriller,31162,28134,1.82
+thriller,26462,28134,2.62
+thriller,6711,28134,1.47
+thriller,3798,28134,3.84
+thriller,2729,28134,1.84
+thriller,1387,28134,4.93
+thriller,372,28134,1.7
+thriller,95,28134,2.82
+time,2791,103723,1.57
+time,1965,103723,1.11
+time loop,4878,75788,4.0
+time loop,4226,75788,4.54
+time loop,32,75788,4.17
+time travel,49278,89267,3.19
+time travel,48043,89267,2.29
+time travel,45668,89267,2.91
+time travel,26887,89267,1.29
+time travel,8368,89267,2.48
+time travel,6537,89267,3.81
+time travel,5445,89267,2.41
+time travel,5445,89267,2.41
+time travel,5445,89267,2.41
+time travel,5264,89267,3.7
+time travel,2012,89267,4.99
+time travel,2012,89267,4.99
+time travel,1779,89267,2.11
+time travel,1270,89267,4.88
+time travel,589,89267,3.9
+time travel,316,89267,1.4
+time travel,32,89267,4.99
+time travel,1,89267,1.14
+time travel,64957,89267,2.7
+time travel,59985,89267,1.02
+time travel,53972,89267,1.25
+time travel,5900,89267,1.15
+time travel,2959,89267,1.25
+time travel,2672,89267,2.95
+time travel,2470,89267,1.0
+time travel,2470,89267,1.0
+time travel,1020,89267,1.0
+tokyo,1274,86379,4.92
+tokyo,648,86379,1.06
+tolkien,4896,51224,2.64
+tolkien,2706,51224,1.27
+too long,5952,97448,1.51
+too long,110,97448,1.93
+too long,71254,97448,3.28
+too long,48394,97448,1.27
+too long,35836,97448,2.24
+too long,8961,97448,1.39
+too long,7022,97448,1.06
+too long,4022,97448,2.75
+too long,3265,97448,3.26
+too long,2858,97448,1.04
+too long,1285,97448,1.01
+too long,916,97448,1.55
+too long,180,97448,1.1
+torture,1089,63325,4.91
+torture,780,63325,1.75
+toys,3114,18006,4.28
+toys,6377,18006,4.5
+toys,2011,18006,1.37
+tragedy,48394,2496,2.43
+tragedy,8950,2496,4.82
+tragedy,8784,2496,2.5
+tragedy,2028,2496,3.87
+tragedy,1921,2496,3.56
+tragedy,1249,2496,3.86
+tragedy,597,2496,1.08
+train,60647,24478,4.97
+train,8879,24478,4.61
+train,6971,24478,4.97
+train,2186,24478,4.96
+train,1148,24478,1.01
+trains,4002,47339,2.09
+trains,1267,47339,1.11
+trains,364,47339,1.05
+transgender,1192,94703,4.77
+transgender,3535,94703,1.03
+transgender,1046,94703,3.11
+travel,5225,29276,1.06
+travel,2011,29276,1.37
+travel,1198,29276,2.73
+treasure hunt,6539,76795,4.8
+true story,33660,74881,3.88
+true story,30749,74881,4.94
+true story,30749,74881,4.94
+true story,5995,74881,2.9
+true story,5995,74881,2.9
+true story,1693,74881,4.6
+true story,1357,74881,3.58
+true story,318,74881,2.72
+true story,318,74881,2.72
+true story,36,74881,4.59
+true story,6237,74881,4.66
+true story,5541,74881,1.01
+true story,4310,74881,2.77
+true story,4223,74881,3.85
+true story,3994,74881,1.01
+true story,3360,74881,3.91
+true story,2745,74881,1.83
+true story,2160,74881,1.02
+true story,1213,74881,2.9
+true story,590,74881,2.05
+true story,163,74881,1.01
+true story,110,74881,2.92
+truman capote,6852,64341,1.0
+truman capote,7478,64341,1.0
+twist,48780,45055,1.96
+twist,4848,45055,4.65
+twist,33615,45055,2.35
+twist,6708,45055,2.25
+twist,2594,45055,4.67
+twist,589,45055,1.73
+twist ending,27788,45285,1.82
+twist ending,8957,45285,4.07
+twist ending,8957,45285,4.07
+twist ending,4499,45285,1.96
+twist ending,4226,45285,4.07
+twist ending,3044,45285,4.72
+twist ending,2997,45285,3.13
+twist ending,2762,45285,4.37
+twist ending,2707,45285,4.38
+twist ending,1617,45285,3.12
+twist ending,50,45285,4.56
+twist ending,47,45285,4.45
+twist ending,56003,45285,4.39
+twist ending,41566,45285,1.86
+twist ending,30898,45285,3.01
+twist ending,7361,45285,3.05
+twist ending,5902,45285,4.39
+twist ending,2686,45285,4.14
+twist ending,2058,45285,3.64
+twist ending,1641,45285,2.75
+twist ending,1407,45285,3.79
+twist ending,1035,45285,3.2
+twist ending,973,45285,1.1
+twist ending,593,45285,3.89
+twists & turns,47,54491,4.44
+twists & turns,4975,54491,4.61
+twists & turns,1625,54491,4.36
+undercover cop,70159,61826,1.88
+undercover cop,31420,61826,3.19
+underdog,2420,37589,4.21
+underdog,2420,37589,4.21
+underdog,56788,37589,3.15
+underdog,3408,37589,4.53
+underrated,1589,6498,1.77
+underrated,1320,6498,1.78
+underrated,1320,6498,1.78
+underrated,6502,6498,3.24
+underrated,1590,6498,3.57
+underrated,1500,6498,3.08
+underrated,1125,6498,2.59
+underrated,1059,6498,1.88
+understated,2762,57160,2.64
+understated,4975,57160,2.65
+underwater,8917,97429,1.14
+underwater,2722,97429,1.53
+unintentionally funny,8914,32963,1.05
+unintentionally funny,5419,32963,1.04
+unintentionally funny,2013,32963,1.04
+united nations,30749,48473,4.28
+united nations,6016,48473,1.03
+united nations,5817,48473,3.63
+unlikely friendships,1610,9083,1.71
+unlikely friendships,1299,9083,4.11
+unrealistic,1210,103062,1.33
+unusual plot structure,318,52273,2.28
+unusual plot structure,50,52273,3.93
+utopia,442,82326,2.21
+utopia,52328,82326,1.34
+utopia,31410,82326,2.85
+utopia,6305,82326,4.78
+utopia,2081,82326,3.11
+utopia,1676,82326,3.01
+vampire,6541,49682,1.03
+vampire,5146,49682,3.98
+vampire,4128,49682,3.66
+vampire,3264,49682,5.0
+vampire,3264,49682,5.0
+vampire,55052,49682,1.01
+vampire,50796,49682,1.84
+vampire,30846,49682,1.0
+vampire,26606,49682,3.28
+vampire,8950,49682,1.0
+vampire,5902,49682,1.0
+vampire,3994,49682,1.03
+vampire,1644,49682,1.67
+vampire,1644,49682,1.67
+vampire,1603,49682,1.0
+vampire,1208,49682,1.0
+vampire,237,49682,1.0
+vampire human love,63992,104946,1.01
+vampire human love,63992,104946,1.01
+vampire human love,25738,104946,1.01
+vampires,7454,93019,3.68
+vampires,7454,93019,3.68
+vampires,4343,93019,1.67
+vampires,4128,93019,3.0
+vampires,1339,93019,3.66
+vampires,253,93019,4.99
+vampires,56174,93019,1.74
+vampires,56174,93019,1.74
+vampires,2953,93019,1.0
+vampires,185,93019,1.0
+very funny,8605,69525,3.98
+very funny,1784,69525,4.11
+very good,50,27305,3.58
+very good,50,27305,3.58
+video game,8371,62664,3.3
+video game,6934,62664,3.03
+video game adaptation,4367,49956,4.88
+video game adaptation,51077,49956,1.02
+video games,58559,73884,1.94
+video games,5650,73884,1.03
+video games,4367,73884,4.75
+videogame,6541,86463,2.04
+vienna,1225,94530,3.99
+vienna,249,94530,3.73
+vietnam,5060,107212,3.76
+vietnam,4391,107212,3.74
+vietnam,5782,107212,1.8
+vietnam,4577,107212,4.38
+vietnam,3386,107212,2.07
+vietnam,3147,107212,1.01
+vietnam,1732,107212,1.24
+vietnam,1097,107212,1.01
+vietnam war,1263,74745,4.93
+vietnam war,1222,74745,4.96
+vietnam war,356,74745,4.75
+vietnam war,56788,74745,1.18
+vietnam war,904,74745,1.01
+vietnam war,111,74745,3.05
+vietnam war,111,74745,3.05
+vietnam war,111,74745,3.05
+vietnam war,111,74745,3.05
+view askew,1639,26870,3.84
+vigilante,44191,69272,3.77
+vigilante,6283,69272,1.85
+vigilantism,33794,78683,4.81
+violence,58559,71336,4.04
+violence,57669,71336,4.96
+violence,52281,71336,4.88
+violence,7438,71336,4.9
+violence,6502,71336,4.16
+violence,2959,71336,4.97
+violence,2959,71336,4.97
+violence,2858,71336,2.87
+violence,2401,71336,3.1
+violence,1500,71336,3.06
+violence,1136,71336,1.75
+violence,1089,71336,4.89
+violence,527,71336,3.55
+violence,70,71336,4.69
+violence,5390,71336,2.57
+violence,3977,71336,1.51
+violence,2951,71336,3.83
+violence,1217,71336,4.23
+violence,1217,71336,4.23
+violence,1088,71336,1.42
+violence,801,71336,1.07
+violence,377,71336,3.12
+violent,32587,55171,4.41
+violent,7438,55171,4.39
+violent,6874,55171,4.56
+violent,6874,55171,4.56
+violent,5956,55171,3.91
+violent,3578,55171,2.82
+violent,1213,55171,4.75
+violent,110,55171,3.76
+violent,6,55171,4.02
+violent,8957,55171,4.32
+violent,5621,55171,1.33
+violent,4085,55171,2.72
+violent,3744,55171,3.77
+violent,1275,55171,1.81
+violent,750,55171,3.18
+violent,318,55171,2.66
+virtual reality,72998,103360,3.23
+virtual reality,6365,103360,4.74
+virtual reality,2916,103360,3.24
+virtual reality,2105,103360,4.08
+virtual reality,55820,103360,2.69
+virtual reality,27728,103360,4.44
+virtual reality,6287,103360,1.01
+virtual reality,5679,103360,1.79
+virtual reality,4370,103360,3.66
+virtual reality,4370,103360,3.66
+virtual reality,1625,103360,2.4
+virtual reality,1625,103360,2.4
+virtual reality,1252,103360,1.88
+virus,56251,77793,1.01
+virus,56251,77793,1.01
+virus,586,77793,1.02
+visceral,6287,54064,2.35
+visceral,1222,54064,3.98
+visceral,678,54064,4.61
+visceral,593,54064,3.18
+visual,72998,12463,4.78
+visual,72998,12463,4.78
+visual,3052,12463,1.38
+visual,1243,12463,1.17
+visually appealing,1625,53302,2.8
+visuals,32587,46912,2.75
+visuals,8014,46912,4.19
+voodoo,2338,6937,1.06
+voodoo,1265,6937,1.04
+voyeurism,1682,74972,4.22
+voyeurism,1186,74972,3.63
+voyeurism,904,74972,4.16
+voyeurism,904,74972,4.16
+voyeurism,60069,74972,1.02
+war,69481,1992,4.46
+war,33493,1992,2.99
+war,27905,1992,3.14
+war,7458,1992,4.46
+war,7153,1992,3.59
+war,5995,1992,2.46
+war,5378,1992,2.51
+war,2402,1992,4.75
+war,1201,1992,1.88
+war,590,1992,2.46
+war,527,1992,4.64
+war,527,1992,4.64
+war,260,1992,2.76
+war,260,1992,2.76
+war,64957,1992,1.02
+war,47997,1992,1.86
+war,44665,1992,1.38
+war,33794,1992,1.76
+war,6934,1992,2.57
+war,6668,1992,1.48
+war,6250,1992,1.04
+war,5265,1992,1.12
+war,3703,1992,3.16
+war,3147,1992,2.09
+war,3032,1992,1.82
+war,1963,1992,2.94
+war,1633,1992,2.84
+war,1212,1992,2.7
+war,1188,1992,1.0
+war,608,1992,1.52
+war,440,1992,1.0
+war,19,1992,1.0
+war,10,1992,2.31
+watch the credits,216,28314,2.62
+weapons,1676,24698,4.85
+wedding,53464,61242,2.1
+wedding,6586,61242,3.34
+wedding,357,61242,4.65
+wedding,30825,61242,2.83
+weird,5618,22014,4.67
+weird,4975,22014,3.0
+weird,33794,22014,1.98
+weird,7361,22014,4.86
+weird,5833,22014,4.82
+weird,235,22014,4.9
+werewolf,40815,84031,3.37
+werewolf,27904,84031,1.02
+werewolf,8623,84031,1.32
+werewolf,3893,84031,3.19
+western,4855,16158,1.07
+western,3671,16158,4.33
+western,1304,16158,4.14
+western,47200,16158,1.0
+western,31737,16158,1.06
+western,30749,16158,1.0
+western,5991,16158,1.59
+western,4918,16158,1.0
+western,3873,16158,4.2
+western,3624,16158,3.97
+western,3578,16158,1.0
+western,1178,16158,1.0
+western,163,16158,3.95
+whimsical,5618,64302,3.06
+whimsical,4928,64302,3.62
+whimsical,48738,64302,2.03
+whimsical,8784,64302,2.97
+whimsical,2918,64302,4.08
+whimsical,2414,64302,2.92
+whimsical,2395,64302,4.01
+whimsical,1077,64302,3.89
+wilderness,3470,76178,4.25
+wine,8949,69037,1.03
+wine,7183,69037,1.03
+wine,203,69037,1.02
+wistful,3265,21937,1.1
+wistful,58,21937,2.87
+witches,54259,64910,4.65
+witches,5618,64910,4.79
+witches,1031,64910,3.7
+witches,3793,64910,1.1
+witty,3949,6859,4.18
+wizards,7083,40924,1.03
+women,1136,45275,2.09
+working class,1041,28952,3.93
+world politics,2470,98044,1.33
+world politics,1233,98044,1.93
+world politics,527,98044,3.96
+world war i,1233,85640,1.02
+world war ii,55253,34535,3.89
+world war ii,50068,34535,4.73
+world war ii,5995,34535,4.75
+world war ii,3062,34535,4.7
+world war ii,2944,34535,4.25
+world war ii,2028,34535,4.95
+world war ii,2028,34535,4.95
+world war ii,1960,34535,2.64
+world war ii,1250,34535,4.69
+world war ii,527,34535,4.53
+world war ii,8368,34535,1.01
+world war ii,7373,34535,2.6
+world war ii,5452,34535,1.2
+world war ii,4621,34535,1.04
+world war ii,4039,34535,1.02
+world war ii,2816,34535,2.71
+world war ii,2706,34535,1.26
+world war ii,2208,34535,1.39
+world war ii,1092,34535,1.4
+world war ii,969,34535,4.86
+world war ii,457,34535,1.26
+wuxia,5971,58892,1.08
+wuxia,317,58892,1.1
+wwii,68157,22396,4.99
+wwii,6428,22396,1.0
+wwii,1298,22396,2.45
+wwii,1096,22396,4.17
+wwii,1,22396,1.01
+zombie,6539,70132,2.23
+zombie,6539,70132,2.23
+zombie,51255,70132,1.44
+zombies,53000,45128,3.22
+zombies,52281,45128,3.87
+zombies,6502,45128,4.95
+zombies,6502,45128,4.95
+zombies,5679,45128,1.52
+zombies,59784,45128,1.0
+zombies,59392,45128,1.0
+zombies,51255,45128,1.71
+zombies,5618,45128,3.98
+zombies,2606,45128,4.19
+zombies,2149,45128,1.18
