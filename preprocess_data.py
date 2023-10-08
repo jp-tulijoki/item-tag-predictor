@@ -1,47 +1,47 @@
 import json
 import pandas as pd
-import random
 import os
 import warnings
 warnings.filterwarnings('ignore')
 
 review_path = 'movie_dataset_public_final/raw/reviews.json'
 tag_path = 'movie_dataset_public_final/raw/tags.json'
-survey_path = 'movie_dataset_public_final/raw/survey_answers.json'
 
-def get_reviews(score_df):
+def get_reviews(items):
     with open(review_path) as file:
         reviews = []
-        reviews_per_item_train = {}
-        reviews_per_item_test = {}
-        items_to_take = score_df["item_id"].to_list()
         for line in file:
             json_dict = json.loads(line)
             id = json_dict["item_id"]
-            if id not in items_to_take:
+            if id not in items:
                 continue
             json_dict["txt"] = json_dict["txt"].replace('\r', '').replace('\t', ' ')
             reviews.append(json_dict)
-        random.shuffle(reviews)    
-        sampled_train = []
-        sampled_test = []               
-        for review in reviews:
-            id = review["item_id"]
-            if id in reviews_per_item_test.keys():
-                if reviews_per_item_train[id] < 50:
-                    if reviews_per_item_test[id] * 9 < reviews_per_item_train[id]:
-                        reviews_per_item_test[id] = reviews_per_item_test[id] + 1
-                        sampled_test.append(review)
-                    else:
-                        reviews_per_item_train[id] = reviews_per_item_train[id] + 1
-                        sampled_train.append(review)    
-            else:
-                reviews_per_item_test[id] = 1
-                reviews_per_item_train[id] = 0
-                sampled_test.append(review)
-        train_reviews = pd.DataFrame.from_records(sampled_train)
-        test_reviews = pd.DataFrame.from_records(sampled_test)        
-        return train_reviews, test_reviews       
+        return pd.DataFrame.from_records(reviews).drop_duplicates(subset=["txt"])
+
+def get_data(train_scores, test_scores, reviews, tenfold):
+    train_reviews = pd.DataFrame(columns=["item_id", "txt"])
+    test_reviews = pd.DataFrame(columns=["item_id", "txt"])
+    items = pd.concat([train_scores, test_scores])["item_id"].unique().tolist()
+    test_items = test_scores["item_id"].unique().tolist()
+    for item_id in items:
+        reviews_for_item = reviews[reviews["item_id"] == item_id]
+        fraction = 50 / reviews_for_item.shape[0] if reviews_for_item.shape[0] > 50 else 1
+        sampled = reviews_for_item.sample(frac = fraction)
+        sampled_test = sampled.sample(frac = 0.1)
+        if sampled_test.shape[0] == 0 and item_id in test_items:
+            sampled_test = sampled.sample(frac = 1 / sampled.shape[0])
+        sampled_train = sampled.drop(sampled_test.index)
+        train_reviews = pd.concat([train_reviews, sampled_train])
+        test_reviews = pd.concat([test_reviews, sampled_test])
+    train_data = pd.merge(train_reviews, train_scores, left_on='item_id', right_on='item_id', how='left')
+    test_data = pd.merge(test_reviews, test_scores, left_on='item_id', right_on='item_id', how='left')
+    assert test_items.sort() == test_data["item_id"].unique().tolist().sort() # assert test data has at least one review per item 
+    assert pd.merge(train_reviews, test_reviews, on="txt", how="inner").empty # assert train and test reviews are separate
+    train_data["targets"] = (train_data["targets"] - 1) / 4 # convert item-tag scores to scale [0,1]
+    test_data["targets"] = (test_data["targets"] - 1) / 4 
+    train_data.to_csv(f"reviews/{tenfold}/train_data_tag_id_{tag_id}.csv", index=False)
+    test_data.to_csv(f"reviews/{tenfold}/test_data_tag_id_{tag_id}.csv", index=False)  
 
 def get_tags():
     with open(tag_path) as file:
@@ -51,69 +51,36 @@ def get_tags():
             json_dict = json.loads(line)
             tag_dict[json_dict["tag"]] = json_dict["id"]
             tag_index.append(json_dict["id"])      
-        return tag_dict, tag_index
-    
-def get_selected_items(TAG_NO):
-    with open(survey_path) as file:
-        selected_items = []
-    with open(survey_path) as file:
-        for line in file:
-            answer_dict = json.loads(line)
-            item_id = answer_dict["item_id"]
-            tag_id = answer_dict["tag_id"]
-            if tag_id == TAG_NO and item_id not in selected_items:
-                selected_items.append(item_id)
-    return selected_items                          
+        return tag_dict, tag_index                  
 
-def get_item_tag_scores(TAG_NO, TAG_ID):
-    item_tag_dict = {}
-    with open(survey_path) as file:
-        for line in file:
-            answer_dict = json.loads(line)
-            item_id = answer_dict["item_id"]
-            score = answer_dict["score"]
-            tag_id = answer_dict["tag_id"]
-            if score != -1 and tag_id == TAG_ID:
-                if item_id not in item_tag_dict:
-                    item_tag_dict[item_id] = {tag_id: {"cumulative_score": score, "scores_total": 1}}
-                    continue
-                tag_dict = item_tag_dict[item_id]
-                if tag_id not in tag_dict:
-                    tag_dict[tag_id] = {"cumulative_score": score, "scores_total": 1}
-                else:
-                    tag_dict[tag_id] = {"cumulative_score": score + tag_dict[tag_id]["cumulative_score"], "scores_total": tag_dict[tag_id]["scores_total"] + 1}  
-    df = pd.DataFrame(columns=['item_id', 'tag_score'])
-    for item in item_tag_dict:
-        for tag in item_tag_dict[item]:
-            scores = item_tag_dict[item][tag]["cumulative_score"]
-            total = item_tag_dict[item][tag]["scores_total"]
-            tag_score = (scores - total) / (total * 4) 
-        df = df.append({'item_id': item, 'tag_score': tag_score}, ignore_index=True)
-    df["item_id"] = df["item_id"].astype(int)        
-    df.to_csv(f'scores/item_tag_scores_no_{TAG_NO}_id_{TAG_ID}.csv', index=False)                
-    return df
+def get_item_tag_scores(tag, tenfold):
+    train_scores = train[train["tag"] == tag][["tag", "item_id", "targets"]].groupby(["tag", "item_id"]).mean().reset_index()
+    test_scores = test[test["tag"] == tag][["tag", "item_id", "targets"]].groupby(["tag", "item_id"]).mean().reset_index()
+    return train_scores, test_scores
 
 tags, tag_index = get_tags()
 
-for i in range(len(tag_index)):
-    print(f"processing tag no {i} with id {tag_index[i]}")
-    score_df = get_item_tag_scores(i, tag_index[i]) 
-    if score_df.empty:
-        continue   
-    train_reviews, test_reviews = get_reviews(score_df)
-    train_data = pd.merge(train_reviews, score_df, left_on='item_id', right_on='item_id', how='left')
-    test_data = pd.merge(test_reviews, score_df, left_on='item_id', right_on='item_id', how='left')
-    train_data.to_csv(f'reviews/train_data_tag_no_{i}_id_{tag_index[i]}.csv', index=False)
-    test_data.to_csv(f'reviews/test_data_tag_no_{i}_id_{tag_index[i]}.csv', index=False)
+for tenfold in range(10):
+    train = pd.read_csv(f"movie_dataset_public_final/processed/10folds/train{tenfold}.csv")
+    test = pd.read_csv(f"movie_dataset_public_final/processed/10folds/test{tenfold}.csv").rename(columns={"movieId": "item_id"})
+    test_tags = test["tag"].unique().tolist()
+    items = pd.concat([train, test])["item_id"].unique().astype("int32").tolist()
+    reviews = get_reviews(items)
 
-review_list = sorted(list(filter(lambda r: "test" in r, os.listdir("reviews"))))
+    for tag in test_tags:
+        tag_id = tags[tag]
+        print(f"processing tenfold {tenfold} tag {tag}")
+        train_scores, test_scores = get_item_tag_scores(tag, tenfold)
+        get_data(test_scores, test_scores, reviews, tenfold)
 
-score_list = sorted(os.listdir("scores"))
+    review_list = sorted(list(filter(lambda r: "test" in r, os.listdir(f"reviews/{tenfold}"))))
 
-with open("review_list.txt", "w") as file:
-    for review in review_list:
-        file.write(f"{review}\n")
-        
-with open("score_list.txt", "w") as file:
-    for score in score_list:
-        file.write(f"{score}\n")         
+    score_list = sorted(os.listdir(f"scores/{tenfold}"))
+
+    with open(f"review_list{tenfold}.txt", "w") as file:
+        for review in review_list:
+            file.write(f"{review}\n")
+            
+    with open(f"score_list{tenfold}.txt", "w") as file:
+        for score in score_list:
+            file.write(f"{score}\n")         

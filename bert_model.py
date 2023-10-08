@@ -16,6 +16,7 @@ TRAIN_BATCH_SIZE = 8
 TEST_BATCH_SIZE = 8
 EPOCHS = 3
 LEARNING_RATE = 1e-05
+TENFOLD = 1
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
 class CustomDataset(Dataset):
@@ -23,9 +24,9 @@ class CustomDataset(Dataset):
     def __init__(self, dataframe, tokenizer, max_len):
         self.tokenizer = tokenizer
         self.data = dataframe
-        self.item_ids = dataframe["item_id"]
+        self.item_ids = dataframe.item_id
         self.text = dataframe.txt
-        self.targets = dataframe.tag_score
+        self.targets = dataframe.targets
         self.max_len = max_len
 
     def __len__(self):
@@ -89,7 +90,7 @@ def train(epoch):
         optimizer.step()
     print(f'Epoch: {epoch}: Train loss: {epoch_loss / len(training_loader)}')
 
-def test(tag_no, ending):
+def test(file_ending, TENFOLD):
     model.eval()
     with torch.no_grad():
         output_df = pd.DataFrame(columns=['item_id', 'predictions'])
@@ -100,24 +101,23 @@ def test(tag_no, ending):
             outputs = model(ids, mask, token_type_ids).to(device, dtype = torch.float)
             batch_df = pd.DataFrame({'item_id': data['item_ids'].tolist(), 'predictions': outputs.tolist()})
             output_df = pd.concat([output_df, batch_df])
-        output_df.to_csv(f'predictions/predictions_tagno_{tag_no}_tagid_{ending}', index=False)
+        output_df.to_csv(f'predictions{TENFOLD}/predictions{TENFOLD}_tagid_{file_ending}', index=False)
 
-with open ("review_list.txt", "r") as file:
+with open (f"review_list{TENFOLD}.txt", "r") as file:
     review_list = file.read().split("\n")[:-1]
 
 for i in range(len(review_list)):
-    print(i)
+    print(f"tenfold {TENFOLD} file {i}")
     test_file = review_list[i]
     train_file = test_file.replace("test", "train")
-    tag_no = test_file.split("_")[4]
-    ending = test_file.split("_")[6]
+    file_ending = test_file.split("_")[4]
     print(test_file)
 
-    test_data = pd.read_csv(f"reviews/{test_file}")
-    test_data.tag_score = test_data.tag_score.map(lambda r: np.array([r]))
+    test_data = pd.read_csv(f"reviews/{TENFOLD}/{test_file}")
+    test_data.targets = test_data.targets.map(lambda r: np.array([r]))
     print("test shape:", test_data.shape)
-    train_data = pd.read_csv(f"reviews/{train_file}")
-    train_data.tag_score = train_data.tag_score.map(lambda r: np.array([r]))
+    train_data = pd.read_csv(f"reviews/{TENFOLD}/{train_file}")
+    train_data.targets = train_data.targets.map(lambda r: np.array([r]))
     print("train shape:", train_data.shape)
 
     training_set = CustomDataset(train_data, tokenizer, MAX_LEN)
@@ -141,5 +141,5 @@ for i in range(len(review_list)):
 
     for epoch in range(EPOCHS):
         train(epoch)
-    test(tag_no, ending)
+    test(file_ending, TENFOLD)
 

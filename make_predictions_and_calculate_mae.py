@@ -18,8 +18,8 @@ def get_tags():
             tag_dict[json_dict["id"]] = json_dict["tag"]  
         return tag_dict
     
-def create_item_tag_scores_predictions(prediction_file, tags):
-    prediction_df = pd.read_csv(f"predictions/{prediction_file}")
+def create_item_tag_scores_predictions(prediction_file, tags, tenfold):
+    prediction_df = pd.read_csv(f"predictions{tenfold}/{prediction_file}")
     tag_id = int(prediction_file.split("_")[-1].split(".")[0])
     tag = tags[tag_id]
     item_tag_prediction_df = pd.DataFrame(columns=['item_id', 'tag_id', 'tag', 'predictions'])
@@ -40,28 +40,32 @@ def make_predictions_for_tenfolds(combined_prediction_df, tenfold):
 
 def calculate_mae(predictions, test, i):
     evaluation = pd.merge(test, predictions, on=["tag", "item_id"], how="left")
+    if evaluation.predictions.isna().any():
+        print(f"filling {evaluation.predictions.isna().sum()} values with mean prediction")
+        evaluation.predictions = evaluation.predictions.fillna(evaluation.predictions.mean())
     evaluation["error"] = evaluation.targets - evaluation.predictions
     mae = mean_absolute_error(evaluation.targets, evaluation.predictions)
     assert mae == evaluation["error"].abs().sum() / len(evaluation)
-    print(f"MAE for set {i}: {mae}")           
+    print(f"MAE for set {i}: {mae}")         
 
-def make_combined_prediction_df():
-    prediction_files = sorted(os.listdir("predictions"))
+def make_combined_prediction_df(tenfold):
+    prediction_files = sorted(os.listdir(f"predictions{tenfold}"))
     combined_prediction_df = pd.DataFrame(columns=['item_id', 'tag_id', 'predictions'])
     tags = get_tags()
 
     for prediction_file in prediction_files:
-        item_tag_predictions = create_item_tag_scores_predictions(prediction_file, tags)
+        item_tag_predictions = create_item_tag_scores_predictions(prediction_file, tags, tenfold)
         combined_prediction_df = pd.concat([combined_prediction_df, item_tag_predictions], ignore_index=True)
         combined_prediction_df["item_id"].astype('Int64')
-    combined_prediction_df.to_csv("processed_data/merged_predictions/merged_predictions.csv", index=False)
+    combined_prediction_df.to_csv(f"processed_data/merged_predictions/merged_predictions{tenfold}.csv", index=False)
 
-if not PREDICTION_DF_EXISTS:
-    make_combined_prediction_df()
-
-combined_prediction_df = pd.read_csv("processed_data/merged_predictions/merged_predictions.csv")
 
 for i in range(10):
+    if not PREDICTION_DF_EXISTS:
+        make_combined_prediction_df(i)
+
+    combined_prediction_df = pd.read_csv(f"processed_data/merged_predictions/merged_predictions{i}.csv")
     predictions, test = make_predictions_for_tenfolds(combined_prediction_df, i)
     calculate_mae(predictions, test, i)
+    break
 
