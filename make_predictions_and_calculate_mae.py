@@ -67,5 +67,4 @@ for i in range(10):
     combined_prediction_df = pd.read_csv(f"processed_data/merged_predictions/merged_predictions{i}.csv")
     predictions, test = make_predictions_for_tenfolds(combined_prediction_df, i)
     calculate_mae(predictions, test, i)
-    break
 
