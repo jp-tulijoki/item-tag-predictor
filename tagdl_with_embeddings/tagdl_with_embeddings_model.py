@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import torch
 from torch import nn
@@ -17,10 +16,8 @@ LEARNING_RATE = 1e-04
 TENFOLD = 0
 
 class FFNN(nn.Module):
-    # Feel free to add whichever arguments you like here.
     def __init__(self, input_size, hidden_size, activation=nn.ReLU()):
         super(FFNN, self).__init__()
-        # WRITE CODE HERE
         self.linear_1 = nn.Linear(input_size, hidden_size)
         self.activation_1 = activation
         self.linear_2 = nn.Linear(hidden_size, hidden_size)
@@ -31,7 +28,6 @@ class FFNN(nn.Module):
         self.sigmoid = nn.Sigmoid()
 
     def forward(self, x):
-        # WRITE CODE HERE
         x = self.linear_1(x)
         x = self.activation_1(x)
         x = self.linear_2(x)
@@ -85,7 +81,6 @@ def get_one_hot(tag):
 
 tag_dict, tag_index = get_tag_indexing()
 embeddings = pd.read_csv("embeddings.csv")
-#tag_embeddings = pd.read_csv("embeddings_tags.csv")
 train_file = pd.read_csv("train0.csv").rename(columns={"movieId": "item_id"}).groupby(["item_id", "tag"]).mean().reset_index()
 test_file = pd.read_csv("test0.csv").rename(columns={"movieId": "item_id"})
 train_data = pd.merge(embeddings, train_file, on="item_id", how="left").dropna()
