@@ -9,12 +9,19 @@ warnings.filterwarnings('ignore')
 
 device = 'cuda' if cuda.is_available() else 'cpu'
 
-tag_path = 'tags.json'
+tag_path = "/home/tulijoki/Data/Masters/movie_dataset_public_final/raw/tags.json"
 
 BATCH_SIZE = 32
 EPOCHS = 20
 LEARNING_RATE = 1e-04
 TENFOLD = 0
+
+torch.manual_seed(42)
+np.random.seed(42)
+torch.cuda.manual_seed(42)
+torch.cuda.manual_seed_all(42)
+torch.backends.cudnn.deterministic = True
+torch.backends.cudnn.benchmark = False
 
 class FFNN(nn.Module):
     def __init__(self, input_size, hidden_size = 64, activation=nn.ReLU()):
