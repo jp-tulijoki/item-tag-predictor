@@ -51,13 +51,13 @@ for i, combination in enumerate(COMBINATIONS):
 
     tagdl_diff = (TAGDL_MEAN - overall_mae) / TAGDL_MEAN
     
-    alpha = 0.01
+    alpha = 0.05 / 128
     ci = st.t.interval(1 - alpha, len(maes) - 1, loc=overall_mae, scale=st.sem(maes))
     epsilon = (ci[1]-overall_mae)
 
     _, p_value = st.ttest_ind(maes, TAG_DL_MAES, alternative='less')
 
-    results.append({**feature_set, "overall_mae": overall_mae, "ci +/-": epsilon, "tagdl_diff": tagdl_diff, "p-value < \u03B1": p_value < alpha})
+    results.append({**feature_set, "overall_mae": overall_mae, "ci +/-": epsilon, "tagdl_diff": tagdl_diff, "p-value": p_value})
 
 ci = st.t.interval(1 - alpha, len(TAG_DL_MAES) - 1, loc=TAGDL_MEAN, scale=st.sem(TAG_DL_MAES))
 epsilon = (ci[1]-TAGDL_MEAN)
@@ -72,4 +72,4 @@ print(f"average mean: {round(AVERAGE_MEAN, 4)}, +/- {round(epsilon, 4)}")
 result_df = pd.DataFrame(results)
 result_df = result_df.sort_values(by="overall_mae")
 
-result_df.to_csv(f"result_summary_{EMBEDDINGS_MODEL}_stat.csv", index=False)
+result_df.to_csv(f"result_summary_{EMBEDDINGS_MODEL}.csv", index=False)
